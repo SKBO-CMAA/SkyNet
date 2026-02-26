@@ -6,16 +6,82 @@
     "barrio": "La Internacional"
   },
   {
-    "actividad": "Educación Ambientales",
+    "actividad": "Educación Ambiental",
     "fecha": "2026-03-20",
     "localidad": "Engativá",
     "barrio": "Santa María"
+  },
+  {
+    "actividad": "Educación Ambiental",
+    "fecha": "2026-03-25",
+    "localidad": "Engativá",
+    "barrio": "Riviera"
+  },
+  {
+    "actividad": "Sensibilizaciones Ambientales",
+    "fecha": "2026-03-16",
+    "localidad": "Fontibón",
+    "barrio": "Internacional"
   },
   {
     "actividad": "Sensibilizaciones Ambientales",
     "fecha": "2026-03-18",
     "localidad": "Funza",
     "barrio": "San Isidro"
+  },
+  {
+    "actividad": "Sensibilizaciones Ambientales",
+    "fecha": "2026-03-18",
+    "localidad": "Funza",
+    "barrio": "San Ramon"
+  },  
+  {
+    "actividad": "Socialización Grupos Nuevos",
+    "fecha": "2026-03-30",
+    "localidad": "Engativá",
+    "barrio": "Santa María del Lago"
+  },
+  {
+    "actividad": "Socialización Autoridades Locales",
+    "fecha": "2026-03-03",
+    "localidad": "Funza",
+    "barrio": "Concejo Municipal"
+  },
+  {
+    "actividad": "Actividades con Semillero de Investigación 2026",
+    "fecha": "2026-03-05",
+    "localidad": "Fontibón",
+    "barrio": "Veracruz"
+  },
+  {
+    "actividad": "Actividades con Semillero de Investigación 2026",
+    "fecha": "2026-03-20",
+    "localidad": "Fontibón",
+    "barrio": "Cofradia"
+  },
+  {
+    "actividad": "Actividades con Semillero de Investigación 2026",
+    "fecha": "2026-03-17",
+    "localidad": "Funza",
+    "barrio": "El Coclí"
+  },
+  {
+    "actividad": "Actividades con Semillero de Investigación 2026",
+    "fecha": "2026-03-17",
+    "localidad": "Engativá",
+    "barrio": "San Jose de la Granja"
+  },
+  {
+    "actividad": "Actividades con Semillero de Investigación 2026",
+    "fecha": "2026-03-24",
+    "localidad": "Engativá",
+    "barrio": "San Jose de la Granja"
+  },
+  {
+    "actividad": "Visita Buzones",
+    "fecha": "2026-03-27",
+    "localidad": "Funza",
+    "barrio": "Funza"
   },
   {
     "actividad": "Capacitación comunidades - Jardín Botánico de Bogotá",
