@@ -1,2 +1,171 @@
 django 
 aero environment
+
+🧭 PLAN MAESTRO (resumen)
+
+Preparar servidor
+
+Instalar PostgreSQL + PostGIS
+
+Crear usuario seguro
+
+Instalar Django + entorno virtual
+
+Configurar Gunicorn
+
+Configurar Nginx
+
+Configurar firewall
+
+Configurar dominio
+
+Instalar SSL
+
+Backups automáticos
+
+Lo haremos en bloques verificables.
+
+🚀 FASE 1 — Preparar servidor correctamente
+1️⃣ Actualizar sistema
+sudo apt update && sudo apt upgrade -y
+sudo reboot
+
+Conéctate nuevamente.
+
+2️⃣ Crear usuario para el proyecto (NO usar root)
+sudo adduser django
+sudo usermod -aG sudo django
+
+Cerrar sesión y entrar como:
+
+ssh django@IP_PUBLICA
+3️⃣ Instalar paquetes base
+sudo apt install python3-pip python3-venv nginx git build-essential ufw -y
+🔐 FASE 2 — Seguridad básica antes de continuar
+Activar firewall
+sudo ufw allow OpenSSH
+sudo ufw allow 'Nginx Full'
+sudo ufw enable
+
+Ver estado:
+
+sudo ufw status
+
+Debe mostrar:
+
+22 ALLOW
+
+80 ALLOW
+
+443 ALLOW
+
+🐘 FASE 3 — Instalar PostgreSQL + PostGIS (Ubuntu 24.04)
+
+En 24.04 la versión es PostgreSQL 16 normalmente.
+
+Instalar:
+
+sudo apt install postgresql postgresql-contrib postgis postgresql-16-postgis-3 -y
+
+Verificar:
+
+sudo -u postgres psql
+
+Dentro:
+
+SELECT version();
+\q
+🗄️ Crear base de datos con PostGIS
+sudo -u postgres psql
+
+Luego:
+
+CREATE DATABASE empresa_db;
+CREATE USER empresa_user WITH PASSWORD 'password_muy_seguro';
+GRANT ALL PRIVILEGES ON DATABASE empresa_db TO empresa_user;
+\c empresa_db
+CREATE EXTENSION postgis;
+\q
+🛑 IMPORTANTE (seguridad BD)
+
+Editar:
+
+sudo nano /etc/postgresql/16/main/postgresql.conf
+
+Buscar:
+
+listen_addresses = 'localhost'
+
+Debe quedar así.
+No lo pongas en *.
+
+Reiniciar:
+
+sudo systemctl restart postgresql
+📦 FASE 4 — Preparar entorno Django
+
+Entrar como usuario django:
+
+cd ~
+mkdir proyecto
+cd proyecto
+python3 -m venv venv
+source venv/bin/activate
+
+Instalar:
+
+pip install django gunicorn psycopg2-binary
+
+Si usarás GIS:
+
+pip install django
+
+(ya está incluido soporte GIS en Django)
+
+🛠 Crear proyecto
+django-admin startproject config .
+
+Editar config/settings.py:
+
+Cambiar DATABASES:
+
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.contrib.gis.db.backends.postgis',
+        'NAME': 'empresa_db',
+        'USER': 'empresa_user',
+        'PASSWORD': 'password_muy_seguro',
+        'HOST': 'localhost',
+        'PORT': '5432',
+    }
+}
+
+Agregar en INSTALLED_APPS:
+
+'django.contrib.gis',
+🧪 Probar conexión
+python manage.py migrate
+python manage.py createsuperuser
+python manage.py runserver 0.0.0.0:8000
+
+Desde navegador:
+
+http://IP_PUBLICA:8000
+
+⚠ Si no carga → revisamos firewall/router.
+
+🔥 Cuando confirmes que esto funciona
+
+En el siguiente mensaje hacemos:
+
+Gunicorn como servicio
+
+Configuración profesional Nginx
+
+Dominio
+
+SSL automático
+
+Backup automático
+
+Protección adicional
