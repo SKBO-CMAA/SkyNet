@@ -21,6 +21,10 @@ document.addEventListener('DOMContentLoaded', function () {
           document.getElementById('modal-date').innerText = info.event.startStr;
           document.getElementById('modal-localidad').innerText = info.event.extendedProps.localidad;
           document.getElementById('modal-barrio').innerText = info.event.extendedProps.barrio;
+          document.getElementById('modal-direccion').innerText = info.event.extendedProps.direccion;
+          document.getElementById('modal-contacto').innerText = info.event.extendedProps.contacto;
+          document.getElementById('modal-enlace').innerText = info.event.extendedProps.enlace;
+          
 
           document.getElementById('modal').style.display = "block";
         }
