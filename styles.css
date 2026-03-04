@@ -38,6 +38,11 @@ header {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+
+  padding-top: 140px;
+  padding-left: 60px;
+  padding-right: 60px;
+  line-height: 1.6;
   
   margin: 10% auto;
   padding: 20px;
