@@ -28,7 +28,7 @@ document.addEventListener('DOMContentLoaded', function () {
             const salon = info.event.extendedProps.salon || '';
           
             const texto = `
-        La Unidad Administrativa Especial de la Aeronautica Civil, invita a participar, al ${info.event.title} de la localidad de ${info.event.extendedProps.localidad}, 
+        La Unidad Administrativa Especial de la Aeronautica Civil, invita a participar, en ${info.event.title} de la localidad de ${info.event.extendedProps.localidad}, 
         el próximo ${fechaFormateada} de 2026 a las ${hora}, 
         en el ${salon} del barrio ${info.event.extendedProps.barrio}, 
         dirección ${info.event.extendedProps.direccion}.
