@@ -53,6 +53,7 @@ header {
   text-align: justify;
 
   position: relative;
+  max-width: 894px; 
 }
 
 #modal-texto {
