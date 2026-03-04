@@ -21,13 +21,44 @@ document.addEventListener('DOMContentLoaded', function () {
           }
         })),
         eventClick: function(info) {
+            /*
             const fechaObj = new Date(info.event.start);
             const opciones = { day: 'numeric', month: 'long' };
             const fechaFormateada = fechaObj.toLocaleDateString('es-ES', opciones);
             const hora = info.event.extendedProps.hora || '';
+            const salon = info.event.extendedProps.salon || '';*/
+
+            const fechaObj = new Date(info.event.start);
+            const opciones = { day: 'numeric', month: 'long', year: 'numeric' };
+            const fechaFormateada = fechaObj.toLocaleDateString('es-ES', opciones);
+
+            const localidad = info.event.extendedProps.localidad || '';
+            const barrio = info.event.extendedProps.barrio || '';
+            const hora = info.event.extendedProps.hora;
             const salon = info.event.extendedProps.salon || '';
+            const direccion = info.event.extendedProps.direccion;
+            const profesional = info.event.extendedProps.contacto || '';
+
+            // Construcción condicional
+            let texto = `La Unidad Administrativa Especial de la Aeronautica Civil, invita a participar, en ${info.event.title} de la localidad de ${localidad}, el próximo ${fechaFormateada} de 2026`;
+            
+            if (hora) {
+              texto += ` a las ${hora}`;
+            }
+
+            texto += `, en el ${salon} del barrio ${barrio}`;
+  
+            if (direccion) {
+              texto += `, dirección ${direccion}`;
+            }
+
+            texto += `.
+
+Para mayor información comunicarse con la profesional social ${contacto}.
+
+Esperamos contar con su valiosa asistencia.`;
           
-            const texto = `
+            /*const texto = `
         La Unidad Administrativa Especial de la Aeronautica Civil, invita a participar, en ${info.event.title} de la localidad de ${info.event.extendedProps.localidad}, 
         el próximo ${fechaFormateada} de 2026 a las ${hora}, 
         en el ${salon} del barrio ${info.event.extendedProps.barrio}, 
@@ -36,10 +67,11 @@ document.addEventListener('DOMContentLoaded', function () {
         Para mayor información comunicarse con la profesional social ${info.event.extendedProps.contacto}.
 
         Esperamos contar con su valiosa asistencia.
-        `;
+        `;*/
           
           document.getElementById('modal-texto').innerText = texto;
-          document.getElementById('modal').style.display = "block";
+          document.getElementById('modal').classList.add('show');
+          /*document.getElementById('modal').style.display = "block";*/
         }
       });
 
