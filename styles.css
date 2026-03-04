@@ -77,7 +77,7 @@ header {
 .modal-content::before {
   content: "";
   display: block;
-  height: 180px;   /* espacio reservado para los logos */
+  height: 80px;   /* espacio reservado para los logos */
 }
 
 #close {
