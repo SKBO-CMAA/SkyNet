@@ -24,11 +24,13 @@ document.addEventListener('DOMContentLoaded', function () {
             const fechaObj = new Date(info.event.start);
             const opciones = { day: 'numeric', month: 'long' };
             const fechaFormateada = fechaObj.toLocaleDateString('es-ES', opciones);
+            const hora = info.event.extendedProps.hora || '';
+            const salon = info.event.extendedProps.salon || '';
           
             const texto = `
         La Unidad Administrativa Especial de la Aeronautica Civil, invita a participar, al ${info.event.title} de la localidad de ${info.event.extendedProps.localidad}, 
-        el próximo ${fechaFormateada} de 2026 a las ${info.event.extendedProps.hora}, 
-        en el ${info.event.extendedProps.salon} del barrio ${info.event.extendedProps.barrio}, 
+        el próximo ${fechaFormateada} de 2026 a las ${hora}, 
+        en el ${salon} del barrio ${info.event.extendedProps.barrio}, 
         dirección ${info.event.extendedProps.direccion}.
 
         Para mayor información comunicarse con la profesional social ${info.event.extendedProps.contacto}.
