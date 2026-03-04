@@ -37,10 +37,10 @@ document.addEventListener('DOMContentLoaded', function () {
             const hora = info.event.extendedProps.hora;
             const salon = info.event.extendedProps.salon || '';
             const direccion = info.event.extendedProps.direccion;
-            const profesional = info.event.extendedProps.contacto || '';
+            const contacto = info.event.extendedProps.contacto || '';
 
             // Construcción condicional
-            let texto = `La Unidad Administrativa Especial de la Aeronautica Civil, invita a participar, en ${info.event.title} de la localidad de ${localidad}, el próximo ${fechaFormateada} de 2026`;
+            let texto = `La Unidad Administrativa Especial de la Aeronautica Civil, invita a participar, en ${info.event.title} de la localidad de ${localidad}, el próximo ${fechaFormateada}`;
             
             if (hora) {
               texto += ` a las ${hora}`;
@@ -70,8 +70,8 @@ Esperamos contar con su valiosa asistencia.`;
         `;*/
           
           document.getElementById('modal-texto').innerText = texto;
-          document.getElementById('modal').classList.add('show');
-          /*document.getElementById('modal').style.display = "block";*/
+          /*document.getElementById('modal').classList.add('show');*/
+          document.getElementById('modal').style.display = "block";
         }
       });
 
