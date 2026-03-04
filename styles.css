@@ -56,7 +56,8 @@ header {
 }
 
 #modal-texto {
-  letter-spacing: 0.3px;
+  font-size: 15px;
+  max-width: 800px;     /* Evita que el texto se estire demasiado  letter-spacing: 0.3px; */
 }
 
 #close {
