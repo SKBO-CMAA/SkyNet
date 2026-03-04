@@ -13,19 +13,30 @@ document.addEventListener('DOMContentLoaded', function () {
           date: evento.fecha,
           extendedProps: {
             localidad: evento.localidad,
-            barrio: evento.barrio
+            barrio: evento.barrio,
+            hora: evento.hora,
+            direccion: evento.direccion,
+            salon: evento.salon,
+            contacto: evento.contacto
           }
         })),
         eventClick: function(info) {
-          document.getElementById('modal-title').innerText = info.event.title;
-          document.getElementById('modal-date').innerText = info.event.startStr;
-          document.getElementById('modal-localidad').innerText = info.event.extendedProps.localidad;
-          document.getElementById('modal-barrio').innerText = info.event.extendedProps.barrio;
-          document.getElementById('modal-direccion').innerText = info.event.extendedProps.direccion;
-          document.getElementById('modal-contacto').innerText = info.event.extendedProps.contacto;
-          document.getElementById('modal-enlace').innerText = info.event.extendedProps.enlace;
+            const fechaObj = new Date(info.event.start);
+            const opciones = { day: 'numeric', month: 'long' };
+            const fechaFormateada = fechaObj.toLocaleDateString('es-ES', opciones);
           
+            const texto = `
+        La Unidad Administrativa Especial de la Aeronautica Civil, invita a participar, al ${info.event.title} de la localidad de ${info.event.extendedProps.localidad}, 
+        el próximo ${fechaFormateada} de 2026 a las ${info.event.extendedProps.hora}, 
+        en el ${info.event.extendedProps.salon} del barrio ${info.event.extendedProps.barrio}, 
+        dirección ${info.event.extendedProps.direccion}.
 
+        Para mayor información comunicarse con la profesional social ${info.event.extendedProps.contacto}.
+
+        Esperamos contar con su valiosa asistencia.
+        `;
+          
+          document.getElementById('modal-texto').innerText = texto;
           document.getElementById('modal').style.display = "block";
         }
       });
