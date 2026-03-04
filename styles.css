@@ -74,6 +74,12 @@ header {
   z-index: 1;
 }
 
+.modal-content::before {
+  content: "";
+  display: block;
+  height: 180px;   /* espacio reservado para los logos */
+}
+
 #close {
   position: absolute;
   top: 10px;
