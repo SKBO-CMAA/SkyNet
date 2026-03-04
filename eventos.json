@@ -3,7 +3,10 @@
     "actividad": "Visita Museo Aeroespacial",
     "fecha": "2026-03-13",
     "localidad": "Fontibón",
-    "barrio": "La Internacional"
+    "barrio": "La Internacional",
+    "direccion": "",
+    "contacto": "",
+    "enlace": ""
   },
   {
     "actividad": "Educación Ambiental",
