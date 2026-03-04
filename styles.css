@@ -48,7 +48,7 @@ header {
 
   /* Estética */
   color: white;
-  font-size: 15px;
+  font-size: 17px; /* 15 */
   line-height: 1.9;
   text-align: justify;
 
@@ -57,7 +57,9 @@ header {
 }
 
 #modal-texto {
-  font-size: 15px;
+  font-size: 18px;
+  line-height: 2;
+  letter-spacing: 0.3px;
   max-width: 800px;     /* Evita que el texto se estire demasiado  letter-spacing: 0.3px; */
 }
 
