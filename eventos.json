@@ -2,11 +2,11 @@
   {
     "actividad": "Visita Museo Aeroespacial",
     "fecha": "2026-04-24",
-    "hora": "Por definir",    
+    "hora": "",    
     "localidad": "Fontibón",
     "barrio": "La Internacional",
     "direccion": "Colegio Internacional",
-    "salon": "Por definir",
+    "salon": "",
     "contacto": "Sandra Rodriguez 3209163105",
     "enlace": " "
   },
@@ -24,7 +24,7 @@
   {
     "actividad": "Educación Ambiental",
     "fecha": "2026-03-25",
-    "hora": "Por definir",
+    "hora": "",
     "localidad": "Engativá",
     "barrio": "Riviera",
     "direccion": " ",
@@ -34,7 +34,7 @@
   {
     "actividad": "Sensibilizaciones Ambientales",
     "fecha": "2026-03-16",
-    "hora": "Por definir",
+    "hora": "",
     "localidad": "Fontibón",
     "barrio": "Internacional",
     "direccion": " ",
@@ -44,7 +44,7 @@
   {
     "actividad": "Sensibilizaciones Ambientales",
     "fecha": "2026-03-18",
-    "hora": "Por definir",
+    "hora": "",
     "localidad": "Funza",
     "barrio": "San Isidro",
     "direccion": " ",
@@ -54,7 +54,7 @@
   {
     "actividad": "Sensibilizaciones Ambientales",
     "fecha": "2026-03-18",
-    "hora": "Por definir",
+    "hora": "",
     "localidad": "Funza",
     "barrio": "San Ramon",
     "direccion": " ",
@@ -64,17 +64,17 @@
   {
     "actividad": "Socialización Grupos Nuevos",
     "fecha": "2026-03-30",
-    "hora": "Por definir",
+    "hora": "",
     "localidad": "Engativá",
     "barrio": "Santa María del Lago",
-    "direccion": " ",
+    "direccion": "",
     "contacto": "Yisel Sierra 3102803999",
     "enlace": " "
   },
   {
     "actividad": "Socialización Autoridades Locales",
     "fecha": "2026-03-03",
-    "hora": "Por definir",
+    "hora": "",
     "localidad": "Funza",
     "barrio": "Concejo Municipal",
     "direccion": " ",
@@ -84,69 +84,70 @@
   {
     "actividad": "Actividades con Semillero de Investigación 2026",
     "fecha": "2026-03-05",
-    "hora": "Por definir",
+    "hora": "",
     "localidad": "Fontibón",
     "barrio": "Veracruz",
-    "direccion": " ",
+    "direccion": "",
     "contacto": "Sandra Rodriguez 3209163105",
     "enlace": " "
   },
   {
     "actividad": "Actividades con Semillero de Investigación 2026",
     "fecha": "2026-03-20",
-    "hora": "Por definir",
+    "hora": "",
     "localidad": "Fontibón",
     "barrio": "Cofradia",
-    "direccion": " ",
+    "direccion": "",
     "contacto": "Sandra Rodriguez 3209163105",
-    "enlace": " "
+    "enlace": ""
   },
   {
     "actividad": "Actividades con Semillero de Investigación 2026",
     "fecha": "2026-03-17",
-    "hora": "Por definir",
+    "hora": "",
     "localidad": "Funza",
     "barrio": "El Coclí",
-    "direccion": " ",
+    "direccion": "",
     "contacto": "Carolina Villarraga 3209163131",
     "enlace": " "
   },
   {
     "actividad": "Actividades con Semillero de Investigación 2026",
     "fecha": "2026-03-17",
-    "hora": "Por definir",
+    "hora": "",
     "localidad": "Engativá",
     "barrio": "San Jose de la Granja",
-    "direccion": " ",
+    "direccion": "",
     "contacto": "Yisel Sierra 3102803999",
     "enlace": " "
   },
   {
     "actividad": "Actividades con Semillero de Investigación 2026",
     "fecha": "2026-03-24",
-    "hora": "Por definir",
+    "hora": "",
     "localidad": "Engativá",
     "barrio": "San Jose de la Granja",
-    "direccion": " ",
+    "direccion": "",
     "contacto": "Yisel Sierra 3102803999",
     "enlace": " "
   },
   {
     "actividad": "Visita Buzones",
     "fecha": "2026-03-27",
-    "hora": "Por definir",
+    "hora": "",
     "localidad": "Funza",
     "barrio": "Funza",
-    "direccion": " ",
+    "direccion": "",
     "contacto": "Carolina Villarraga 3209163131",
     "enlace": " "
   },
   {
     "actividad": "Capacitación comunidades - Jardín Botánico de Bogotá",
     "fecha": "2026-03-25",
+    "hora": "",
     "localidad": "Fontibón",
     "barrio": "Las Brisas",
-    "direccion": " ",
+    "direccion": "",
     "contacto": "Sandra Rodriguez 3209163105",
     "enlace": " "
   }
