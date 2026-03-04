@@ -34,11 +34,16 @@ header {
 }
 
 .modal-content {
-  background: white;
-  margin: auto;
+  background-image: url('bgaero.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  
+  margin: 10% auto;
   padding: 20px;
   width: 400px;
   border-radius: 8px;
+  color: white;
 }
 
 #close {
