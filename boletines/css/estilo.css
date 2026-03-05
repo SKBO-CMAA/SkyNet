@@ -1,0 +1,63 @@
+body{
+
+font-family: Arial, sans-serif;
+margin:20px;
+background:#f4f4f4;
+
+}
+
+h1{
+
+text-align:center;
+margin-bottom:25px;
+
+}
+
+.descripcion{
+
+max-width:900px;
+margin:auto;
+line-height:1.6;
+text-align:justify;
+margin-bottom:40px;
+
+}
+
+.grid-boletines{
+
+display:grid;
+grid-template-columns:1fr;
+gap:30px;
+
+}
+
+/* escritorio */
+@media(min-width:700px){
+
+.grid-boletines{
+grid-template-columns:1fr 1fr;
+}
+
+}
+
+.boletin{
+
+cursor:pointer;
+text-align:center;
+
+}
+
+.boletin canvas{
+
+width:100%;
+border-radius:8px;
+box-shadow:0 5px 15px rgba(0,0,0,0.2);
+
+}
+
+.titulo{
+
+margin-top:10px;
+font-weight:bold;
+
+}
