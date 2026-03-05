@@ -40,7 +40,7 @@ document.addEventListener('DOMContentLoaded', function () {
             const contacto = info.event.extendedProps.contacto || '';
 
             // Construcción condicional
-            let texto = `La Unidad Administrativa Especial de la Aeronautica Civil, invita a participar, en la actividad de ${info.event.title} de la localidad de ${localidad}, el próximo ${fechaFormateada} `;
+            let texto = `La Unidad Administrativa Especial de la Aeronautica Civil, invita a participar, en la actividad de ${info.event.title} de la localidad de ${localidad}, el próximo ${fechaFormateada}`;
             
             if (hora) {
               texto += ` a las ${hora}`;
@@ -49,7 +49,7 @@ document.addEventListener('DOMContentLoaded', function () {
               texto += `, en el ${salon}`;  
             }
 
-            texto += `del barrio ${barrio}`;
+            texto += `${barrio}`;
   
             if (direccion) {
               texto += `, dirección ${direccion}`;
