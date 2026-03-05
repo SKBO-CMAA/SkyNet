@@ -35,7 +35,7 @@
   {
     "actividad": "Sensibilizaciones Ambientales",
     "fecha": "2026-03-16",
-    "hora": "11:00",
+    "hora": "11:00 a.m.",
     "localidad": "Fontibón",
     "barrio": "del barrio Internacional",
     "direccion": "",
@@ -77,37 +77,40 @@
   {
     "actividad": "Socialización Autoridades Locales",
     "fecha": "2026-03-03",
-    "hora": "",
+    "hora": "01:30 p.m.",
     "localidad": "Funza",
     "barrio": "del Concejo Municipal",
     "direccion": "",
+    "salon": "Portal Dorado",
     "contacto": "Carolina Villarraga 3209163131",
     "enlace": " "
   },
   {
     "actividad": "Actividades con Semillero de Investigación 2026",
     "fecha": "2026-03-05",
-    "hora": "",
+    "hora": "09:00 a.m.",
     "localidad": "Fontibón",
     "barrio": "del barrio Veracruz",
     "direccion": "",
+    "salon": "Salón Comunal Veracruz/Cofradia",
     "contacto": "Sandra Rodriguez 3209163105",
     "enlace": " "
   },
   {
     "actividad": "Actividades con Semillero de Investigación 2026",
     "fecha": "2026-03-20",
-    "hora": "",
+    "hora": "09:00 a.m.",
     "localidad": "Fontibón",
     "barrio": "del barrio Cofradia",
     "direccion": "",
+    "salon": "Salón Comunal Veracruz/Cofradia",
     "contacto": "Sandra Rodriguez 3209163105",
     "enlace": ""
   },
   {
     "actividad": "Actividades con Semillero de Investigación 2026",
     "fecha": "2026-03-17",
-    "hora": "02:30 pm",
+    "hora": "02:30 p.m.",
     "localidad": "Funza",
     "barrio": "del barrio El Coclí",
     "direccion": "",
@@ -118,7 +121,7 @@
   {
     "actividad": "Actividades con Semillero de Investigación 2026",
     "fecha": "2026-03-17",
-    "hora": "09:00 am",
+    "hora": "09:00 a.m.",
     "localidad": "Engativá",
     "barrio": "del barrio San Jose de la Granja",
     "direccion": "",
@@ -129,7 +132,7 @@
   {
     "actividad": "Actividades con Semillero de Investigación 2026",
     "fecha": "2026-03-24",
-    "hora": "09:00 am",
+    "hora": "09:00 a.m.",
     "localidad": "Engativá",
     "barrio": "del barrio San Jose de la Granja",
     "direccion": "",
@@ -140,7 +143,7 @@
   {
     "actividad": "Visita Buzones",
     "fecha": "2026-03-27",
-    "hora": "08:30 am",
+    "hora": "08:30 a.m.",
     "localidad": "Funza",
     "barrio": "de Funza",
     "direccion": "",
@@ -151,7 +154,7 @@
   {
     "actividad": "Capacitación comunidades - Jardín Botánico de Bogotá",
     "fecha": "2026-03-25",
-    "hora": "09:30 am",
+    "hora": "09:30 a.m.",
     "localidad": "Fontibón",
     "barrio": "del barrio Las Brisas",
     "direccion": "",
