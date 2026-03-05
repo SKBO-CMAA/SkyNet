@@ -46,7 +46,7 @@ document.addEventListener('DOMContentLoaded', function () {
               texto += ` a las ${hora}`;
             }
             if (salon){
-              texto += `, en el ${salon}`;  
+              texto += `, en el ${salon} `;  
             }
 
             texto += `${barrio}`;
