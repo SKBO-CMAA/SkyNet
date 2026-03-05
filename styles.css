@@ -33,6 +33,19 @@ header {
   background-color: rgba(0,0,0,0.65);
 }
 
+.modal-box {
+
+  background: rgba(255,255,255,0.92); /* blanco semi transparente */
+
+  border-radius: 10px;
+
+  padding: 25px 30px;
+
+  width: 100%;
+  box-sizing: border-box;
+
+}
+
 .modal-content {
   background-image: url('bgaero.png');
   background-size: cover;
@@ -43,8 +56,11 @@ header {
   width: 65%;
   border-radius: 12px;
 
+  border: 4px double white;
+  border-radius: 12px;
+
   /* Espaciado institucional */
-  padding: 190px 50px 40px 50px;
+  padding: 220px 50px 40px 50px;
 
   /* Estética */
   color: white;
@@ -65,19 +81,31 @@ header {
 
 #close {
   position: absolute;
-  top: 10px;
-  right: 10px;
-  font-size: 22px;
+  top: 20px;
+  right: 15px;
+  font-size: 28px;
+  font-weight: bold;
   cursor: pointer;
+  z-index: 10;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 600px) {
 
   .modal-content {
-    width: 90%;
-    padding: 160px 30px 50px 30px;
+    width: 92%;
+    border-width:2px;
+    padding: 220px 35px 35px 40px;
     font-size: 14px;
-    line-height: 1.7;
+    line-height: 1.4;
+  }
+
+  #modal-texto {
+
+    font-size: 22px;     /* antes 15-17 */
+    line-height: 1.45;   /* antes 1.8 o 1.9 */
+    text-align: justify;
+    letter-spacing: 0.4px;
+
   }
 
 }
