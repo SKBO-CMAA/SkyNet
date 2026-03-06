@@ -110,8 +110,8 @@ const colores = {
 "CA1 Engativa":"rgb(47,85,151)",
 "CA2 CNA":"rgb(237,125,49)",
 "CA3 Fontibón":"rgb(84,130,53)",
-"Certificados meteorologia":"rgb(5,5,5)",
-"Certificados tetracal":"rgb(5,5,5)",
+/*"Certificados meteorologia":"rgb(5,5,5)",*/
+/*"Certificados tetracal":"rgb(5,5,5)",*/
 "CA4 Funza":"rgb(158,228,245)"
 
 }
@@ -149,6 +149,10 @@ volver.innerHTML="⬅ Volver"
 volver.onclick=()=>{
 
 historial.pop()
+
+if(historial.length===0){
+    colorActual="#333"
+}
 
 let destino=raiz
 
