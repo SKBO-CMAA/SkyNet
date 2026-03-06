@@ -5,44 +5,57 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <title>Boletines</title>
-
-<link rel="stylesheet" href="estilo.css">
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
-
+<link rel="stylesheet" href="./css/estilo.css">
 </head>
 
 <body>
 
 <h1>Boletines</h1>
 
-<p class="descripcion">
-La publicación del Boletín Informativo Ambiental del Aeropuerto Internacional
-El Dorado de Bogotá, se realiza en cumplimiento del Plan de Manejo Ambiental (PMA),
-el cual establece su entrega y difusión semestral a las comunidades, autoridades
-y organizaciones del área de influencia.
+<div class="descripcion">
 
-A través de este boletín compartimos, de manera clara y transparente, las
-principales acciones desarrolladas durante la operación, incluyendo novedades,
-avances en la gestión social y el estado de las actividades ambientales del
-proyecto, entre otros temas de interés.
-</p>
+La publicación del Boletín Informativo Ambiental del Aeropuerto Internacional El Dorado de Bogotá, se realiza en cumplimiento del Plan de Manejo Ambiental (PMA), el cual establece su entrega y difusión semestral a las comunidades, autoridades y organizaciones del área de influencia.
 
-<div class="grid-boletines">
+A través de este boletín compartimos, de manera clara y transparente, las principales acciones desarrolladas durante la operación, incluyendo novedades, avances en la gestión social y el estado de las actividades ambientales del proyecto, entre otros temas de interés.
 
-<div class="boletin" data-pdf="pdf/boletin8.pdf">
-<canvas></canvas>
-<div class="titulo">Boletín #8 Jul - Dic 2025</div>
-</div>
-
-<div class="boletin" data-pdf="pdf/boletin7.pdf">
-<canvas></canvas>
-<div class="titulo">Boletín #7 Ene - Jun 2025</div>
-</div>
 
 </div>
 
-<script src="boletines.js"></script>
+<div class="grid" id="contenedor"></div>
+
+<script>
+
+fetch("boletines.json")
+.then(r=>r.json())
+.then(data=>{
+
+const contenedor=document.getElementById("contenedor")
+
+data.forEach(b=>{
+
+const card=document.createElement("a")
+
+card.href=b.pdf
+card.className="boletin"
+card.target="_blank"
+
+card.innerHTML=`
+
+<img src="${b.img}" loading="lazy">
+
+<div class="titulo">
+${b.titulo}
+</div>
+
+`
+
+contenedor.appendChild(card)
+
+})
+
+})
+
+</script>
 
 </body>
 </html>
