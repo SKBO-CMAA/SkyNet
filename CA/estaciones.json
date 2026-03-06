@@ -1,0 +1,2760 @@
+[
+  {
+    "tipo": "carpeta",
+    "nombre": "CA1 Engativa",
+    "contenido": [
+      {
+        "tipo": "carpeta",
+        "nombre": "1. FIDAS",
+        "contenido": [
+          {
+            "tipo": "carpeta",
+            "nombre": "1. FIDAS 17984",
+            "contenido": [
+              {
+                "tipo": "carpeta",
+                "nombre": "1. Hoja De Vida",
+                "contenido": [
+                  {
+                    "tipo": "archivo",
+                    "nombre": "FOA801-03 FIDAS200 17984 _AEROCIVIL.xlsx",
+                    "ruta": "Estaciones/CA1 Engativa/1. FIDAS/1. FIDAS 17984/1. Hoja De Vida/FOA801-03 FIDAS200 17984 _AEROCIVIL.xlsx"
+                  },
+                  {
+                    "tipo": "archivo",
+                    "nombre": "FOA801-03 FIDAS200 17984.xlsx",
+                    "ruta": "Estaciones/CA1 Engativa/1. FIDAS/1. FIDAS 17984/1. Hoja De Vida/FOA801-03 FIDAS200 17984.xlsx"
+                  }
+                ]
+              },
+              {
+                "tipo": "carpeta",
+                "nombre": "2. Certificados de Calibración y verificacion",
+                "contenido": [
+                  {
+                    "tipo": "archivo",
+                    "nombre": "251223_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf",
+                    "ruta": "Estaciones/CA1 Engativa/1. FIDAS/1. FIDAS 17984/2. Certificados de Calibración y verificacion/251223_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf"
+                  },
+                  {
+                    "tipo": "archivo",
+                    "nombre": "260121_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf",
+                    "ruta": "Estaciones/CA1 Engativa/1. FIDAS/1. FIDAS 17984/2. Certificados de Calibración y verificacion/260121_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf"
+                  }
+                ]
+              },
+              {
+                "tipo": "carpeta",
+                "nombre": "3. Meteorologia",
+                "contenido": [
+                  {
+                    "tipo": "carpeta",
+                    "nombre": "557.0224.0812.251-C",
+                    "contenido": [
+                      {
+                        "tipo": "archivo",
+                        "nombre": "R21-26-CLH 15926-557.0224.0812.251.pdf",
+                        "ruta": "Estaciones/CA1 Engativa/1. FIDAS/1. FIDAS 17984/3. Meteorologia/557.0224.0812.251-C/R21-26-CLH 15926-557.0224.0812.251.pdf"
+                      },
+                      {
+                        "tipo": "archivo",
+                        "nombre": "R21-26-CLP 0926-557.0224.0812.251.pdf",
+                        "ruta": "Estaciones/CA1 Engativa/1. FIDAS/1. FIDAS 17984/3. Meteorologia/557.0224.0812.251-C/R21-26-CLP 0926-557.0224.0812.251.pdf"
+                      },
+                      {
+                        "tipo": "archivo",
+                        "nombre": "R21-26-CLT 35926-557.0224.0812.251.pdf",
+                        "ruta": "Estaciones/CA1 Engativa/1. FIDAS/1. FIDAS 17984/3. Meteorologia/557.0224.0812.251-C/R21-26-CLT 35926-557.0224.0812.251.pdf"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipo": "carpeta",
+            "nombre": "2. FIDAS16077",
+            "contenido": [
+              {
+                "tipo": "carpeta",
+                "nombre": "1. Hoja De Vida",
+                "contenido": [
+                  {
+                    "tipo": "archivo",
+                    "nombre": "FOA801-03 FIDAS200 16077 _AEROCIVIL.xlsx",
+                    "ruta": "Estaciones/CA1 Engativa/1. FIDAS/2. FIDAS16077/1. Hoja De Vida/FOA801-03 FIDAS200 16077 _AEROCIVIL.xlsx"
+                  }
+                ]
+              },
+              {
+                "tipo": "carpeta",
+                "nombre": "2. Certificados de Calibración y verificacion",
+                "contenido": [
+                  {
+                    "tipo": "archivo",
+                    "nombre": "250128_Calibracion_FIDAS_ENGATIVA.pdf",
+                    "ruta": "Estaciones/CA1 Engativa/1. FIDAS/2. FIDAS16077/2. Certificados de Calibración y verificacion/250128_Calibracion_FIDAS_ENGATIVA.pdf"
+                  },
+                  {
+                    "tipo": "archivo",
+                    "nombre": "250211_Documento__2101_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V3.pdf",
+                    "ruta": "Estaciones/CA1 Engativa/1. FIDAS/2. FIDAS16077/2. Certificados de Calibración y verificacion/250211_Documento__2101_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V3.pdf"
+                  },
+                  {
+                    "tipo": "archivo",
+                    "nombre": "250326_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf",
+                    "ruta": "Estaciones/CA1 Engativa/1. FIDAS/2. FIDAS16077/2. Certificados de Calibración y verificacion/250326_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf"
+                  },
+                  {
+                    "tipo": "archivo",
+                    "nombre": "250428_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf",
+                    "ruta": "Estaciones/CA1 Engativa/1. FIDAS/2. FIDAS16077/2. Certificados de Calibración y verificacion/250428_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf"
+                  },
+                  {
+                    "tipo": "archivo",
+                    "nombre": "250527_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf",
+                    "ruta": "Estaciones/CA1 Engativa/1. FIDAS/2. FIDAS16077/2. Certificados de Calibración y verificacion/250527_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf"
+                  },
+                  {
+                    "tipo": "archivo",
+                    "nombre": "250625_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf",
+                    "ruta": "Estaciones/CA1 Engativa/1. FIDAS/2. FIDAS16077/2. Certificados de Calibración y verificacion/250625_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf"
+                  },
+                  {
+                    "tipo": "archivo",
+                    "nombre": "250718_ FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf",
+                    "ruta": "Estaciones/CA1 Engativa/1. FIDAS/2. FIDAS16077/2. Certificados de Calibración y verificacion/250718_ FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf"
+                  },
+                  {
+                    "tipo": "archivo",
+                    "nombre": "250827_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4 27-08-2025.pdf",
+                    "ruta": "Estaciones/CA1 Engativa/1. FIDAS/2. FIDAS16077/2. Certificados de Calibración y verificacion/250827_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4 27-08-2025.pdf"
+                  },
+                  {
+                    "tipo": "archivo",
+                    "nombre": "250908_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf",
+                    "ruta": "Estaciones/CA1 Engativa/1. FIDAS/2. FIDAS16077/2. Certificados de Calibración y verificacion/250908_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf"
+                  },
+                  {
+                    "tipo": "archivo",
+                    "nombre": "251016_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf",
+                    "ruta": "Estaciones/CA1 Engativa/1. FIDAS/2. FIDAS16077/2. Certificados de Calibración y verificacion/251016_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf"
+                  },
+                  {
+                    "tipo": "archivo",
+                    "nombre": "251107_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf",
+                    "ruta": "Estaciones/CA1 Engativa/1. FIDAS/2. FIDAS16077/2. Certificados de Calibración y verificacion/251107_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tipo": "carpeta",
+        "nombre": "2. CO",
+        "contenido": [
+          {
+            "tipo": "carpeta",
+            "nombre": "1800",
+            "contenido": [
+              {
+                "tipo": "archivo",
+                "nombre": "250128_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf",
+                "ruta": "Estaciones/CA1 Engativa/2. CO/1800/250128_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250211_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf",
+                "ruta": "Estaciones/CA1 Engativa/2. CO/1800/250211_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250326_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf",
+                "ruta": "Estaciones/CA1 Engativa/2. CO/1800/250326_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250414_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf",
+                "ruta": "Estaciones/CA1 Engativa/2. CO/1800/250414_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250527_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf",
+                "ruta": "Estaciones/CA1 Engativa/2. CO/1800/250527_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250613_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf",
+                "ruta": "Estaciones/CA1 Engativa/2. CO/1800/250613_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250625_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf",
+                "ruta": "Estaciones/CA1 Engativa/2. CO/1800/250625_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250718_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf",
+                "ruta": "Estaciones/CA1 Engativa/2. CO/1800/250718_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250729_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf",
+                "ruta": "Estaciones/CA1 Engativa/2. CO/1800/250729_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250812_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf",
+                "ruta": "Estaciones/CA1 Engativa/2. CO/1800/250812_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250827_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4..pdf",
+                "ruta": "Estaciones/CA1 Engativa/2. CO/1800/250827_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4..pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250908_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf",
+                "ruta": "Estaciones/CA1 Engativa/2. CO/1800/250908_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250925_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf",
+                "ruta": "Estaciones/CA1 Engativa/2. CO/1800/250925_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf"
+              }
+            ]
+          },
+          {
+            "tipo": "carpeta",
+            "nombre": "1802",
+            "contenido": [
+              {
+                "tipo": "archivo",
+                "nombre": "251002_CO-FOM303-41FormatoVerificaciondeequiposCOENVEA-senalesMUXCO-V5.pdf",
+                "ruta": "Estaciones/CA1 Engativa/2. CO/1802/251002_CO-FOM303-41FormatoVerificaciondeequiposCOENVEA-senalesMUXCO-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251016_CO-FOM303-41FormatoVerificaciondeequiposCOENVEA-senalesMUXCO-V5.pdf",
+                "ruta": "Estaciones/CA1 Engativa/2. CO/1802/251016_CO-FOM303-41FormatoVerificaciondeequiposCOENVEA-senalesMUXCO-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251107_CO-FOM303-41FormatoVerificaciondeequiposCOENVEA-senalesMUXCO-V5.pdf",
+                "ruta": "Estaciones/CA1 Engativa/2. CO/1802/251107_CO-FOM303-41FormatoVerificaciondeequiposCOENVEA-senalesMUXCO-V5.pdf"
+              }
+            ]
+          },
+          {
+            "tipo": "carpeta",
+            "nombre": "702420189",
+            "contenido": [
+              {
+                "tipo": "archivo",
+                "nombre": "251130_BB-F-140 QC CO ENGATIVA NOV 30.pdf",
+                "ruta": "Estaciones/CA1 Engativa/2. CO/702420189/251130_BB-F-140 QC CO ENGATIVA NOV 30.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251214_BB-F-140 QC CO ENGATIVA DIC 14.pdf",
+                "ruta": "Estaciones/CA1 Engativa/2. CO/702420189/251214_BB-F-140 QC CO ENGATIVA DIC 14.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251223_BB-F-140 QC CO ENGATIVA DIC 23.pdf",
+                "ruta": "Estaciones/CA1 Engativa/2. CO/702420189/251223_BB-F-140 QC CO ENGATIVA DIC 23.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "260107_BB-F-140 QC CO ENGATIVA ENE 07.pdf",
+                "ruta": "Estaciones/CA1 Engativa/2. CO/702420189/260107_BB-F-140 QC CO ENGATIVA ENE 07.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "260121_BB-F-140 QC CO ENGATIVA ENE 21.pdf",
+                "ruta": "Estaciones/CA1 Engativa/2. CO/702420189/260121_BB-F-140 QC CO ENGATIVA ENE 21.pdf"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tipo": "carpeta",
+        "nombre": "3. NO2",
+        "contenido": [
+          {
+            "tipo": "carpeta",
+            "nombre": "1307357041",
+            "contenido": [
+              {
+                "tipo": "archivo",
+                "nombre": "251130_BB-F-151 QC NO2 ENGATIVA NOV 30.pdf",
+                "ruta": "Estaciones/CA1 Engativa/3. NO2/1307357041/251130_BB-F-151 QC NO2 ENGATIVA NOV 30.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251214_BB-F-151 QC NO2 ENGATIVA DIC 14.pdf",
+                "ruta": "Estaciones/CA1 Engativa/3. NO2/1307357041/251214_BB-F-151 QC NO2 ENGATIVA DIC 14.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251223_BB-F-151 QC NO2 ENGATIVA DIC 23.pdf",
+                "ruta": "Estaciones/CA1 Engativa/3. NO2/1307357041/251223_BB-F-151 QC NO2 ENGATIVA DIC 23.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "260107_BB-F-151 QC NO2 ENGATIVA ENE 07.pdf",
+                "ruta": "Estaciones/CA1 Engativa/3. NO2/1307357041/260107_BB-F-151 QC NO2 ENGATIVA ENE 07.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "260121_BB-F-151 QC NO2 ENGATIVA ENE 21.pdf",
+                "ruta": "Estaciones/CA1 Engativa/3. NO2/1307357041/260121_BB-F-151 QC NO2 ENGATIVA ENE 21.pdf"
+              }
+            ]
+          },
+          {
+            "tipo": "carpeta",
+            "nombre": "1501",
+            "contenido": [
+              {
+                "tipo": "archivo",
+                "nombre": "250128_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf",
+                "ruta": "Estaciones/CA1 Engativa/3. NO2/1501/250128_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250211_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5..pdf",
+                "ruta": "Estaciones/CA1 Engativa/3. NO2/1501/250211_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5..pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250326_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf",
+                "ruta": "Estaciones/CA1 Engativa/3. NO2/1501/250326_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250414_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf",
+                "ruta": "Estaciones/CA1 Engativa/3. NO2/1501/250414_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250520_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf",
+                "ruta": "Estaciones/CA1 Engativa/3. NO2/1501/250520_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250613_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf",
+                "ruta": "Estaciones/CA1 Engativa/3. NO2/1501/250613_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250625_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf",
+                "ruta": "Estaciones/CA1 Engativa/3. NO2/1501/250625_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250718_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf",
+                "ruta": "Estaciones/CA1 Engativa/3. NO2/1501/250718_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250729_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf",
+                "ruta": "Estaciones/CA1 Engativa/3. NO2/1501/250729_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250812_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf",
+                "ruta": "Estaciones/CA1 Engativa/3. NO2/1501/250812_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250827_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5..pdf",
+                "ruta": "Estaciones/CA1 Engativa/3. NO2/1501/250827_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5..pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250908_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf",
+                "ruta": "Estaciones/CA1 Engativa/3. NO2/1501/250908_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250925_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf",
+                "ruta": "Estaciones/CA1 Engativa/3. NO2/1501/250925_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf"
+              }
+            ]
+          },
+          {
+            "tipo": "carpeta",
+            "nombre": "2312",
+            "contenido": [
+              {
+                "tipo": "archivo",
+                "nombre": "251002_NO-FOM303-44FormatoVerificaciondeequipos-senalesMUX-NOX-ENVEA-V6.pdf",
+                "ruta": "Estaciones/CA1 Engativa/3. NO2/2312/251002_NO-FOM303-44FormatoVerificaciondeequipos-senalesMUX-NOX-ENVEA-V6.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251016_NO-FOM303-44FormatoVerificaciondeequipos-senalesMUX-NOX-ENVEA-V6.pdf",
+                "ruta": "Estaciones/CA1 Engativa/3. NO2/2312/251016_NO-FOM303-44FormatoVerificaciondeequipos-senalesMUX-NOX-ENVEA-V6.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251107_NO-FOM303-44FormatoVerificaciondeequipos-senalesMUX-NOX-ENVEA-V6.pdf",
+                "ruta": "Estaciones/CA1 Engativa/3. NO2/2312/251107_NO-FOM303-44FormatoVerificaciondeequipos-senalesMUX-NOX-ENVEA-V6.pdf"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tipo": "carpeta",
+        "nombre": "4. O3",
+        "contenido": [
+          {
+            "tipo": "carpeta",
+            "nombre": "1603",
+            "contenido": [
+              {
+                "tipo": "archivo",
+                "nombre": "250128_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf",
+                "ruta": "Estaciones/CA1 Engativa/4. O3/1603/250128_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250211_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf",
+                "ruta": "Estaciones/CA1 Engativa/4. O3/1603/250211_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250326_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf",
+                "ruta": "Estaciones/CA1 Engativa/4. O3/1603/250326_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250414_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf",
+                "ruta": "Estaciones/CA1 Engativa/4. O3/1603/250414_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250527_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf",
+                "ruta": "Estaciones/CA1 Engativa/4. O3/1603/250527_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250613_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf",
+                "ruta": "Estaciones/CA1 Engativa/4. O3/1603/250613_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250625_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf",
+                "ruta": "Estaciones/CA1 Engativa/4. O3/1603/250625_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250717_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf",
+                "ruta": "Estaciones/CA1 Engativa/4. O3/1603/250717_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250729_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf",
+                "ruta": "Estaciones/CA1 Engativa/4. O3/1603/250729_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250812_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf",
+                "ruta": "Estaciones/CA1 Engativa/4. O3/1603/250812_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250827_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4..pdf",
+                "ruta": "Estaciones/CA1 Engativa/4. O3/1603/250827_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4..pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250908_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf",
+                "ruta": "Estaciones/CA1 Engativa/4. O3/1603/250908_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf"
+              }
+            ]
+          },
+          {
+            "tipo": "carpeta",
+            "nombre": "1611",
+            "contenido": [
+              {
+                "tipo": "archivo",
+                "nombre": "251002_O3-FOM303-42FormatoVerificaciondeequiposO3ENVEA-senalesMUXO3-V5.pdf",
+                "ruta": "Estaciones/CA1 Engativa/4. O3/1611/251002_O3-FOM303-42FormatoVerificaciondeequiposO3ENVEA-senalesMUXO3-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251016_O3-FOM303-42FormatoVerificaciondeequiposO3ENVEA-senalesMUXO3-V5.pdf",
+                "ruta": "Estaciones/CA1 Engativa/4. O3/1611/251016_O3-FOM303-42FormatoVerificaciondeequiposO3ENVEA-senalesMUXO3-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251107_O3-FOM303-42FormatoVerificaciondeequiposO3ENVEA-senalesMUXO3-V5.pdf",
+                "ruta": "Estaciones/CA1 Engativa/4. O3/1611/251107_O3-FOM303-42FormatoVerificaciondeequiposO3ENVEA-senalesMUXO3-V5.pdf"
+              }
+            ]
+          },
+          {
+            "tipo": "carpeta",
+            "nombre": "926137873",
+            "contenido": [
+              {
+                "tipo": "archivo",
+                "nombre": "Diciembre 2025_Anexo 2. Datos de calibración y verificación -diciembre.pdf",
+                "ruta": "Estaciones/CA1 Engativa/4. O3/926137873/Diciembre 2025_Anexo 2. Datos de calibración y verificación -diciembre.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "Enero 2026_Anexo 2. Datos de calibración y verificación.pdf",
+                "ruta": "Estaciones/CA1 Engativa/4. O3/926137873/Enero 2026_Anexo 2. Datos de calibración y verificación.pdf"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tipo": "carpeta",
+        "nombre": "5. SO2",
+        "contenido": [
+          {
+            "tipo": "carpeta",
+            "nombre": "1565",
+            "contenido": [
+              {
+                "tipo": "archivo",
+                "nombre": "250128_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf",
+                "ruta": "Estaciones/CA1 Engativa/5. SO2/1565/250128_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250211_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf",
+                "ruta": "Estaciones/CA1 Engativa/5. SO2/1565/250211_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250326_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf",
+                "ruta": "Estaciones/CA1 Engativa/5. SO2/1565/250326_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250414_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf",
+                "ruta": "Estaciones/CA1 Engativa/5. SO2/1565/250414_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250527_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf",
+                "ruta": "Estaciones/CA1 Engativa/5. SO2/1565/250527_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250613_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf",
+                "ruta": "Estaciones/CA1 Engativa/5. SO2/1565/250613_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250625_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf",
+                "ruta": "Estaciones/CA1 Engativa/5. SO2/1565/250625_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250718_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf",
+                "ruta": "Estaciones/CA1 Engativa/5. SO2/1565/250718_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250729_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf",
+                "ruta": "Estaciones/CA1 Engativa/5. SO2/1565/250729_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250812_. SO 5207_1_Documento__5295_FOM303-45FormatoVerificaciondeequipos-senalesMUX-SOX-ENVEA-V5 12-08-2025.pdf",
+                "ruta": "Estaciones/CA1 Engativa/5. SO2/1565/250812_. SO 5207_1_Documento__5295_FOM303-45FormatoVerificaciondeequipos-senalesMUX-SOX-ENVEA-V5 12-08-2025.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250827_. SO 5207_1_Documento__5295_FOM303-45FormatoVerificaciondeequipos-senalesMUX-SOX-ENVEA-V5 27-08-2025.pdf",
+                "ruta": "Estaciones/CA1 Engativa/5. SO2/1565/250827_. SO 5207_1_Documento__5295_FOM303-45FormatoVerificaciondeequipos-senalesMUX-SOX-ENVEA-V5 27-08-2025.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250908_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf",
+                "ruta": "Estaciones/CA1 Engativa/5. SO2/1565/250908_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250925_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf",
+                "ruta": "Estaciones/CA1 Engativa/5. SO2/1565/250925_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf"
+              }
+            ]
+          },
+          {
+            "tipo": "carpeta",
+            "nombre": "2451",
+            "contenido": [
+              {
+                "tipo": "archivo",
+                "nombre": "251002_SO2-FOM303-45FormatoVerificaciondeequipos-senalesMUX-SOX-ENVEA-V5.pdf",
+                "ruta": "Estaciones/CA1 Engativa/5. SO2/2451/251002_SO2-FOM303-45FormatoVerificaciondeequipos-senalesMUX-SOX-ENVEA-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251016_SO-FOM303-45FormatoVerificaciondeequipos-senalesMUX-SOX-ENVEA-V5.pdf",
+                "ruta": "Estaciones/CA1 Engativa/5. SO2/2451/251016_SO-FOM303-45FormatoVerificaciondeequipos-senalesMUX-SOX-ENVEA-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251107_SO2-FOM303-45FormatoVerificaciondeequipos-senalesMUX-SOX-ENVEA-V5.pdf",
+                "ruta": "Estaciones/CA1 Engativa/5. SO2/2451/251107_SO2-FOM303-45FormatoVerificaciondeequipos-senalesMUX-SOX-ENVEA-V5.pdf"
+              }
+            ]
+          },
+          {
+            "tipo": "carpeta",
+            "nombre": "CM12410011",
+            "contenido": [
+              {
+                "tipo": "archivo",
+                "nombre": "251130_BB-F-152 QC SO2 ENGATIVA NOV 30.pdf",
+                "ruta": "Estaciones/CA1 Engativa/5. SO2/CM12410011/251130_BB-F-152 QC SO2 ENGATIVA NOV 30.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251214_BB-F-152 QC SO2 ENGATIVA DIC 14.pdf",
+                "ruta": "Estaciones/CA1 Engativa/5. SO2/CM12410011/251214_BB-F-152 QC SO2 ENGATIVA DIC 14.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251223_BB-F-152 QC SO2 ENGATIVA DIC 23.pdf",
+                "ruta": "Estaciones/CA1 Engativa/5. SO2/CM12410011/251223_BB-F-152 QC SO2 ENGATIVA DIC 23.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "260107_BB-F-152 QC SO2 ENGATIVA ENE 07.pdf",
+                "ruta": "Estaciones/CA1 Engativa/5. SO2/CM12410011/260107_BB-F-152 QC SO2 ENGATIVA ENE 07.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "260121_BB-F-152 QC SO2 ENGATIVA ENE 21.pdf",
+                "ruta": "Estaciones/CA1 Engativa/5. SO2/CM12410011/260121_BB-F-152 QC SO2 ENGATIVA ENE 21.pdf"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tipo": "carpeta",
+        "nombre": "6. Meteorologia",
+        "contenido": [
+          {
+            "tipo": "archivo",
+            "nombre": "Intercomparacion historica.xlsx",
+            "ruta": "Estaciones/CA1 Engativa/6. Meteorologia/Intercomparacion historica.xlsx"
+          }
+        ]
+      },
+      {
+        "tipo": "carpeta",
+        "nombre": "7. Temperaturas Shelter",
+        "contenido": [
+          {
+            "tipo": "archivo",
+            "nombre": "41. FOM303-32 Formato de campo monitoreo analizadores automáticos - V7 (CA1 Engativa) Diciembre.xlsx",
+            "ruta": "Estaciones/CA1 Engativa/7. Temperaturas Shelter/41. FOM303-32 Formato de campo monitoreo analizadores automáticos - V7 (CA1 Engativa) Diciembre.xlsx"
+          },
+          {
+            "tipo": "archivo",
+            "nombre": "41. FOM303-32 Formato de campo monitoreo analizadores automáticos - V7 (CA1 Engativa) Enero.xlsx",
+            "ruta": "Estaciones/CA1 Engativa/7. Temperaturas Shelter/41. FOM303-32 Formato de campo monitoreo analizadores automáticos - V7 (CA1 Engativa) Enero.xlsx"
+          },
+          {
+            "tipo": "archivo",
+            "nombre": "41. FOM303-32 Formato de campo monitoreo analizadores automáticos - V7 (CA1 Engativa) Febrero.xlsx",
+            "ruta": "Estaciones/CA1 Engativa/7. Temperaturas Shelter/41. FOM303-32 Formato de campo monitoreo analizadores automáticos - V7 (CA1 Engativa) Febrero.xlsx"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tipo": "carpeta",
+    "nombre": "CA2 CNA",
+    "contenido": [
+      {
+        "tipo": "carpeta",
+        "nombre": "1. FIDAS",
+        "contenido": [
+          {
+            "tipo": "carpeta",
+            "nombre": "FIDAS 16920",
+            "contenido": [
+              {
+                "tipo": "archivo",
+                "nombre": "250127_Calibracion_FIDAS_CNA.pdf",
+                "ruta": "Estaciones/CA2 CNA/1. FIDAS/FIDAS 16920/250127_Calibracion_FIDAS_CNA.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250212_Documento__2101_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V3.pdf",
+                "ruta": "Estaciones/CA2 CNA/1. FIDAS/FIDAS 16920/250212_Documento__2101_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V3.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250331_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf",
+                "ruta": "Estaciones/CA2 CNA/1. FIDAS/FIDAS 16920/250331_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250430_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf",
+                "ruta": "Estaciones/CA2 CNA/1. FIDAS/FIDAS 16920/250430_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250522_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf",
+                "ruta": "Estaciones/CA2 CNA/1. FIDAS/FIDAS 16920/250522_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250626_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf",
+                "ruta": "Estaciones/CA2 CNA/1. FIDAS/FIDAS 16920/250626_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250716_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf",
+                "ruta": "Estaciones/CA2 CNA/1. FIDAS/FIDAS 16920/250716_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250815_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf",
+                "ruta": "Estaciones/CA2 CNA/1. FIDAS/FIDAS 16920/250815_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250910_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf",
+                "ruta": "Estaciones/CA2 CNA/1. FIDAS/FIDAS 16920/250910_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251015_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf",
+                "ruta": "Estaciones/CA2 CNA/1. FIDAS/FIDAS 16920/251015_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251104_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf",
+                "ruta": "Estaciones/CA2 CNA/1. FIDAS/FIDAS 16920/251104_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf"
+              },
+              {
+                "tipo": "carpeta",
+                "nombre": "Hoja De Vida",
+                "contenido": [
+                  {
+                    "tipo": "archivo",
+                    "nombre": "Copia de FOA801-03 FIDAS200 16920 Aerocivil CNA.xlsx",
+                    "ruta": "Estaciones/CA2 CNA/1. FIDAS/FIDAS 16920/Hoja De Vida/Copia de FOA801-03 FIDAS200 16920 Aerocivil CNA.xlsx"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipo": "carpeta",
+            "nombre": "FIDAS 20092",
+            "contenido": [
+              {
+                "tipo": "carpeta",
+                "nombre": "Certificados de Calibración y Verificación",
+                "contenido": [
+                  {
+                    "tipo": "archivo",
+                    "nombre": "251209_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf",
+                    "ruta": "Estaciones/CA2 CNA/1. FIDAS/FIDAS 20092/Certificados de Calibración y Verificación/251209_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf"
+                  },
+                  {
+                    "tipo": "archivo",
+                    "nombre": "260122_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf",
+                    "ruta": "Estaciones/CA2 CNA/1. FIDAS/FIDAS 20092/Certificados de Calibración y Verificación/260122_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf"
+                  }
+                ]
+              },
+              {
+                "tipo": "carpeta",
+                "nombre": "Hoja De Vida",
+                "contenido": [
+                  {
+                    "tipo": "archivo",
+                    "nombre": "Copia de FOA801-03 FIDAS200 20092 Aerocivil CNA.xlsx",
+                    "ruta": "Estaciones/CA2 CNA/1. FIDAS/FIDAS 20092/Hoja De Vida/Copia de FOA801-03 FIDAS200 20092 Aerocivil CNA.xlsx"
+                  }
+                ]
+              },
+              {
+                "tipo": "carpeta",
+                "nombre": "Meteorologia",
+                "contenido": [
+                  {
+                    "tipo": "carpeta",
+                    "nombre": "515.0224.0812.251-C",
+                    "contenido": [
+                      {
+                        "tipo": "archivo",
+                        "nombre": "R21-26-CLH 14926-515.0224.0812.251.pdf",
+                        "ruta": "Estaciones/CA2 CNA/1. FIDAS/FIDAS 20092/Meteorologia/515.0224.0812.251-C/R21-26-CLH 14926-515.0224.0812.251.pdf"
+                      },
+                      {
+                        "tipo": "archivo",
+                        "nombre": "R21-26-CLP 0326-515.0224.0812.251.pdf",
+                        "ruta": "Estaciones/CA2 CNA/1. FIDAS/FIDAS 20092/Meteorologia/515.0224.0812.251-C/R21-26-CLP 0326-515.0224.0812.251.pdf"
+                      },
+                      {
+                        "tipo": "archivo",
+                        "nombre": "R21-26-CLT 34626-515.0224.0812.251.pdf",
+                        "ruta": "Estaciones/CA2 CNA/1. FIDAS/FIDAS 20092/Meteorologia/515.0224.0812.251-C/R21-26-CLT 34626-515.0224.0812.251.pdf"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tipo": "carpeta",
+        "nombre": "2. CO",
+        "contenido": [
+          {
+            "tipo": "carpeta",
+            "nombre": "126",
+            "contenido": [
+              {
+                "tipo": "archivo",
+                "nombre": "250127_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf",
+                "ruta": "Estaciones/CA2 CNA/2. CO/126/250127_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250212_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf",
+                "ruta": "Estaciones/CA2 CNA/2. CO/126/250212_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250331_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf",
+                "ruta": "Estaciones/CA2 CNA/2. CO/126/250331_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250415_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf",
+                "ruta": "Estaciones/CA2 CNA/2. CO/126/250415_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250529_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf",
+                "ruta": "Estaciones/CA2 CNA/2. CO/126/250529_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250611_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf",
+                "ruta": "Estaciones/CA2 CNA/2. CO/126/250611_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250626_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf",
+                "ruta": "Estaciones/CA2 CNA/2. CO/126/250626_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250717_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf",
+                "ruta": "Estaciones/CA2 CNA/2. CO/126/250717_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250729_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf",
+                "ruta": "Estaciones/CA2 CNA/2. CO/126/250729_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250815_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf",
+                "ruta": "Estaciones/CA2 CNA/2. CO/126/250815_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250828_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf",
+                "ruta": "Estaciones/CA2 CNA/2. CO/126/250828_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250911_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf",
+                "ruta": "Estaciones/CA2 CNA/2. CO/126/250911_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250926_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf",
+                "ruta": "Estaciones/CA2 CNA/2. CO/126/250926_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251001_CO-FOM303-41FormatoVerificaciondeequiposCOENVEA-senalesMUXCO-V5.pdf",
+                "ruta": "Estaciones/CA2 CNA/2. CO/126/251001_CO-FOM303-41FormatoVerificaciondeequiposCOENVEA-senalesMUXCO-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251015_CO-FOM303-41FormatoVerificaciondeequiposCOENVEA-senalesMUXCO-V5.pdf",
+                "ruta": "Estaciones/CA2 CNA/2. CO/126/251015_CO-FOM303-41FormatoVerificaciondeequiposCOENVEA-senalesMUXCO-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251104_CO-FOM303-41FormatoVerificaciondeequiposCOENVEA-senalesMUXCO-V5.pdf",
+                "ruta": "Estaciones/CA2 CNA/2. CO/126/251104_CO-FOM303-41FormatoVerificaciondeequiposCOENVEA-senalesMUXCO-V5.pdf"
+              }
+            ]
+          },
+          {
+            "tipo": "carpeta",
+            "nombre": "633819564",
+            "contenido": [
+              {
+                "tipo": "archivo",
+                "nombre": "251129_BB-F-140 QC CO CNA NOV 29.pdf",
+                "ruta": "Estaciones/CA2 CNA/2. CO/633819564/251129_BB-F-140 QC CO CNA NOV 29.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251213_BB-F-140 QC CO CNA DIC 13.pdf",
+                "ruta": "Estaciones/CA2 CNA/2. CO/633819564/251213_BB-F-140 QC CO CNA DIC 13.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251222_BB-F-140 QC CO CNA DIC 22.pdf",
+                "ruta": "Estaciones/CA2 CNA/2. CO/633819564/251222_BB-F-140 QC CO CNA DIC 22.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "260106_BB-F-140 QC CO CNA ENE 06.pdf",
+                "ruta": "Estaciones/CA2 CNA/2. CO/633819564/260106_BB-F-140 QC CO CNA ENE 06.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "260122_BB-F-140 QC CO CNA ENE 22.pdf",
+                "ruta": "Estaciones/CA2 CNA/2. CO/633819564/260122_BB-F-140 QC CO CNA ENE 22.pdf"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tipo": "carpeta",
+        "nombre": "3. NO2",
+        "contenido": [
+          {
+            "tipo": "carpeta",
+            "nombre": "1380",
+            "contenido": [
+              {
+                "tipo": "archivo",
+                "nombre": "250127_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf",
+                "ruta": "Estaciones/CA2 CNA/3. NO2/1380/250127_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250212_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf",
+                "ruta": "Estaciones/CA2 CNA/3. NO2/1380/250212_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250317_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf",
+                "ruta": "Estaciones/CA2 CNA/3. NO2/1380/250317_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250415_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf",
+                "ruta": "Estaciones/CA2 CNA/3. NO2/1380/250415_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250529_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf",
+                "ruta": "Estaciones/CA2 CNA/3. NO2/1380/250529_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250611_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf",
+                "ruta": "Estaciones/CA2 CNA/3. NO2/1380/250611_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250626_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf",
+                "ruta": "Estaciones/CA2 CNA/3. NO2/1380/250626_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250717_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf",
+                "ruta": "Estaciones/CA2 CNA/3. NO2/1380/250717_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250729_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf",
+                "ruta": "Estaciones/CA2 CNA/3. NO2/1380/250729_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250815_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf",
+                "ruta": "Estaciones/CA2 CNA/3. NO2/1380/250815_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250828_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf",
+                "ruta": "Estaciones/CA2 CNA/3. NO2/1380/250828_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250910_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf",
+                "ruta": "Estaciones/CA2 CNA/3. NO2/1380/250910_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250926_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf",
+                "ruta": "Estaciones/CA2 CNA/3. NO2/1380/250926_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251001_NO-FOM303-44FormatoVerificaciondeequipos-senalesMUX-NOX-ENVEA-V6.pdf",
+                "ruta": "Estaciones/CA2 CNA/3. NO2/1380/251001_NO-FOM303-44FormatoVerificaciondeequipos-senalesMUX-NOX-ENVEA-V6.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251015_NO-FOM303-44FormatoVerificaciondeequipos-senalesMUX-NOX-ENVEA-V6.pdf",
+                "ruta": "Estaciones/CA2 CNA/3. NO2/1380/251015_NO-FOM303-44FormatoVerificaciondeequipos-senalesMUX-NOX-ENVEA-V6.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251104_NO-FOM303-44FormatoVerificaciondeequipos-senalesMUX-NOX-ENVEA-V6.pdf",
+                "ruta": "Estaciones/CA2 CNA/3. NO2/1380/251104_NO-FOM303-44FormatoVerificaciondeequipos-senalesMUX-NOX-ENVEA-V6.pdf"
+              }
+            ]
+          },
+          {
+            "tipo": "carpeta",
+            "nombre": "1436363817",
+            "contenido": [
+              {
+                "tipo": "archivo",
+                "nombre": "251129_BB-F-151 QC NO2 CNA NOV 29.pdf",
+                "ruta": "Estaciones/CA2 CNA/3. NO2/1436363817/251129_BB-F-151 QC NO2 CNA NOV 29.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251213_BB-F-151 QC NO2 CNA DIC 13.pdf",
+                "ruta": "Estaciones/CA2 CNA/3. NO2/1436363817/251213_BB-F-151 QC NO2 CNA DIC 13.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251222_BB-F-151 QC NO2 CNA DIC 22.pdf",
+                "ruta": "Estaciones/CA2 CNA/3. NO2/1436363817/251222_BB-F-151 QC NO2 CNA DIC 22.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "260106_BB-F-151 QC NO2 CNA ENE 06.pdf",
+                "ruta": "Estaciones/CA2 CNA/3. NO2/1436363817/260106_BB-F-151 QC NO2 CNA ENE 06.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "260122_BB-F-151 QC NO2 CNA ENE 22.pdf",
+                "ruta": "Estaciones/CA2 CNA/3. NO2/1436363817/260122_BB-F-151 QC NO2 CNA ENE 22.pdf"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tipo": "carpeta",
+        "nombre": "4. 03",
+        "contenido": [
+          {
+            "tipo": "carpeta",
+            "nombre": "1096",
+            "contenido": [
+              {
+                "tipo": "archivo",
+                "nombre": "250127_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf",
+                "ruta": "Estaciones/CA2 CNA/4. 03/1096/250127_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250212_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf",
+                "ruta": "Estaciones/CA2 CNA/4. 03/1096/250212_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250331_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf",
+                "ruta": "Estaciones/CA2 CNA/4. 03/1096/250331_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250415_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf",
+                "ruta": "Estaciones/CA2 CNA/4. 03/1096/250415_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250529_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf",
+                "ruta": "Estaciones/CA2 CNA/4. 03/1096/250529_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250611_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf",
+                "ruta": "Estaciones/CA2 CNA/4. 03/1096/250611_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250626_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf",
+                "ruta": "Estaciones/CA2 CNA/4. 03/1096/250626_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250716_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf",
+                "ruta": "Estaciones/CA2 CNA/4. 03/1096/250716_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250729_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf",
+                "ruta": "Estaciones/CA2 CNA/4. 03/1096/250729_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250815_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf",
+                "ruta": "Estaciones/CA2 CNA/4. 03/1096/250815_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250828_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf",
+                "ruta": "Estaciones/CA2 CNA/4. 03/1096/250828_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250910_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf",
+                "ruta": "Estaciones/CA2 CNA/4. 03/1096/250910_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250926_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf",
+                "ruta": "Estaciones/CA2 CNA/4. 03/1096/250926_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251001_O3-FOM303-42FormatoVerificaciondeequiposO3ENVEA-senalesMUXO3-V5.pdf",
+                "ruta": "Estaciones/CA2 CNA/4. 03/1096/251001_O3-FOM303-42FormatoVerificaciondeequiposO3ENVEA-senalesMUXO3-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251015_O3-FOM303-42FormatoVerificaciondeequiposO3ENVEA-senalesMUXO3-V5.pdf",
+                "ruta": "Estaciones/CA2 CNA/4. 03/1096/251015_O3-FOM303-42FormatoVerificaciondeequiposO3ENVEA-senalesMUXO3-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251104_O3-FOM303-42FormatoVerificaciondeequiposO3ENVEA-senalesMUXO3-V5.pdf",
+                "ruta": "Estaciones/CA2 CNA/4. 03/1096/251104_O3-FOM303-42FormatoVerificaciondeequiposO3ENVEA-senalesMUXO3-V5.pdf"
+              }
+            ]
+          },
+          {
+            "tipo": "carpeta",
+            "nombre": "E1904000",
+            "contenido": [
+              {
+                "tipo": "archivo",
+                "nombre": "Ene_FebITAC-FO-007_Calibracion_O3_CA2-CNA.pdf",
+                "ruta": "Estaciones/CA2 CNA/4. 03/E1904000/Ene_FebITAC-FO-007_Calibracion_O3_CA2-CNA.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "Nov_Dic_ITAC-FO-007_Calibracion_O3_CA2-CNA.pdf",
+                "ruta": "Estaciones/CA2 CNA/4. 03/E1904000/Nov_Dic_ITAC-FO-007_Calibracion_O3_CA2-CNA.pdf"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tipo": "carpeta",
+        "nombre": "5. SO2",
+        "contenido": [
+          {
+            "tipo": "carpeta",
+            "nombre": "1680",
+            "contenido": [
+              {
+                "tipo": "archivo",
+                "nombre": "250127_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf",
+                "ruta": "Estaciones/CA2 CNA/5. SO2/1680/250127_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250212_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf",
+                "ruta": "Estaciones/CA2 CNA/5. SO2/1680/250212_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250317_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf",
+                "ruta": "Estaciones/CA2 CNA/5. SO2/1680/250317_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250415_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf",
+                "ruta": "Estaciones/CA2 CNA/5. SO2/1680/250415_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250529_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf",
+                "ruta": "Estaciones/CA2 CNA/5. SO2/1680/250529_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250611_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf",
+                "ruta": "Estaciones/CA2 CNA/5. SO2/1680/250611_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250626_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf",
+                "ruta": "Estaciones/CA2 CNA/5. SO2/1680/250626_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250716_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf",
+                "ruta": "Estaciones/CA2 CNA/5. SO2/1680/250716_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250729_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf",
+                "ruta": "Estaciones/CA2 CNA/5. SO2/1680/250729_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250815_18. SO 5207_1_Documento__5295_FOM303-45FormatoVerificaciondeequipos-senalesMUX-SOX-ENVEA-V5 15-08-2025.pdf",
+                "ruta": "Estaciones/CA2 CNA/5. SO2/1680/250815_18. SO 5207_1_Documento__5295_FOM303-45FormatoVerificaciondeequipos-senalesMUX-SOX-ENVEA-V5 15-08-2025.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250828_18. SO 5207_1_Documento__5295_FOM303-45FormatoVerificaciondeequipos-senalesMUX-SOX-ENVEA-V5 28-08-2025.pdf",
+                "ruta": "Estaciones/CA2 CNA/5. SO2/1680/250828_18. SO 5207_1_Documento__5295_FOM303-45FormatoVerificaciondeequipos-senalesMUX-SOX-ENVEA-V5 28-08-2025.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250911_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf",
+                "ruta": "Estaciones/CA2 CNA/5. SO2/1680/250911_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250926_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf",
+                "ruta": "Estaciones/CA2 CNA/5. SO2/1680/250926_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251001_SO-FOM303-45FormatoVerificaciondeequipos-senalesMUX-SOX-ENVEA-V5.pdf",
+                "ruta": "Estaciones/CA2 CNA/5. SO2/1680/251001_SO-FOM303-45FormatoVerificaciondeequipos-senalesMUX-SOX-ENVEA-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251015_SO-FOM303-45FormatoVerificaciondeequipos-senalesMUX-SOX-ENVEA-V5.pdf",
+                "ruta": "Estaciones/CA2 CNA/5. SO2/1680/251015_SO-FOM303-45FormatoVerificaciondeequipos-senalesMUX-SOX-ENVEA-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251104_SO-FOM303-45FormatoVerificaciondeequipos-senalesMUX-SOX-ENVEA-V5.pdf",
+                "ruta": "Estaciones/CA2 CNA/5. SO2/1680/251104_SO-FOM303-45FormatoVerificaciondeequipos-senalesMUX-SOX-ENVEA-V5.pdf"
+              }
+            ]
+          },
+          {
+            "tipo": "carpeta",
+            "nombre": "818530543",
+            "contenido": [
+              {
+                "tipo": "archivo",
+                "nombre": "251129_BB-F-152 QC SO2 CNA NOV 29.pdf",
+                "ruta": "Estaciones/CA2 CNA/5. SO2/818530543/251129_BB-F-152 QC SO2 CNA NOV 29.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251213_BB-F-152 QC SO2 CNA DIC 13.pdf",
+                "ruta": "Estaciones/CA2 CNA/5. SO2/818530543/251213_BB-F-152 QC SO2 CNA DIC 13.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251222_BB-F-152 QC SO2 CNA DIC 22.pdf",
+                "ruta": "Estaciones/CA2 CNA/5. SO2/818530543/251222_BB-F-152 QC SO2 CNA DIC 22.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "260106_BB-F-152 QC SO2 CNA ENE 06.pdf",
+                "ruta": "Estaciones/CA2 CNA/5. SO2/818530543/260106_BB-F-152 QC SO2 CNA ENE 06.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "260122_BB-F-152 QC SO2 CNA ENE 22.pdf",
+                "ruta": "Estaciones/CA2 CNA/5. SO2/818530543/260122_BB-F-152 QC SO2 CNA ENE 22.pdf"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tipo": "carpeta",
+        "nombre": "6. Meteorologia",
+        "contenido": [
+          {
+            "tipo": "carpeta",
+            "nombre": "BJ250804001",
+            "contenido": [
+              {
+                "tipo": "archivo",
+                "nombre": "CamScanner 12-02-2026 11.41 (1).pdf",
+                "ruta": "Estaciones/CA2 CNA/6. Meteorologia/BJ250804001/CamScanner 12-02-2026 11.41 (1).pdf"
+              }
+            ]
+          },
+          {
+            "tipo": "archivo",
+            "nombre": "Intercomparacion Historica  CA2 2.xlsx",
+            "ruta": "Estaciones/CA2 CNA/6. Meteorologia/Intercomparacion Historica  CA2 2.xlsx"
+          }
+        ]
+      },
+      {
+        "tipo": "carpeta",
+        "nombre": "7. Temperatura Shelter",
+        "contenido": [
+          {
+            "tipo": "archivo",
+            "nombre": "41. FOM303-32 Formato de campo monitoreo analizadores automáticos - V7 (CA2 CNA) Diciembre.xlsx",
+            "ruta": "Estaciones/CA2 CNA/7. Temperatura Shelter/41. FOM303-32 Formato de campo monitoreo analizadores automáticos - V7 (CA2 CNA) Diciembre.xlsx"
+          },
+          {
+            "tipo": "archivo",
+            "nombre": "41. FOM303-32 Formato de campo monitoreo analizadores automáticos - V7 (CA2 CNA) Enero .xlsx",
+            "ruta": "Estaciones/CA2 CNA/7. Temperatura Shelter/41. FOM303-32 Formato de campo monitoreo analizadores automáticos - V7 (CA2 CNA) Enero .xlsx"
+          },
+          {
+            "tipo": "archivo",
+            "nombre": "41. FOM303-32 Formato de campo monitoreo analizadores automáticos - V7 (CA2 CNA) febrero.xlsx",
+            "ruta": "Estaciones/CA2 CNA/7. Temperatura Shelter/41. FOM303-32 Formato de campo monitoreo analizadores automáticos - V7 (CA2 CNA) febrero.xlsx"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tipo": "carpeta",
+    "nombre": "CA3 Fontibón",
+    "contenido": [
+      {
+        "tipo": "carpeta",
+        "nombre": "1. FIDAS",
+        "contenido": [
+          {
+            "tipo": "carpeta",
+            "nombre": "FIDAS 18569",
+            "contenido": [
+              {
+                "tipo": "carpeta",
+                "nombre": "Certificados de calibracion y Verificación",
+                "contenido": [
+                  {
+                    "tipo": "archivo",
+                    "nombre": "251231FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf",
+                    "ruta": "Estaciones/CA3 Fontibón/1. FIDAS/FIDAS 18569/Certificados de calibracion y Verificación/251231FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf"
+                  },
+                  {
+                    "tipo": "archivo",
+                    "nombre": "260121_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf",
+                    "ruta": "Estaciones/CA3 Fontibón/1. FIDAS/FIDAS 18569/Certificados de calibracion y Verificación/260121_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf"
+                  }
+                ]
+              },
+              {
+                "tipo": "carpeta",
+                "nombre": "Hoja De vida",
+                "contenido": [
+                  {
+                    "tipo": "archivo",
+                    "nombre": "Copia de FOA801-03 FIDAS200 18569 CA3 Fontibón.xlsx",
+                    "ruta": "Estaciones/CA3 Fontibón/1. FIDAS/FIDAS 18569/Hoja De vida/Copia de FOA801-03 FIDAS200 18569 CA3 Fontibón.xlsx"
+                  },
+                  {
+                    "tipo": "archivo",
+                    "nombre": "Copia de FOA801-03 FIDAS200 18569.xlsx",
+                    "ruta": "Estaciones/CA3 Fontibón/1. FIDAS/FIDAS 18569/Hoja De vida/Copia de FOA801-03 FIDAS200 18569.xlsx"
+                  }
+                ]
+              },
+              {
+                "tipo": "carpeta",
+                "nombre": "Meteorologia",
+                "contenido": [
+                  {
+                    "tipo": "carpeta",
+                    "nombre": "026.0324.0812.251-C",
+                    "contenido": [
+                      {
+                        "tipo": "archivo",
+                        "nombre": "R21-26-CLH 15026-026.0324.0812.251.pdf",
+                        "ruta": "Estaciones/CA3 Fontibón/1. FIDAS/FIDAS 18569/Meteorologia/026.0324.0812.251-C/R21-26-CLH 15026-026.0324.0812.251.pdf"
+                      },
+                      {
+                        "tipo": "archivo",
+                        "nombre": "R21-26-CLP 0426-026.0324.0812.251.pdf",
+                        "ruta": "Estaciones/CA3 Fontibón/1. FIDAS/FIDAS 18569/Meteorologia/026.0324.0812.251-C/R21-26-CLP 0426-026.0324.0812.251.pdf"
+                      },
+                      {
+                        "tipo": "archivo",
+                        "nombre": "R21-26-CLT 34726-026.0324.0812.251.pdf",
+                        "ruta": "Estaciones/CA3 Fontibón/1. FIDAS/FIDAS 18569/Meteorologia/026.0324.0812.251-C/R21-26-CLT 34726-026.0324.0812.251.pdf"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipo": "carpeta",
+            "nombre": "FIDAS 19790",
+            "contenido": [
+              {
+                "tipo": "archivo",
+                "nombre": "250130_Calibracion_FIDAS_FONTIBON.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/1. FIDAS/FIDAS 19790/250130_Calibracion_FIDAS_FONTIBON.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250214_Documento__2101_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V3.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/1. FIDAS/FIDAS 19790/250214_Documento__2101_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V3.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250322_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/1. FIDAS/FIDAS 19790/250322_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250430_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/1. FIDAS/FIDAS 19790/250430_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250521_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/1. FIDAS/FIDAS 19790/250521_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250626_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/1. FIDAS/FIDAS 19790/250626_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250715_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/1. FIDAS/FIDAS 19790/250715_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250830_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4 30-08-2025.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/1. FIDAS/FIDAS 19790/250830_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4 30-08-2025.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250930_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/1. FIDAS/FIDAS 19790/250930_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251015_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/1. FIDAS/FIDAS 19790/251015_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251105_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/1. FIDAS/FIDAS 19790/251105_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tipo": "carpeta",
+        "nombre": "2. CO",
+        "contenido": [
+          {
+            "tipo": "carpeta",
+            "nombre": "132",
+            "contenido": [
+              {
+                "tipo": "archivo",
+                "nombre": "250130_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/2. CO/132/250130_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250214_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/2. CO/132/250214_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250325_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/2. CO/132/250325_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250416_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/2. CO/132/250416_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250521_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4..pdf",
+                "ruta": "Estaciones/CA3 Fontibón/2. CO/132/250521_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4..pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250612_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/2. CO/132/250612_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250626_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/2. CO/132/250626_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250715_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/2. CO/132/250715_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250731_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/2. CO/132/250731_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250811_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/2. CO/132/250811_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250830_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/2. CO/132/250830_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250912_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/2. CO/132/250912_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250930_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/2. CO/132/250930_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf"
+              }
+            ]
+          },
+          {
+            "tipo": "carpeta",
+            "nombre": "1805",
+            "contenido": [
+              {
+                "tipo": "archivo",
+                "nombre": "250110_CO-FOM303-41FormatoVerificaciondeequiposCOENVEA-senalesMUXCO-V5.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/2. CO/1805/250110_CO-FOM303-41FormatoVerificaciondeequiposCOENVEA-senalesMUXCO-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251015_CO-FOM303-41FormatoVerificaciondeequiposCOENVEA-senalesMUXCO-V5.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/2. CO/1805/251015_CO-FOM303-41FormatoVerificaciondeequiposCOENVEA-senalesMUXCO-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251105_CO-FOM303-41FormatoVerificaciondeequiposCOENVEA-senalesMUXCO-V5.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/2. CO/1805/251105_CO-FOM303-41FormatoVerificaciondeequiposCOENVEA-senalesMUXCO-V5.pdf"
+              }
+            ]
+          },
+          {
+            "tipo": "carpeta",
+            "nombre": "917736426",
+            "contenido": [
+              {
+                "tipo": "archivo",
+                "nombre": "251130_BB-F-140 QC CO FONTIBON NOV 30.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/2. CO/917736426/251130_BB-F-140 QC CO FONTIBON NOV 30.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251214_BB-F-140 QC CO FONTIBON DIC 14.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/2. CO/917736426/251214_BB-F-140 QC CO FONTIBON DIC 14.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251223_BB-F-140 QC CO FONTIBON DIC 23.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/2. CO/917736426/251223_BB-F-140 QC CO FONTIBON DIC 23.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "260107_BB-F-140 QC CO FONTIBON ENE 07.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/2. CO/917736426/260107_BB-F-140 QC CO FONTIBON ENE 07.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "260121_BB-F-140 QC CO FONTIBON ENE 21.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/2. CO/917736426/260121_BB-F-140 QC CO FONTIBON ENE 21.pdf"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tipo": "carpeta",
+        "nombre": "3. NO2",
+        "contenido": [
+          {
+            "tipo": "carpeta",
+            "nombre": "1502",
+            "contenido": [
+              {
+                "tipo": "archivo",
+                "nombre": "250130_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/3. NO2/1502/250130_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250214_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/3. NO2/1502/250214_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf"
+              }
+            ]
+          },
+          {
+            "tipo": "carpeta",
+            "nombre": "2313",
+            "contenido": [
+              {
+                "tipo": "archivo",
+                "nombre": "250331_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/3. NO2/2313/250331_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250416_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/3. NO2/2313/250416_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250528_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5..pdf",
+                "ruta": "Estaciones/CA3 Fontibón/3. NO2/2313/250528_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5..pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250612_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/3. NO2/2313/250612_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250626_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/3. NO2/2313/250626_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250715_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/3. NO2/2313/250715_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250731_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/3. NO2/2313/250731_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250811_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/3. NO2/2313/250811_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250830_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/3. NO2/2313/250830_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250912_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/3. NO2/2313/250912_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250930_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/3. NO2/2313/250930_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251001_NO-FOM303-44FormatoVerificaciondeequipos-senalesMUX-NOX-ENVEA-V6.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/3. NO2/2313/251001_NO-FOM303-44FormatoVerificaciondeequipos-senalesMUX-NOX-ENVEA-V6.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251015_NO-FOM303-44FormatoVerificaciondeequipos-senalesMUX-NOX-ENVEA-V6.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/3. NO2/2313/251015_NO-FOM303-44FormatoVerificaciondeequipos-senalesMUX-NOX-ENVEA-V6.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251105_NO-FOM303-44FormatoVerificaciondeequipos-senalesMUX-NOX-ENVEA-V6.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/3. NO2/2313/251105_NO-FOM303-44FormatoVerificaciondeequipos-senalesMUX-NOX-ENVEA-V6.pdf"
+              }
+            ]
+          },
+          {
+            "tipo": "carpeta",
+            "nombre": "800727119",
+            "contenido": [
+              {
+                "tipo": "archivo",
+                "nombre": "251130_BB-F-151 QC NO2 FONTIBON NOV 30.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/3. NO2/800727119/251130_BB-F-151 QC NO2 FONTIBON NOV 30.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251214_BB-F-151 QC NO2 FONTIBON DIC 14.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/3. NO2/800727119/251214_BB-F-151 QC NO2 FONTIBON DIC 14.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251223_BB-F-151 QC NO2 FONTIBON DIC 23.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/3. NO2/800727119/251223_BB-F-151 QC NO2 FONTIBON DIC 23.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "260107_BB-F-151 QC NO2 FONTIBON ENE 07.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/3. NO2/800727119/260107_BB-F-151 QC NO2 FONTIBON ENE 07.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "260121_BB-F-151 QC NO2 FONTIBON ENE 21.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/3. NO2/800727119/260121_BB-F-151 QC NO2 FONTIBON ENE 21.pdf"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tipo": "carpeta",
+        "nombre": "4. O3",
+        "contenido": [
+          {
+            "tipo": "carpeta",
+            "nombre": "1173",
+            "contenido": [
+              {
+                "tipo": "archivo",
+                "nombre": "250130_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/4. O3/1173/250130_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250214_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/4. O3/1173/250214_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250322_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/4. O3/1173/250322_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250416_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/4. O3/1173/250416_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250528_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4..pdf",
+                "ruta": "Estaciones/CA3 Fontibón/4. O3/1173/250528_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4..pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250612_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/4. O3/1173/250612_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250626_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/4. O3/1173/250626_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250715_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/4. O3/1173/250715_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250731_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/4. O3/1173/250731_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250811_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/4. O3/1173/250811_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250830_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/4. O3/1173/250830_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250912_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/4. O3/1173/250912_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250930_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/4. O3/1173/250930_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251001_O3-FOM303-42FormatoVerificaciondeequiposO3ENVEA-senalesMUXO3-V5.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/4. O3/1173/251001_O3-FOM303-42FormatoVerificaciondeequiposO3ENVEA-senalesMUXO3-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251015_O3-FOM303-42FormatoVerificaciondeequiposO3ENVEA-senalesMUXO3-V5.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/4. O3/1173/251015_O3-FOM303-42FormatoVerificaciondeequiposO3ENVEA-senalesMUXO3-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251105_O3-FOM303-42FormatoVerificaciondeequiposO3ENVEA-senalesMUXO3-V5.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/4. O3/1173/251105_O3-FOM303-42FormatoVerificaciondeequiposO3ENVEA-senalesMUXO3-V5.pdf"
+              }
+            ]
+          },
+          {
+            "tipo": "carpeta",
+            "nombre": "1182550020",
+            "contenido": [
+              {
+                "tipo": "archivo",
+                "nombre": "Ener_Anexo 2. Datos de calibración y verificación.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/4. O3/1182550020/Ener_Anexo 2. Datos de calibración y verificación.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "Nov_Dic_Anexo 2. Datos de calibración y verificación -diciembre.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/4. O3/1182550020/Nov_Dic_Anexo 2. Datos de calibración y verificación -diciembre.pdf"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tipo": "carpeta",
+        "nombre": "5. SO2",
+        "contenido": [
+          {
+            "tipo": "carpeta",
+            "nombre": "0906435237",
+            "contenido": [
+              {
+                "tipo": "archivo",
+                "nombre": "251130_BB-F-152 QC SO2 FONTIBON NOV 30.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/5. SO2/0906435237/251130_BB-F-152 QC SO2 FONTIBON NOV 30.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251214_BB-F-152 QC SO2 FONTIBON DIC 14.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/5. SO2/0906435237/251214_BB-F-152 QC SO2 FONTIBON DIC 14.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251223_BB-F-152 QC SO2 FONTIBON DIC 23.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/5. SO2/0906435237/251223_BB-F-152 QC SO2 FONTIBON DIC 23.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "260107_BB-F-152 QC SO2 FONTIBON ENE 07.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/5. SO2/0906435237/260107_BB-F-152 QC SO2 FONTIBON ENE 07.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "260121_BB-F-152 QC SO2 FONTIBON ENE 21.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/5. SO2/0906435237/260121_BB-F-152 QC SO2 FONTIBON ENE 21.pdf"
+              }
+            ]
+          },
+          {
+            "tipo": "carpeta",
+            "nombre": "1682",
+            "contenido": [
+              {
+                "tipo": "archivo",
+                "nombre": "250130_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/5. SO2/1682/250130_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250214_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/5. SO2/1682/250214_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250322_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/5. SO2/1682/250322_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250416_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/5. SO2/1682/250416_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250528_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4..pdf",
+                "ruta": "Estaciones/CA3 Fontibón/5. SO2/1682/250528_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4..pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250612_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/5. SO2/1682/250612_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250626_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/5. SO2/1682/250626_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250715_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/5. SO2/1682/250715_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250731_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/5. SO2/1682/250731_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250811_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/5. SO2/1682/250811_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250830_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/5. SO2/1682/250830_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250911_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/5. SO2/1682/250911_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250930_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/5. SO2/1682/250930_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf"
+              }
+            ]
+          },
+          {
+            "tipo": "carpeta",
+            "nombre": "2411",
+            "contenido": [
+              {
+                "tipo": "archivo",
+                "nombre": "251001_SO2-FOM303-45FormatoVerificaciondeequipos-senalesMUX-SOX-ENVEA-V5.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/5. SO2/2411/251001_SO2-FOM303-45FormatoVerificaciondeequipos-senalesMUX-SOX-ENVEA-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251015_SO-FOM303-45FormatoVerificaciondeequipos-senalesMUX-SOX-ENVEA-V5.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/5. SO2/2411/251015_SO-FOM303-45FormatoVerificaciondeequipos-senalesMUX-SOX-ENVEA-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251105_SO-FOM303-45FormatoVerificaciondeequipos-senalesMUX-SOX-ENVEA-V5.pdf",
+                "ruta": "Estaciones/CA3 Fontibón/5. SO2/2411/251105_SO-FOM303-45FormatoVerificaciondeequipos-senalesMUX-SOX-ENVEA-V5.pdf"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tipo": "carpeta",
+        "nombre": "6. Meteorologia",
+        "contenido": [
+          {
+            "tipo": "archivo",
+            "nombre": "Intercomparacion Historica  FON 1.xlsx",
+            "ruta": "Estaciones/CA3 Fontibón/6. Meteorologia/Intercomparacion Historica  FON 1.xlsx"
+          }
+        ]
+      },
+      {
+        "tipo": "carpeta",
+        "nombre": "7. Temperaturas Shelter",
+        "contenido": [
+          {
+            "tipo": "archivo",
+            "nombre": "41. FOM303-32 Formato de campo monitoreo analizadores automáticos - V7 (CA3 Fontibón) Diciembre.xlsx",
+            "ruta": "Estaciones/CA3 Fontibón/7. Temperaturas Shelter/41. FOM303-32 Formato de campo monitoreo analizadores automáticos - V7 (CA3 Fontibón) Diciembre.xlsx"
+          },
+          {
+            "tipo": "archivo",
+            "nombre": "41. FOM303-32 Formato de campo monitoreo analizadores automáticos - V7 (CA3 Fontibón) Enero.xlsx",
+            "ruta": "Estaciones/CA3 Fontibón/7. Temperaturas Shelter/41. FOM303-32 Formato de campo monitoreo analizadores automáticos - V7 (CA3 Fontibón) Enero.xlsx"
+          },
+          {
+            "tipo": "archivo",
+            "nombre": "41. FOM303-32 Formato de campo monitoreo analizadores automáticos - V7 (CA3 Fontibón) Febrero.xlsx",
+            "ruta": "Estaciones/CA3 Fontibón/7. Temperaturas Shelter/41. FOM303-32 Formato de campo monitoreo analizadores automáticos - V7 (CA3 Fontibón) Febrero.xlsx"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tipo": "carpeta",
+    "nombre": "CA4 Funza",
+    "contenido": [
+      {
+        "tipo": "carpeta",
+        "nombre": "1. FIDAS",
+        "contenido": [
+          {
+            "tipo": "carpeta",
+            "nombre": "FIDAS 19313",
+            "contenido": [
+              {
+                "tipo": "carpeta",
+                "nombre": "Certificados de calibración y Verificación",
+                "contenido": [
+                  {
+                    "tipo": "archivo",
+                    "nombre": "251201_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf",
+                    "ruta": "Estaciones/CA4 Funza/1. FIDAS/FIDAS 19313/Certificados de calibración y Verificación/251201_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf"
+                  },
+                  {
+                    "tipo": "archivo",
+                    "nombre": "260123_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf",
+                    "ruta": "Estaciones/CA4 Funza/1. FIDAS/FIDAS 19313/Certificados de calibración y Verificación/260123_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf"
+                  }
+                ]
+              },
+              {
+                "tipo": "carpeta",
+                "nombre": "Hoja De vida",
+                "contenido": [
+                  {
+                    "tipo": "archivo",
+                    "nombre": "Copia de FOA801-03 FIDAS200 19313 CA4 Funza.xlsx",
+                    "ruta": "Estaciones/CA4 Funza/1. FIDAS/FIDAS 19313/Hoja De vida/Copia de FOA801-03 FIDAS200 19313 CA4 Funza.xlsx"
+                  },
+                  {
+                    "tipo": "archivo",
+                    "nombre": "Copia de FOA801-03 FIDAS200 19313.xlsx",
+                    "ruta": "Estaciones/CA4 Funza/1. FIDAS/FIDAS 19313/Hoja De vida/Copia de FOA801-03 FIDAS200 19313.xlsx"
+                  }
+                ]
+              },
+              {
+                "tipo": "carpeta",
+                "nombre": "Meteoroogia",
+                "contenido": [
+                  {
+                    "tipo": "carpeta",
+                    "nombre": "027.0324.0812.251-C",
+                    "contenido": [
+                      {
+                        "tipo": "archivo",
+                        "nombre": "R21-26-CLH 15126-027.0324.0812.251.pdf",
+                        "ruta": "Estaciones/CA4 Funza/1. FIDAS/FIDAS 19313/Meteoroogia/027.0324.0812.251-C/R21-26-CLH 15126-027.0324.0812.251.pdf"
+                      },
+                      {
+                        "tipo": "archivo",
+                        "nombre": "R21-26-CLP 1026-027.0324.0812.251.pdf",
+                        "ruta": "Estaciones/CA4 Funza/1. FIDAS/FIDAS 19313/Meteoroogia/027.0324.0812.251-C/R21-26-CLP 1026-027.0324.0812.251.pdf"
+                      },
+                      {
+                        "tipo": "archivo",
+                        "nombre": "R21-26-CLT 34526-027.0324.0812.251.pdf",
+                        "ruta": "Estaciones/CA4 Funza/1. FIDAS/FIDAS 19313/Meteoroogia/027.0324.0812.251-C/R21-26-CLT 34526-027.0324.0812.251.pdf"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipo": "carpeta",
+            "nombre": "FIDAS 19781",
+            "contenido": [
+              {
+                "tipo": "archivo",
+                "nombre": "250129_Calibracion_FIDAS_FUNZA.pdf",
+                "ruta": "Estaciones/CA4 Funza/1. FIDAS/FIDAS 19781/250129_Calibracion_FIDAS_FUNZA.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250226_Documento__2101_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V3.pdf",
+                "ruta": "Estaciones/CA4 Funza/1. FIDAS/FIDAS 19781/250226_Documento__2101_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V3.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250327_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf",
+                "ruta": "Estaciones/CA4 Funza/1. FIDAS/FIDAS 19781/250327_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250430_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf",
+                "ruta": "Estaciones/CA4 Funza/1. FIDAS/FIDAS 19781/250430_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250530_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf",
+                "ruta": "Estaciones/CA4 Funza/1. FIDAS/FIDAS 19781/250530_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250627_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf",
+                "ruta": "Estaciones/CA4 Funza/1. FIDAS/FIDAS 19781/250627_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250814_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf",
+                "ruta": "Estaciones/CA4 Funza/1. FIDAS/FIDAS 19781/250814_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250917_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf",
+                "ruta": "Estaciones/CA4 Funza/1. FIDAS/FIDAS 19781/250917_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251016_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf",
+                "ruta": "Estaciones/CA4 Funza/1. FIDAS/FIDAS 19781/251016_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251107_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4 11-07-2025.pdf",
+                "ruta": "Estaciones/CA4 Funza/1. FIDAS/FIDAS 19781/251107_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4 11-07-2025.pdf"
+              }
+            ]
+          },
+          {
+            "tipo": "carpeta",
+            "nombre": "FIDAS 20092",
+            "contenido": [
+              {
+                "tipo": "carpeta",
+                "nombre": "Certificados de calibración y verificación",
+                "contenido": [
+                  {
+                    "tipo": "archivo",
+                    "nombre": "251016_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf",
+                    "ruta": "Estaciones/CA4 Funza/1. FIDAS/FIDAS 20092/Certificados de calibración y verificación/251016_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf"
+                  },
+                  {
+                    "tipo": "archivo",
+                    "nombre": "251106_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf",
+                    "ruta": "Estaciones/CA4 Funza/1. FIDAS/FIDAS 20092/Certificados de calibración y verificación/251106_FOM202-02Formatocalibraciondeequipoautomatico-FIDAS200-V4.pdf"
+                  }
+                ]
+              },
+              {
+                "tipo": "carpeta",
+                "nombre": "Hoja De Vida",
+                "contenido": [
+                  {
+                    "tipo": "archivo",
+                    "nombre": "Copia de FOA801-03 FIDAS200 20092 Aerocivil.xlsx",
+                    "ruta": "Estaciones/CA4 Funza/1. FIDAS/FIDAS 20092/Hoja De Vida/Copia de FOA801-03 FIDAS200 20092 Aerocivil.xlsx"
+                  },
+                  {
+                    "tipo": "archivo",
+                    "nombre": "Copia de FOA801-03 FIDAS200 20092.xlsx",
+                    "ruta": "Estaciones/CA4 Funza/1. FIDAS/FIDAS 20092/Hoja De Vida/Copia de FOA801-03 FIDAS200 20092.xlsx"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tipo": "carpeta",
+        "nombre": "2. CO",
+        "contenido": [
+          {
+            "tipo": "carpeta",
+            "nombre": "1797",
+            "contenido": [
+              {
+                "tipo": "archivo",
+                "nombre": "250129_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf",
+                "ruta": "Estaciones/CA4 Funza/2. CO/1797/250129_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250213_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf",
+                "ruta": "Estaciones/CA4 Funza/2. CO/1797/250213_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250327_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf",
+                "ruta": "Estaciones/CA4 Funza/2. CO/1797/250327_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250417_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf",
+                "ruta": "Estaciones/CA4 Funza/2. CO/1797/250417_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250530_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf",
+                "ruta": "Estaciones/CA4 Funza/2. CO/1797/250530_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250614_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf",
+                "ruta": "Estaciones/CA4 Funza/2. CO/1797/250614_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250627_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf",
+                "ruta": "Estaciones/CA4 Funza/2. CO/1797/250627_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250730_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf",
+                "ruta": "Estaciones/CA4 Funza/2. CO/1797/250730_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250814_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf",
+                "ruta": "Estaciones/CA4 Funza/2. CO/1797/250814_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250829_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf",
+                "ruta": "Estaciones/CA4 Funza/2. CO/1797/250829_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250917_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf",
+                "ruta": "Estaciones/CA4 Funza/2. CO/1797/250917_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250929_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf",
+                "ruta": "Estaciones/CA4 Funza/2. CO/1797/250929_FOM303-41 Formato Verificacion de equipos CO ENVEA-señales MUX CO-V4.pdf"
+              }
+            ]
+          },
+          {
+            "tipo": "carpeta",
+            "nombre": "1803",
+            "contenido": [
+              {
+                "tipo": "archivo",
+                "nombre": "251002_CO-FOM303-41FormatoVerificaciondeequiposCOENVEA-senalesMUXCO-V5.pdf",
+                "ruta": "Estaciones/CA4 Funza/2. CO/1803/251002_CO-FOM303-41FormatoVerificaciondeequiposCOENVEA-senalesMUXCO-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251016_CO-FOM303-41FormatoVerificaciondeequiposCOENVEA-senalesMUXCO-V5.pdf",
+                "ruta": "Estaciones/CA4 Funza/2. CO/1803/251016_CO-FOM303-41FormatoVerificaciondeequiposCOENVEA-senalesMUXCO-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251130_CO-FOM303-41FormatoVerificaciondeequiposCOENVEA-senalesMUXCO-V5.pdf",
+                "ruta": "Estaciones/CA4 Funza/2. CO/1803/251130_CO-FOM303-41FormatoVerificaciondeequiposCOENVEA-senalesMUXCO-V5.pdf"
+              }
+            ]
+          },
+          {
+            "tipo": "carpeta",
+            "nombre": "ABKETAEU",
+            "contenido": [
+              {
+                "tipo": "archivo",
+                "nombre": "251129_BB-F-140 QC CO FUNZA NOV 29.pdf",
+                "ruta": "Estaciones/CA4 Funza/2. CO/ABKETAEU/251129_BB-F-140 QC CO FUNZA NOV 29.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251213_BB-F-140 QC CO FUNZA DIC 13.pdf",
+                "ruta": "Estaciones/CA4 Funza/2. CO/ABKETAEU/251213_BB-F-140 QC CO FUNZA DIC 13.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251222_BB-F-140 QC CO FUNZA DIC 22.pdf",
+                "ruta": "Estaciones/CA4 Funza/2. CO/ABKETAEU/251222_BB-F-140 QC CO FUNZA DIC 22.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "260106_BB-F-140 QC CO FUNZA ENE 06.pdf",
+                "ruta": "Estaciones/CA4 Funza/2. CO/ABKETAEU/260106_BB-F-140 QC CO FUNZA ENE 06.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "260123_BB-F-140 QC CO FUNZA ENE 23.pdf",
+                "ruta": "Estaciones/CA4 Funza/2. CO/ABKETAEU/260123_BB-F-140 QC CO FUNZA ENE 23.pdf"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tipo": "carpeta",
+        "nombre": "3. NO2",
+        "contenido": [
+          {
+            "tipo": "carpeta",
+            "nombre": "2311",
+            "contenido": [
+              {
+                "tipo": "archivo",
+                "nombre": "250129_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf",
+                "ruta": "Estaciones/CA4 Funza/3. NO2/2311/250129_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250213_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf",
+                "ruta": "Estaciones/CA4 Funza/3. NO2/2311/250213_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250327_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf",
+                "ruta": "Estaciones/CA4 Funza/3. NO2/2311/250327_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250417_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf",
+                "ruta": "Estaciones/CA4 Funza/3. NO2/2311/250417_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250530_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf",
+                "ruta": "Estaciones/CA4 Funza/3. NO2/2311/250530_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250614_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf",
+                "ruta": "Estaciones/CA4 Funza/3. NO2/2311/250614_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250627_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf",
+                "ruta": "Estaciones/CA4 Funza/3. NO2/2311/250627_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250711_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf",
+                "ruta": "Estaciones/CA4 Funza/3. NO2/2311/250711_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250730_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf",
+                "ruta": "Estaciones/CA4 Funza/3. NO2/2311/250730_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250814_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf",
+                "ruta": "Estaciones/CA4 Funza/3. NO2/2311/250814_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250918_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf",
+                "ruta": "Estaciones/CA4 Funza/3. NO2/2311/250918_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250929_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf",
+                "ruta": "Estaciones/CA4 Funza/3. NO2/2311/250929_FOM303-44 Formato Verificacion de equipos-señales MUX-NOX ENVEA-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251002_NO-FOM303-44FormatoVerificaciondeequipos-senalesMUX-NOX-ENVEA-V6.pdf",
+                "ruta": "Estaciones/CA4 Funza/3. NO2/2311/251002_NO-FOM303-44FormatoVerificaciondeequipos-senalesMUX-NOX-ENVEA-V6.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251016_NO-FOM303-44FormatoVerificaciondeequipos-senalesMUX-NOX-ENVEA-V6.pdf",
+                "ruta": "Estaciones/CA4 Funza/3. NO2/2311/251016_NO-FOM303-44FormatoVerificaciondeequipos-senalesMUX-NOX-ENVEA-V6.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251106_NO-FOM303-44FormatoVerificaciondeequipos-senalesMUX-NOX-ENVEA-V6.pdf",
+                "ruta": "Estaciones/CA4 Funza/3. NO2/2311/251106_NO-FOM303-44FormatoVerificaciondeequipos-senalesMUX-NOX-ENVEA-V6.pdf"
+              }
+            ]
+          },
+          {
+            "tipo": "carpeta",
+            "nombre": "832433255",
+            "contenido": [
+              {
+                "tipo": "archivo",
+                "nombre": "251129_BB-F-151 QC NO2 FUNZA NOV 29.pdf",
+                "ruta": "Estaciones/CA4 Funza/3. NO2/832433255/251129_BB-F-151 QC NO2 FUNZA NOV 29.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251213_BB-F-151 QC NO2 FUNZA DIC 13.pdf",
+                "ruta": "Estaciones/CA4 Funza/3. NO2/832433255/251213_BB-F-151 QC NO2 FUNZA DIC 13.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251222_BB-F-151 QC NO2 FUNZA DIC 22.pdf",
+                "ruta": "Estaciones/CA4 Funza/3. NO2/832433255/251222_BB-F-151 QC NO2 FUNZA DIC 22.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "260106_BB-F-151 QC NO2 FUNZA ENE 06.pdf",
+                "ruta": "Estaciones/CA4 Funza/3. NO2/832433255/260106_BB-F-151 QC NO2 FUNZA ENE 06.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "260123_BB-F-151 QC NO2 FUNZA ENE 23.pdf",
+                "ruta": "Estaciones/CA4 Funza/3. NO2/832433255/260123_BB-F-151 QC NO2 FUNZA ENE 23.pdf"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tipo": "carpeta",
+        "nombre": "4. O3",
+        "contenido": [
+          {
+            "tipo": "carpeta",
+            "nombre": "1612",
+            "contenido": [
+              {
+                "tipo": "archivo",
+                "nombre": "250129_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf",
+                "ruta": "Estaciones/CA4 Funza/4. O3/1612/250129_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250213_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf",
+                "ruta": "Estaciones/CA4 Funza/4. O3/1612/250213_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250327_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf",
+                "ruta": "Estaciones/CA4 Funza/4. O3/1612/250327_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250417_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf",
+                "ruta": "Estaciones/CA4 Funza/4. O3/1612/250417_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250530_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf",
+                "ruta": "Estaciones/CA4 Funza/4. O3/1612/250530_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250614_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf",
+                "ruta": "Estaciones/CA4 Funza/4. O3/1612/250614_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250627_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf",
+                "ruta": "Estaciones/CA4 Funza/4. O3/1612/250627_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250711_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf",
+                "ruta": "Estaciones/CA4 Funza/4. O3/1612/250711_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250730_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf",
+                "ruta": "Estaciones/CA4 Funza/4. O3/1612/250730_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250814_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf",
+                "ruta": "Estaciones/CA4 Funza/4. O3/1612/250814_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250829_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf",
+                "ruta": "Estaciones/CA4 Funza/4. O3/1612/250829_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250917_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf",
+                "ruta": "Estaciones/CA4 Funza/4. O3/1612/250917_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250929_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf",
+                "ruta": "Estaciones/CA4 Funza/4. O3/1612/250929_FOM303-42 Formato Verificación de equipos O3 ENVEA-señales MUX O3-V4.pdf"
+              }
+            ]
+          },
+          {
+            "tipo": "carpeta",
+            "nombre": "1620",
+            "contenido": [
+              {
+                "tipo": "archivo",
+                "nombre": "251002_O3-FOM303-42FormatoVerificaciondeequiposO3ENVEA-senalesMUXO3-V5.pdf",
+                "ruta": "Estaciones/CA4 Funza/4. O3/1620/251002_O3-FOM303-42FormatoVerificaciondeequiposO3ENVEA-senalesMUXO3-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251016_O3-FOM303-42FormatoVerificaciondeequiposO3ENVEA-senalesMUXO3-V5.pdf",
+                "ruta": "Estaciones/CA4 Funza/4. O3/1620/251016_O3-FOM303-42FormatoVerificaciondeequiposO3ENVEA-senalesMUXO3-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251106_O3-FOM303-42FormatoVerificaciondeequiposO3ENVEA-senalesMUXO3-V5.pdf",
+                "ruta": "Estaciones/CA4 Funza/4. O3/1620/251106_O3-FOM303-42FormatoVerificaciondeequiposO3ENVEA-senalesMUXO3-V5.pdf"
+              }
+            ]
+          },
+          {
+            "tipo": "carpeta",
+            "nombre": "E1904000",
+            "contenido": [
+              {
+                "tipo": "archivo",
+                "nombre": "Dic_ITAC-FO-007_Calibracion_O3_CA4-FUNZA.pdf",
+                "ruta": "Estaciones/CA4 Funza/4. O3/E1904000/Dic_ITAC-FO-007_Calibracion_O3_CA4-FUNZA.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "Ene_FebITAC-FO-007_Calibracion_O3_CA4-FUNZA.pdf",
+                "ruta": "Estaciones/CA4 Funza/4. O3/E1904000/Ene_FebITAC-FO-007_Calibracion_O3_CA4-FUNZA.pdf"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tipo": "carpeta",
+        "nombre": "5. SO2",
+        "contenido": [
+          {
+            "tipo": "carpeta",
+            "nombre": "2420",
+            "contenido": [
+              {
+                "tipo": "archivo",
+                "nombre": "250129_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf",
+                "ruta": "Estaciones/CA4 Funza/5. SO2/2420/250129_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250213_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf",
+                "ruta": "Estaciones/CA4 Funza/5. SO2/2420/250213_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250327_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf",
+                "ruta": "Estaciones/CA4 Funza/5. SO2/2420/250327_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250417_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf",
+                "ruta": "Estaciones/CA4 Funza/5. SO2/2420/250417_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250530_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf",
+                "ruta": "Estaciones/CA4 Funza/5. SO2/2420/250530_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250614_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf",
+                "ruta": "Estaciones/CA4 Funza/5. SO2/2420/250614_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250627_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf",
+                "ruta": "Estaciones/CA4 Funza/5. SO2/2420/250627_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250711_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf",
+                "ruta": "Estaciones/CA4 Funza/5. SO2/2420/250711_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250730_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf",
+                "ruta": "Estaciones/CA4 Funza/5. SO2/2420/250730_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250814_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf",
+                "ruta": "Estaciones/CA4 Funza/5. SO2/2420/250814_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250829_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf",
+                "ruta": "Estaciones/CA4 Funza/5. SO2/2420/250829_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250917_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf",
+                "ruta": "Estaciones/CA4 Funza/5. SO2/2420/250917_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "250927_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf",
+                "ruta": "Estaciones/CA4 Funza/5. SO2/2420/250927_FOM303-45 Formato Verificacion de equipos-señales MUX-SOX ENVEA-V4.pdf"
+              }
+            ]
+          },
+          {
+            "tipo": "carpeta",
+            "nombre": "2453",
+            "contenido": [
+              {
+                "tipo": "archivo",
+                "nombre": "251002_SO2-FOM303-45FormatoVerificaciondeequipos-senalesMUX-SOX-ENVEA-V5.pdf",
+                "ruta": "Estaciones/CA4 Funza/5. SO2/2453/251002_SO2-FOM303-45FormatoVerificaciondeequipos-senalesMUX-SOX-ENVEA-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251016_SO-FOM303-45FormatoVerificaciondeequipos-senalesMUX-SOX-ENVEA-V5.pdf",
+                "ruta": "Estaciones/CA4 Funza/5. SO2/2453/251016_SO-FOM303-45FormatoVerificaciondeequipos-senalesMUX-SOX-ENVEA-V5.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251106_SO-FOM303-45FormatoVerificaciondeequipos-senalesMUX-SOX-ENVEA-V5.pdf",
+                "ruta": "Estaciones/CA4 Funza/5. SO2/2453/251106_SO-FOM303-45FormatoVerificaciondeequipos-senalesMUX-SOX-ENVEA-V5.pdf"
+              }
+            ]
+          },
+          {
+            "tipo": "carpeta",
+            "nombre": "CM14030050",
+            "contenido": [
+              {
+                "tipo": "archivo",
+                "nombre": "251129_BB-F-152 QC SO2 FUNZA NOV 29.pdf",
+                "ruta": "Estaciones/CA4 Funza/5. SO2/CM14030050/251129_BB-F-152 QC SO2 FUNZA NOV 29.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251213_BB-F-152 QC SO2 FUNZA DIC 13.pdf",
+                "ruta": "Estaciones/CA4 Funza/5. SO2/CM14030050/251213_BB-F-152 QC SO2 FUNZA DIC 13.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "251222_BB-F-152 QC SO2 FUNZA DIC 22.pdf",
+                "ruta": "Estaciones/CA4 Funza/5. SO2/CM14030050/251222_BB-F-152 QC SO2 FUNZA DIC 22.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "260106_BB-F-152 QC SO2 FUNZA ENE 06.pdf",
+                "ruta": "Estaciones/CA4 Funza/5. SO2/CM14030050/260106_BB-F-152 QC SO2 FUNZA ENE 06.pdf"
+              },
+              {
+                "tipo": "archivo",
+                "nombre": "260123_BB-F-152 QC SO2 FUNZA ENE 23.pdf",
+                "ruta": "Estaciones/CA4 Funza/5. SO2/CM14030050/260123_BB-F-152 QC SO2 FUNZA ENE 23.pdf"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tipo": "carpeta",
+        "nombre": "6. Meteorologia",
+        "contenido": [
+          {
+            "tipo": "carpeta",
+            "nombre": "BJ251001001",
+            "contenido": [
+              {
+                "tipo": "archivo",
+                "nombre": "NIST PRO 2 PLUS BJ251001001.pdf",
+                "ruta": "Estaciones/CA4 Funza/6. Meteorologia/BJ251001001/NIST PRO 2 PLUS BJ251001001.pdf"
+              }
+            ]
+          },
+          {
+            "tipo": "archivo",
+            "nombre": "Intercomparacion Historica  FUN 1.xlsx",
+            "ruta": "Estaciones/CA4 Funza/6. Meteorologia/Intercomparacion Historica  FUN 1.xlsx"
+          }
+        ]
+      },
+      {
+        "tipo": "carpeta",
+        "nombre": "7. Temperaturas Shelter",
+        "contenido": [
+          {
+            "tipo": "archivo",
+            "nombre": "41. FOM303-32 Formato de campo monitoreo analizadores automáticos - V7 (CA4 Funza) Diciembre.xlsx",
+            "ruta": "Estaciones/CA4 Funza/7. Temperaturas Shelter/41. FOM303-32 Formato de campo monitoreo analizadores automáticos - V7 (CA4 Funza) Diciembre.xlsx"
+          },
+          {
+            "tipo": "archivo",
+            "nombre": "41. FOM303-32 Formato de campo monitoreo analizadores automáticos - V7 (CA4 Funza) Enero .xlsx",
+            "ruta": "Estaciones/CA4 Funza/7. Temperaturas Shelter/41. FOM303-32 Formato de campo monitoreo analizadores automáticos - V7 (CA4 Funza) Enero .xlsx"
+          },
+          {
+            "tipo": "archivo",
+            "nombre": "41. FOM303-32 Formato de campo monitoreo analizadores automáticos - V7 (CA4 Funza) Febrero.xlsx",
+            "ruta": "Estaciones/CA4 Funza/7. Temperaturas Shelter/41. FOM303-32 Formato de campo monitoreo analizadores automáticos - V7 (CA4 Funza) Febrero.xlsx"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tipo": "carpeta",
+    "nombre": "Certificados meteorologia",
+    "contenido": [
+      {
+        "tipo": "archivo",
+        "nombre": "CERTIFICADO-8013 1.pdf",
+        "ruta": "Estaciones/Certificados meteorologia/CERTIFICADO-8013 1.pdf"
+      },
+      {
+        "tipo": "archivo",
+        "nombre": "DOC040324 1 (1) 1.pdf",
+        "ruta": "Estaciones/Certificados meteorologia/DOC040324 1 (1) 1.pdf"
+      },
+      {
+        "tipo": "archivo",
+        "nombre": "Relacion meteorologia (Intercomparaciones).xlsx",
+        "ruta": "Estaciones/Certificados meteorologia/Relacion meteorologia (Intercomparaciones).xlsx"
+      },
+      {
+        "tipo": "archivo",
+        "nombre": "~$Relacion meteorologia (Intercomparaciones).xlsx",
+        "ruta": "Estaciones/Certificados meteorologia/~$Relacion meteorologia (Intercomparaciones).xlsx"
+      }
+    ]
+  },
+  {
+    "tipo": "carpeta",
+    "nombre": "Certificados tetracal",
+    "contenido": [
+      {
+        "tipo": "archivo",
+        "nombre": "1. CAUDALIMETRO DE GASES 154346.pdf",
+        "ruta": "Estaciones/Certificados tetracal/1. CAUDALIMETRO DE GASES 154346.pdf"
+      },
+      {
+        "tipo": "archivo",
+        "nombre": "2. CAUDALIMMETRO DE GASES 212518.pdf",
+        "ruta": "Estaciones/Certificados tetracal/2. CAUDALIMMETRO DE GASES 212518.pdf"
+      },
+      {
+        "tipo": "archivo",
+        "nombre": "3. CAUDALIMETRO DE GASES 212520.pdf",
+        "ruta": "Estaciones/Certificados tetracal/3. CAUDALIMETRO DE GASES 212520.pdf"
+      }
+    ]
+  }
+]

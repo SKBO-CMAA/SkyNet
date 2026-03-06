@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+
+<title>Portal de Datos de Estaciones</title>
+
+<style>
+
+body{
+font-family:Arial;
+margin:20px;
+background:#f4f6f8;
+}
+
+h1{
+text-align:center;
+margin-bottom:20px;
+}
+
+#ruta{
+max-width:800px;
+margin:auto;
+margin-bottom:10px;
+color:#555;
+font-size:14px;
+}
+
+#explorador{
+
+max-width:800px;
+margin:auto;
+
+background:white;
+
+border-radius:8px;
+
+box-shadow:0 3px 10px rgba(0,0,0,0.1);
+
+overflow:hidden;
+
+}
+
+.item{
+
+display:flex;
+
+justify-content:space-between;
+
+padding:12px 15px;
+
+border-bottom:1px solid #eee;
+
+cursor:pointer;
+
+}
+
+.item:hover{
+background:#f5f5f5;
+}
+
+.icono{
+margin-right:10px;
+}
+
+.nombre{
+flex:1;
+}
+
+.descargar{
+
+text-decoration:none;
+color:#007BFF;
+font-size:13px;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<h1>Portal de Datos de Estaciones</h1>
+
+<div id="ruta"></div>
+
+<div id="explorador"></div>
+
+<script>
+
+let raiz
+let historial=[]
+
+fetch("estructura_estaciones.json")
+
+.then(r=>r.json())
+
+.then(data=>{
+
+raiz=data
+
+mostrar(data)
+
+})
+
+function mostrar(carpeta){
+
+const cont=document.getElementById("explorador")
+
+const ruta=document.getElementById("ruta")
+
+cont.innerHTML=""
+
+ruta.innerText="Ruta: "+historial.map(x=>x.nombre).join(" / ")
+
+if(historial.length>0){
+
+const volver=document.createElement("div")
+
+volver.className="item"
+
+volver.innerHTML="⬅ Volver"
+
+volver.onclick=()=>{
+
+historial.pop()
+
+let destino=raiz
+
+historial.forEach(p=>{
+destino=p
+})
+
+mostrar(destino)
+
+}
+
+cont.appendChild(volver)
+
+}
+
+carpeta.contenido.forEach(e=>{
+
+const fila=document.createElement("div")
+
+fila.className="item"
+
+if(e.tipo==="carpeta"){
+
+fila.innerHTML=`
+<span class="icono">📁</span>
+<span class="nombre">${e.nombre}</span>
+`
+
+fila.onclick=()=>{
+
+historial.push(e)
+
+mostrar(e)
+
+}
+
+}else{
+
+fila.innerHTML=`
+<span class="icono">📄</span>
+<span class="nombre">${e.nombre}</span>
+
+<a class="descargar" href="${e.ruta}" download>
+Descargar
+</a>
+`
+
+}
+
+cont.appendChild(fila)
+
+})
+
+}
+
+</script>
+
+</body>
+
+</html>
