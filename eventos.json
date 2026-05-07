@@ -12,28 +12,6 @@
   },
   {
     "actividad": "Visita Museo Aeroespacial",
-    "fecha": "2026-05-20",
-    "hora": "7:30 a.m. ",    
-    "localidad": "Funza",
-    "barrio": "El Coclí",
-    "direccion": "",
-    "salon": "Salón Veredal",
-    "contacto": "Carolina Villarraga 3209163131",
-    "enlace": ""
-  },
-  {
-    "actividad": "Visita Museo Aeroespacial",
-    "fecha": "2026-05-08",
-    "hora": "7:00 a.m. ",    
-    "localidad": "Engativá",
-    "barrio": "del barrio San Jose de la Granja",
-    "direccion": "",
-    "salon": "salón del Semilllero La Granja Engativá",
-    "contacto": "Yisel Sierra 3102803999",
-    "enlace": ""
-  },
-  {
-    "actividad": "Visita Museo Aeroespacial",
     "fecha": "2026-04-24",
     "hora": "",    
     "localidad": "Fontibón",
@@ -94,17 +72,6 @@
     "localidad": "Funza",
     "barrio": "en el barrio Hato Casa Blanca",
     "direccion": "de encuentro Fontibón - Casa Sandra",
-    "salon": "",
-    "contacto": "Sandra Rodriguez 3209163105",
-    "enlace": ""
-  },
-  {
-    "actividad": "Educación Ambiental",
-    "fecha": "2026-05-14",
-    "hora": "",    
-    "localidad": "Funza",
-    "barrio": "en el barrio Tienda Nueva o San Isidro",
-    "direccion": "",
     "salon": "",
     "contacto": "Sandra Rodriguez 3209163105",
     "enlace": ""
@@ -220,14 +187,14 @@
     "enlace": ""
   },
   {
-    "actividad": "Sensibilizaciones Ambientales",
+    "actividad": "Acercamiento JAC",
     "fecha": "2026-05-19",
     "hora": "9:00 a.m. ",
-    "localidad": "Fontibón",
-    "barrio": "Veracruz",
+    "localidad": "Funza",
+    "barrio": "",
     "direccion": "",
-    "salon": "Salón Comunal Veracruz/Cofradia",
-    "contacto": "Sandra Rodriguez 3209163105",
+    "salon": "",
+    "contacto": "Carolina Villarraga 3209163131",
     "enlace": ""
   },
   {
@@ -515,17 +482,6 @@
     "enlace": ""
   },
   {
-    "actividad": "Visita Funza",
-    "fecha": "2026-05-13",
-    "hora": "08:00 a.m. ",
-    "localidad": "Funza - Aerocivil",
-    "barrio": "",
-    "direccion": "",
-    "salon": "",    
-    "contacto": "Carolina Villarraga 3209163131",
-    "enlace": ""
-  },
-  {
     "actividad": "Taller BioPinta",
     "fecha": "2026-05-13",
     "hora": "09:00 a.m. ",
@@ -614,7 +570,7 @@
   },
   {
     "actividad": "Visitas EMRI",
-    "fecha": "2026-03-26",
+    "fecha": "2026-05-26",
     "hora": "09:00 a.m. ",
     "localidad": "Fontibón",
     "barrio": "",
@@ -660,6 +616,16 @@
     "barrio": "en el barrio La Giralda",
     "direccion": "",
     "contacto": "Sandra Rodriguez 3209163105",
+    "enlace": ""
+  },
+  {
+    "actividad": "Logistica Visita Museo",
+    "fecha": "2026-05-15",
+    "hora": "09:00 a.m. ",
+    "localidad": "Funza",
+    "barrio": "",
+    "direccion": "",
+    "contacto": "Carolina Villarraga 3209163131",
     "enlace": ""
   },
   {
