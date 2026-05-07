@@ -44,10 +44,43 @@
     "enlace": ""
   },
   {
+    "actividad": "Sensibilización Peligro Aviar",
+    "fecha": "2026-05-28",
+    "hora": "11:00 a.m. ",    
+    "localidad": "Fontibón",
+    "barrio": "barrio La Internacional",
+    "direccion": "",
+    "salon": "Colegio Internacional",
+    "contacto": "Sandra Rodriguez 3209163105",
+    "enlace": ""
+  },
+  {
+    "actividad": "Feria Emprendimientos Locales",
+    "fecha": "2026-05-29",
+    "hora": "07:00 a.m. ",    
+    "localidad": "Fontibón",
+    "barrio": "",
+    "direccion": "",
+    "salon": "",
+    "contacto": "Sandra Rodriguez 3209163105",
+    "enlace": ""
+  },
+  {
+    "actividad": "Comite Comunitario Ambiental CEA",
+    "fecha": "2026-05-29",
+    "hora": "09:00 a.m. ",    
+    "localidad": "CEA",
+    "barrio": "",
+    "direccion": "",
+    "salon": "",
+    "contacto": "Yisel Sierra 3102803999",
+    "enlace": ""
+  },
+  {
     "actividad": "Visita al simulador CEA",
     "fecha": "2026-05-28",
-    "hora": "7:30 a.m. ",    
-    "localidad": "Funza",
+    "hora": "9:00 a.m. ",    
+    "localidad": "Funza - Autoridades",
     "barrio": "del barrio San Isidro y Personeritos",
     "direccion": "",
     "salon": "",
@@ -416,6 +449,17 @@
     "enlace": ""
   },
   {
+    "actividad": "Recorrido Buzones",
+    "fecha": "2026-05-29",
+    "hora": "09:00 a.m. ",
+    "localidad": "Funza",
+    "barrio": "",
+    "direccion": "",
+    "salon": "",    
+    "contacto": "Carolina Villarraga 3209163131",
+    "enlace": ""
+  },
+  {
     "actividad": "Visita Buzones",
     "fecha": "2026-04-24",
     "hora": "08:30 a.m. ",
@@ -438,11 +482,151 @@
     "enlace": ""
   },
   {
+    "actividad": "Logistica -Sinergia",
+    "fecha": "2026-05-11",
+    "hora": "09:00 a.m. ",
+    "localidad": "Funza",
+    "barrio": "El Coclí",
+    "direccion": "",
+    "salon": "",    
+    "contacto": "Carolina Villarraga 3209163131",
+    "enlace": ""
+  },
+  {
+    "actividad": "Caracterización Individuos Arboreos",
+    "fecha": "2026-05-13",
+    "hora": "08:00 a.m. ",
+    "localidad": "Funza",
+    "barrio": "La Florida",
+    "direccion": "",
+    "salon": "",    
+    "contacto": "Carolina Villarraga 3209163131",
+    "enlace": ""
+  },
+  {
+    "actividad": "Visita Funza",
+    "fecha": "2026-05-13",
+    "hora": "08:00 a.m. ",
+    "localidad": "Funza - Aerocivil",
+    "barrio": "",
+    "direccion": "",
+    "salon": "",    
+    "contacto": "Carolina Villarraga 3209163131",
+    "enlace": ""
+  },
+  {
+    "actividad": "Taller BioPinta",
+    "fecha": "2026-05-13",
+    "hora": "09:00 a.m. ",
+    "localidad": "Funza",
+    "barrio": "San Ramon I | San Ramon II",
+    "direccion": "",
+    "salon": "",    
+    "contacto": "Carolina Villarraga 3209163131",
+    "enlace": ""
+  },
+  {
+    "actividad": "Logistica - BioPinta",
+    "fecha": "2026-05-08",
+    "hora": "09:00 a.m. ",
+    "localidad": "Funza",
+    "barrio": "San Ramon",
+    "direccion": "",
+    "salon": "",    
+    "contacto": "Carolina Villarraga 3209163131",
+    "enlace": ""
+  },
+  {
+    "actividad": "Visita Museo Aeroespacial",
+    "fecha": "2026-05-20",
+    "hora": "07:30 a.m. ",
+    "localidad": "Funza",
+    "barrio": "El Coclí",
+    "direccion": "",
+    "salon": "",    
+    "contacto": "Carolina Villarraga 3209163131",
+    "enlace": ""
+  },
+  {
+    "actividad": "Sinergia de Experiencias - Semillero",
+    "fecha": "2026-05-12",
+    "hora": "02:30 p.m. ",
+    "localidad": "Funza",
+    "barrio": "El Coclí",
+    "direccion": "",
+    "salon": "",    
+    "contacto": "Carolina Villarraga 3209163131",
+    "enlace": ""
+  },
+  {
+    "actividad": "Acercamiento JAC",
+    "fecha": "2026-05-14",
+    "hora": "02:30 p.m. ",
+    "localidad": "Funza",
+    "barrio": "El Coclí",
+    "direccion": "",
+    "salon": "",    
+    "contacto": "Carolina Villarraga 3209163131",
+    "enlace": ""
+  },
+  {
+    "actividad": "Acercamiento JAC",
+    "fecha": "2026-05-25",
+    "hora": "09:00 a.m. ",
+    "localidad": "Funza",
+    "barrio": "",
+    "direccion": "",
+    "salon": "",    
+    "contacto": "Carolina Villarraga 3209163131",
+    "enlace": ""
+  },
+  {
+    "actividad": "Logistica Simulador",
+    "fecha": "2026-05-26",
+    "hora": "09:00 a.m. ",
+    "localidad": "Funza",
+    "barrio": "",
+    "direccion": "",
+    "salon": "",    
+    "contacto": "Carolina Villarraga 3209163131",
+    "enlace": ""
+  },
+  {
     "actividad": "Capacitación comunidades - Jardín Botánico de Bogotá",
     "fecha": "2026-03-25",
     "hora": "09:30 a.m. ",
     "localidad": "Fontibón",
     "barrio": "en el barrio Las Brisas",
+    "direccion": "",
+    "contacto": "Sandra Rodriguez 3209163105",
+    "enlace": ""
+  },
+  {
+    "actividad": "Visitas EMRI",
+    "fecha": "2026-03-26",
+    "hora": "09:00 a.m. ",
+    "localidad": "Fontibón",
+    "barrio": "",
+    "direccion": "",
+    "contacto": "Sandra Rodriguez 3209163105",
+    "enlace": ""
+  },
+  {
+    "actividad": "Socialización Grupos Nuevos",
+    "fecha": "2026-05-21",
+    "hora": "02:00 p.m. ",
+    "localidad": "Fontibón",
+    "barrio": "en el barrio La Felicidad",
+    "direccion": "",
+    "contacto": "Sandra Rodriguez 3209163105",
+    "enlace": ""
+  },
+  {
+    "actividad": "Sensibilizaciones Ambientales - Rio Bogotá",
+    "fecha": "2026-05-14",
+    "hora": "07:00 a.m. ",
+    "localidad": "Fontibón",
+    "barrio": "Veracruz",
     "direccion": "",
     "contacto": "Sandra Rodriguez 3209163105",
     "enlace": ""
@@ -455,6 +639,156 @@
     "barrio": "en el barrio La Giralda",
     "direccion": "",
     "contacto": "Sandra Rodriguez 3209163105",
+    "enlace": ""
+  },
+  {
+    "actividad": "Taller Ambiental Jabones",
+    "fecha": "2026-05-12",
+    "hora": "09:00 a.m. ",
+    "localidad": "Fontibón",
+    "barrio": "en el barrio La Giralda",
+    "direccion": "",
+    "contacto": "Sandra Rodriguez 3209163105",
+    "enlace": ""
+  },
+  {
+    "actividad": "Entrega documentos Feria Emprendimientos Locales",
+    "fecha": "2026-05-15",
+    "hora": "07:00 a.m. ",
+    "localidad": "Fontibón",
+    "barrio": "",
+    "direccion": "",
+    "contacto": "Sandra Rodriguez 3209163105",
+    "enlace": ""
+  },
+  {
+    "actividad": "Feria Emprendimientos Locales",
+    "fecha": "2026-05-27",
+    "hora": "07:00 a.m. ",
+    "localidad": "Fontibón",
+    "barrio": "",
+    "direccion": "",
+    "contacto": "Sandra Rodriguez 3209163105",
+    "enlace": ""
+  },
+  {
+    "actividad": "Feria Emprendimientos Locales",
+    "fecha": "2026-05-28",
+    "hora": "07:00 a.m. ",
+    "localidad": "Fontibón",
+    "barrio": "",
+    "direccion": "",
+    "contacto": "Sandra Rodriguez 3209163105",
+    "enlace": ""
+  },
+  {
+    "actividad": "Taller Ambiental Jabones",
+    "fecha": "2026-05-15",
+    "hora": "02:00 p.m. ",
+    "localidad": "Fontibón",
+    "barrio": "en el barrio El Refugio",
+    "direccion": "",
+    "contacto": "Sandra Rodriguez 3209163105",
+    "enlace": ""
+  },
+  {
+    "actividad": "Sensibilizaciones Ambientales - JBB",
+    "fecha": "2026-05-05",
+    "hora": "09:00 a.m. ",
+    "localidad": "Fontibón",
+    "barrio": "en el barrio Veracruz",
+    "direccion": "",
+    "contacto": "Sandra Rodriguez 3209163105",
+    "enlace": ""
+  },
+  {
+    "actividad": "Dia del reciclaje",
+    "fecha": "2026-05-22",
+    "hora": "07:00 a.m. ",
+    "localidad": "Fontibón - Aerocivil",
+    "barrio": "",
+    "direccion": "",
+    "contacto": "Sandra Rodriguez 3209163105",
+    "enlace": ""
+  },
+  {
+    "actividad": "Visita al simulador CEA",
+    "fecha": "2026-05-22",
+    "hora": "08:00 a.m. ",
+    "localidad": "Fontibón - Colegio Internacional",
+    "barrio": "",
+    "direccion": "",
+    "contacto": "Sandra Rodriguez 3209163105",
+    "enlace": ""
+  },
+  {
+    "actividad": "Visita EMRI",
+    "fecha": "2026-05-25",
+    "hora": "09:00 a.m. ",
+    "localidad": "Engativá - Autoridades",
+    "barrio": "",
+    "direccion": "",
+    "contacto": "Yisel Sierra 3102803999",
+    "enlace": ""
+  },
+  {
+    "actividad": "Sensibilización Peligro Aviar",
+    "fecha": "2026-05-12",
+    "hora": "11:30 a.m. ",
+    "localidad": "Engativá",
+    "barrio": "en el Colegio (20 niños)",
+    "direccion": "",
+    "contacto": "Yisel Sierra 3102803999",
+    "enlace": ""
+  },
+  {
+    "actividad": "Socialización II Bloque",
+    "fecha": "2026-05-12",
+    "hora": "03:00 p.m. ",
+    "localidad": "Engativá",
+    "barrio": "en el Barrio Bosques de Mariana",
+    "direccion": "",
+    "contacto": "Yisel Sierra 3102803999",
+    "enlace": ""
+  },
+  {
+    "actividad": "Taller Ambiental Jabones",
+    "fecha": "2026-05-13",
+    "hora": "02:00 pm. ",
+    "localidad": "Engativá",
+    "barrio": "en el Barrio San Joaquin Norte",
+    "direccion": "",
+    "contacto": "Yisel Sierra 3102803999",
+    "enlace": ""
+  },
+  {
+    "actividad": "Visita JBB",
+    "fecha": "2026-05-21",
+    "hora": "09:00 a.m. ",
+    "localidad": "Engativá",
+    "barrio": "en el barrio San Jose de la Granja",
+    "direccion": "",
+    "contacto": "Yisel Sierra 3102803999",
+    "enlace": ""
+  },
+  {
+    "actividad": "Salida humedal Santa Maria del Lago",
+    "fecha": "2026-05-19",
+    "hora": "09:00 a.m. ",
+    "localidad": "Engativá - Semillero",
+    "barrio": "",
+    "direccion": "",
+    "contacto": "Yisel Sierra 3102803999",
+    "enlace": ""
+  },
+  {
+    "actividad": "Socialización III Bloque",
+    "fecha": "2026-05-14",
+    "hora": "03:00 p.m. ",
+    "localidad": "Engativá",
+    "barrio": "en el barrio El Laurel",
+    "direccion": "",
+    "contacto": "Yisel Sierra 3102803999",
     "enlace": ""
   },
   {
@@ -475,6 +809,46 @@
     "barrio": "en el Colegio los Centauros",
     "direccion": "",
     "contacto": "Yisel Sierra 3102803999",
+    "enlace": ""
+  },
+  {
+    "actividad": "Visita Aeropuerto",
+    "fecha": "2026-05-07",
+    "hora": "08:30 a.m. ",
+    "localidad": "Engativá",
+    "barrio": "en el Colegio los Centauros",
+    "direccion": "",
+    "contacto": "Yisel Sierra 3102803999",
+    "enlace": ""
+  },
+  {
+    "actividad": "Sensibilización Ambiental de Ruido",
+    "fecha": "2026-05-26",
+    "hora": "11:30 a.m. ",
+    "localidad": "Engativá",
+    "barrio": "en el Colegio los Centauros",
+    "direccion": "",
+    "contacto": "Yisel Sierra 3102803999",
+    "enlace": ""
+  },
+  {
+    "actividad": "Visita Museo FAC",
+    "fecha": "2026-05-08",
+    "hora": "06:45 a.m. ",
+    "localidad": "Engativá",
+    "barrio": "en San Jose de la Granja",
+    "direccion": "",
+    "contacto": "Yisel Sierra 3102803999",
+    "enlace": ""
+  },
+  {
+    "actividad": "Socialización Alcaldia Fontibón",
+    "fecha": "2026-05-08",
+    "hora": "02:00 p.m. ",
+    "localidad": "Fontibón",
+    "barrio": "",
+    "direccion": "",
+    "contacto": "Sandra Rodriguez 3209163105",
     "enlace": ""
   },
   {
