@@ -100,17 +100,6 @@
   },
   {
     "actividad": "Educación Ambiental",
-    "fecha": "2026-06-08",
-    "hora": "11:00 a.m. ",    
-    "localidad": "Fontibón",
-    "barrio": "Internacional",
-    "direccion": "",
-    "salon": "Colegio Internacional",
-    "contacto": "Sandra Rodriguez 3209163105",
-    "enlace": ""
-  },
-  {
-    "actividad": "Educación Ambiental",
     "fecha": "2026-03-20",
     "hora": "",    
     "localidad": "Engativá",
@@ -629,16 +618,6 @@
     "enlace": ""
   },
   {
-    "actividad": "Art. Sembrando",
-    "fecha": "2026-06-05",
-    "hora": "09:00 a.m. ",
-    "localidad": "Funza",
-    "barrio": "",
-    "direccion": "",
-    "contacto": "Carolina Villarraga 3209163131",
-    "enlace": ""
-  },
-   {
     "actividad": "Visita Rio Bogotá",
     "fecha": "2026-06-09",
     "hora": "07:00 a.m. ",
@@ -809,16 +788,6 @@
     "enlace": ""
   },
   {
-    "actividad": "Taller refuerzo saponización en frio",
-    "fecha": "2026-06-02",
-    "hora": "09:00 a.m. ",
-    "localidad": "Fontibón",
-    "barrio": "Veracruz",
-    "direccion": "",
-    "contacto": "Sandra Rodriguez 3209163105",
-    "enlace": ""
-  },
-  {
     "actividad": "Exposición de experiencias JBB",
     "fecha": "2026-06-19",
     "hora": "08:00 a.m. ",
@@ -859,7 +828,7 @@
     "enlace": ""
   },
   {
-    "actividad": "Taller refuerzo saponización en frio",
+    "actividad": "Taller refuerzo nización en frio",
     "fecha": "2026-06-02",
     "hora": "02:00 p.m. ",
     "localidad": "Fontibón",
