@@ -195,25 +195,15 @@ footer{
 
 </section>
 
+
 <!-- CONTADOR -->
 <section class="container py-5">
 
-<div class="glass-card counter-box">
+<div class="glass-card text-center p-5"> 
+    <h2 class="mb-4"> Impacto Social del Vigía Ambiental 
 
-    <h2 class="section-title">
-        Impacto Social del Vigía Ambiental
-    </h2>
-
-    <div class="counter-number">
-        <span id="visitas">Contabilizando visitas...</span>
-    </div>
-
-    <p class="small-text">
-        Número de personas que han visitado esta plataforma ambiental.
-    </p>
-
+    </h2> <iframe src="https://skbo-cmaa.goatcounter.com/counter/" style=" width:100%; height:220px; border:none; border-radius:20px; background:white; "> </iframe> 
 </div>
-
 </section>
 
 <!-- INFORMACION -->
@@ -415,36 +405,6 @@ footer{
 </div>
 
 </footer>
-
-<!-- SCRIPT CONTADOR -->
-<script>
-
-async function cargarVisitas(){
-
-    try{
-
-        const response = await fetch(
-            "https://skbo-cmaa.goatcounter.com/counter/skbo-cmaa-engativa.json"
-        );
-
-        const data = await response.json();
-
-        document.getElementById('visitas').innerText =
-            data.count + " visitas";
-
-    }catch(error){
-
-        document.getElementById('visitas').innerText =
-            "Contador activo";
-
-    }
-
-}
-
-cargarVisitas();
-
-</script>
-
 </body>
 </html>
 
