@@ -215,6 +215,26 @@ footer{
     <p> Ciudadanos que han consultado este Vigía Ambiental </p> 
 </div>
 
+<div>Number of visitors: <div id="stats"></div></div>
+
+<script>
+    let r = new XMLHttpRequest();
+    r.addEventListener('load', function() {
+        document.querySelector('#stats').innerText = JSON.parse(this.responseText).count
+    })
+
+    // Should be exact (encoded) path as it appears in the UI. This uses
+    // GoatCounter's count.js
+    let path = window.goatcounter.get_data()['p']
+
+    // Or alternatively, do it manually. Will return HTTP status 404 if the
+    // path is not found).
+    //let path = location.pathname
+
+    r.open('GET', 'https://skbo-cmaa.goatcounter.com/counter/' + encodeURIComponent(path) + '.json')
+    r.send()
+</script>
+
 <!--
 
 <div class="glass-card counter-box">
@@ -440,8 +460,8 @@ footer{
 <script> 
 async function obtenerVisitas() { 
     try { 
-        const response = await fetch(              
-            "https://skbo-cmaa.goatcounter.com/counter/skbo-cmaa-engativa.json"
+        const response = await fetch(    
+            "https://skbo-cmaa.goatcounter.com/counter/TOTAL.json"                      
         ); 
         
         const data = await response.json(); 
@@ -465,7 +485,8 @@ async function cargarVisitas(){
     try{
 
         const response = await fetch(
-            "https://skbo-cmaa.goatcounter.com/counter/TOTAL.json"            
+        "https://skbo-cmaa.goatcounter.com/counter/skbo-cmaa-engativa.json"
+                        
         );
 
         const data = await response.json();
