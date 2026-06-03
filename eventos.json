@@ -608,6 +608,16 @@
     "enlace": ""
   },
   {
+    "actividad": "Visita Rio Bogota",
+    "fecha": "2026-06-24",
+    "hora": "07:00 a.m. ",
+    "localidad": "Funza",
+    "barrio": "del barrio El Coclí",
+    "direccion": "",
+    "contacto": "Carolina Villarraga 3209163131",
+    "enlace": ""
+  },
+  {
     "actividad": "Logistica Visita Museo",
     "fecha": "2026-05-15",
     "hora": "09:00 a.m. ",
@@ -618,11 +628,11 @@
     "enlace": ""
   },
   {
-    "actividad": "Visita Rio Bogotá",
+    "actividad": "Acercamiento Logistica Bio Pinta",
     "fecha": "2026-06-09",
     "hora": "07:00 a.m. ",
     "localidad": "Funza",
-    "barrio": "El Coclí",
+    "barrio": "del barrio Tienda Nueva",
     "direccion": "",
     "contacto": "Carolina Villarraga 3209163131",
     "enlace": ""
@@ -633,6 +643,16 @@
     "hora": "09:00 a.m. ",
     "localidad": "Funza",
     "barrio": "del barrio San Isidro",
+    "direccion": "",
+    "contacto": "Carolina Villarraga 3209163131",
+    "enlace": ""
+  },
+  {
+    "actividad": "Sensibilizaciones Ambientales - Taller BioPinta",
+    "fecha": "2026-06-12",
+    "hora": "09:00 p.m. ",
+    "localidad": "Funza",
+    "barrio": "del barrio La Punta",
     "direccion": "",
     "contacto": "Carolina Villarraga 3209163131",
     "enlace": ""
@@ -658,6 +678,16 @@
     "enlace": ""
   },
   {
+    "actividad": "Acercamiento Logistica Socialización",
+    "fecha": "2026-06-16",
+    "hora": "09:00 a.m. ",
+    "localidad": "Funza",
+    "barrio": "",
+    "direccion": "",
+    "contacto": "Carolina Villarraga 3209163131",
+    "enlace": ""
+  },
+  {
     "actividad": "Socialización CMAA",
     "fecha": "2026-06-18",
     "hora": "10:00 a.m. ",
@@ -668,7 +698,7 @@
     "enlace": ""
   },
   {
-    "actividad": "Semillero de Investigación",
+    "actividad": "Biodiversidad SDA - Semillero de Investigación",
     "fecha": "2026-06-09",
     "hora": "09:00 a.m. ",
     "localidad": "Fontibón",
@@ -681,28 +711,48 @@
     "actividad": "Socialización CMAA",
     "fecha": "2026-06-26",
     "hora": "09:00 a.m. ",
-    "localidad": "Fontibón - Versalles",
+    "localidad": "Fontibón - Veracruz",
     "barrio": "",
     "direccion": "",
     "contacto": "Sandra Rodriguez 3209163105",
     "enlace": ""
   },
   {
-    "actividad": "Visita Aeropuerto El Dorado",
+    "actividad": "Taller Peligro Aviar",
+    "fecha": "2026-06-16",
+    "hora": "09:00 a.m. ",
+    "localidad": "Engativá",
+    "barrio": "del barrio San Jose",
+    "direccion": "",
+    "contacto": "Yisel Sierra 3102803999",
+    "enlace": ""
+  },
+  {
+    "actividad": "Socialización CMAA",
+    "fecha": "2026-06-17",
+    "hora": "03:00 p.m. ",
+    "localidad": "Engativá",
+    "barrio": "del barrio El Real",
+    "direccion": "",
+    "contacto": "Yisel Sierra 3102803999",
+    "enlace": ""
+  },
+  {
+    "actividad": "Ciclo ambiental - Velas",
     "fecha": "2026-06-11",
     "hora": "09:00 a.m. ",
-    "localidad": "Fontibón",
-    "barrio": "",
+    "localidad": "Engativá",
+    "barrio": "del barrio Viña del Mar",
     "direccion": "",
-    "contacto": "Sandra Rodriguez 3209163105",
+    "contacto": "Yisel Sierra 3102803999",
     "enlace": ""
   },
   {
-    "actividad": "Ciclo ambiental Terrarios",
+    "actividad": "Ciclo ambiental - Terrarios",
     "fecha": "2026-06-16",
     "hora": "02:00 p.m. ",
     "localidad": "Fontibón",
-    "barrio": "del barrio Veracruz",
+    "barrio": "del barrio Refugio",
     "direccion": "",
     "contacto": "Sandra Rodriguez 3209163105",
     "enlace": ""
@@ -710,7 +760,7 @@
   {
     "actividad": "Ciclo ambiental jabones",
     "fecha": "2026-06-17",
-    "hora": "09:00 a.m. ",
+    "hora": "02:00 p.m. ",
     "localidad": "Fontibón",
     "barrio": "del barrio Veracruz",
     "direccion": "",
@@ -798,11 +848,11 @@
     "enlace": ""
   },
   {
-    "actividad": "Coberturas Verdes - Esquejes",
-    "fecha": "2026-06-22",
+    "actividad": "Capacitación Taller JBB - Esquejes",
+    "fecha": "2026-06-18",
     "hora": "09:00 a.m. ",
     "localidad": "Fontibón",
-    "barrio": "del barrio Arabia",
+    "barrio": "del barrio Las Brisas",
     "direccion": "",
     "contacto": "Sandra Rodriguez 3209163105",
     "enlace": ""
@@ -838,13 +888,23 @@
     "enlace": ""
   },
   {
-    "actividad": "Socialización CMAA",
-    "fecha": "2026-06-19",
-    "hora": "03:00 p.m. ",
-    "localidad": "Engativá",
-    "barrio": "",
+    "actividad": "Acercamiento Logistica - visita Rio Bogotá",
+    "fecha": "2026-06-22",
+    "hora": "09:00 a.m. ",
+    "localidad": "Funza",
+    "barrio": "del barrio El Coclí",
     "direccion": "",
-    "contacto": "Yisel Sierra 3102803999",
+    "contacto": "Carolina Villarraga 3209163131",
+    "enlace": ""
+  },
+  {
+    "actividad": "Acercamiento JAC",
+    "fecha": "2026-06-19",
+    "hora": "09:00 a.m. ",
+    "localidad": "Funza",
+    "barrio": "del barrio Hato Casa Blanca",
+    "direccion": "",
+    "contacto": "Carolina Villarraga 3209163131",
     "enlace": ""
   },
   {
@@ -858,10 +918,10 @@
     "enlace": ""
   },
   {
-    "actividad": "Centro Comercial - Vigía Ambiental",
+    "actividad": "Socialización Vigía Ambiental",
     "fecha": "2026-06-18",
     "hora": "03:00 p.m. ",
-    "localidad": "Engativá",
+    "localidad": "Centro Comercial - Engativá",
     "barrio": "",
     "direccion": "",
     "contacto": "Yisel Sierra 3102803999",
@@ -878,13 +938,13 @@
     "enlace": ""
   },
   {
-    "actividad": "Ciclo ambiental jabones",
+    "actividad": "Acercamiento Logistica Bio Pinta",
     "fecha": "2026-06-10",
     "hora": "09:00 a.m. ",
-    "localidad": "Engativá",
-    "barrio": "",
+    "localidad": "Funza",
+    "barrio": "del barrio San Isidro",
     "direccion": "",
-    "contacto": "Yisel Sierra 3102803999",
+    "contacto": "Carolina Villarraga 3209163131",
     "enlace": ""
   },
   {
@@ -892,7 +952,7 @@
     "fecha": "2026-06-10",
     "hora": "03:00 p.m. ",
     "localidad": "Engativá",
-    "barrio": "",
+    "barrio": "del barrio Villa El Dorado Norte",
     "direccion": "",
     "contacto": "Yisel Sierra 3102803999",
     "enlace": ""
@@ -1018,11 +1078,11 @@
     "enlace": ""
   },
   {
-    "actividad": "Ciclo ambiental jabones",
+    "actividad": "Ciclo ambiental - Terrarios",
     "fecha": "2026-06-10",
-    "hora": "02:00 p.m. ",
+    "hora": "09:00 a.m. ",
     "localidad": "Fontibón",
-    "barrio": "La Rosita",
+    "barrio": "del barrio La Rosita",
     "direccion": "",
     "contacto": "Sandra Rodriguez 3209163105",
     "enlace": ""
