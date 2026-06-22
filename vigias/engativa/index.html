@@ -362,6 +362,34 @@ footer{
     </div>
 
     <div class="col-md-6">
+        <div class="glass-card h-100 flex-column d-flex justify-content-between">
+            <div>
+                <div class="icon-box">
+                    <i class="fa-solid fa-chart-line"></i>
+                </div>
+                <h3>Variables Monitoreadas</h3>
+                <p class="small-text text-muted">Datos disponibles en el nodo de Engativá</p>
+            </div>
+
+            <div id="carruselVariables" class="carousel slide mt-4" data-bs-ride="carousel" data-bs-interval="4000">
+                <div class="carousel-inner" id="contenedor-variables">
+                    <div class="carousel-item active text-center py-4">
+                        <div class="spinner-border text-info" role="status"></div>
+                        <p class="mt-2">Consultando variables ambientales...</p>
+                    </div>
+                </div>
+                
+                <button class="carousel-control-prev" type="button" data-bs-target="#carruselVariables" data-bs-slide="prev" style="width: 5%;">
+                    <span class="carousel-control-prev-icon" aria-hidden="true" style="filter: drop-shadow(0px 0px 2px rgba(0,0,0,0.5));"></span>
+                </button>
+                <button class="carousel-control-next" type="button" data-bs-target="#carruselVariables" data-bs-slide="next" style="width: 5%;">
+                    <span class="carousel-control-next-icon" aria-hidden="true" style="filter: drop-shadow(0px 0px 2px rgba(0,0,0,0.5));"></span>
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-6">
 
         <div class="glass-card h-100">
 
@@ -575,6 +603,103 @@ async function obtenerVisitas() {
 
 obtenerVisitas(); 
 
+</script>
+
+<script>
+    async function consultarVariablesCMAA() {
+        const CONTENEDOR = document.getElementById("contenedor-variables");
+        const URL_API = "https://prod-ambiensqsuite.apigatewayk2.com/variables";
+        const TIEMPO_CACHE = 5 * 60 * 1000; // 5 minutos en milisegundos
+
+        // 1. Control de Caché en LocalStorage para respetar los 5 min de la API
+        const ultimaConsulta = localStorage.getItem("cmaa_last_fetch");
+        const datosGuardados = localStorage.getItem("cmaa_variables_data");
+        const ahora = new Date().getTime();
+
+        if (ultimaConsulta && datosGuardados && (ahora - ultimaConsulta < TIEMPO_CACHE)) {
+            console.log("CMAA: Cargando variables desde caché local.");
+            renderizarCarrusel(JSON.parse(datosGuardados));
+            return;
+        }
+
+        // 2. Consulta real a la API si expiró la caché
+        try {
+            const response = await fetch(URL_API, {
+                method: 'GET',
+                headers: {
+                    'accept': 'application/json',
+                    'x-token': 'Ztb5485vyKQ1HEBS1tSFabrjWazbGnmt,JmCvKc0WT356bRXnEB7hqBFpcVquP6t4'
+                }
+            });
+
+            if (!response.ok) throw new Error(`Error HTTP: ${response.status}`);
+            
+            const json = await response.json();
+            
+            if (json && json.data) {
+                localStorage.setItem("cmaa_variables_data", JSON.stringify(json.data));
+                localStorage.setItem("cmaa_last_fetch", ahora.toString());
+                renderizarCarrusel(json.data);
+            }
+        } catch (error) {
+            console.error("Error consultando la API de variables:", error);
+            // Si la API falla pero tenemos datos viejos, los mostramos por resiliencia
+            if (datosGuardados) {
+                renderizarCarrusel(JSON.parse(datosGuardados));
+            } else {
+                CONTENEDOR.innerHTML = `
+                    <div class="carousel-item active text-center py-3">
+                        <h4 class="text-danger">⚠️</h4>
+                        <p class="small-text">No se pudieron cargar las variables en este momento.</p>
+                    </div>`;
+            }
+        }
+    }
+
+    function renderizarCarrusel(variables) {
+        const CONTENEDOR = document.getElementById("contenedor-variables");
+        CONTENEDOR.innerHTML = ""; // Limpiar spinner de carga
+
+        // Mapeo de iconos visuales por componente técnico
+        const diccionarioIconos = {
+            "Aire": "🌫️",
+            "Ruido": "🔊",
+            "Meteorología": "🌦️",
+            "Sistema": "⚙️"
+        };
+
+        // Agrupamos en bloques de 4 variables por slide del carrusel para optimizar espacio
+        const VARIABLES_POR_SLIDE = 4;
+        let htmlAcumulado = "";
+
+        for (let i = 0; i < variables.length; i += VARIABLES_POR_SLIDE) {
+            const grupo = variables.slice(i, i + VARIABLES_POR_SLIDE);
+            const esActivo = i === 0 ? "active" : "";
+
+            htmlAcumulado += `<div class="carousel-item ${esActivo}"><div class="row text-center">`;
+
+            grupo.forEach(v => {
+                const emoji = diccionarioIconos[v.component] || "📊";
+                htmlAcumulado += `
+                    <div class="col-6 mb-3" style="height: 105px;">
+                        <h3 class="mb-1" style="font-size: 1.6rem;">${emoji}</h3>
+                        <h6 class="mb-0 text-truncate px-2" title="${v.name}" style="font-weight:600; color:var(--accent2); font-size:0.95rem;">
+                            ${v.initials}
+                        </h6>
+                        <p class="small-text text-muted text-truncate px-1" style="font-size:0.75rem;" title="${v.name}">
+                            ${v.name}
+                        </p>
+                    </div>`;
+            });
+
+            htmlAcumulado += `</div></div>`;
+        }
+
+        CONTENEDOR.innerHTML = htmlAcumulado;
+    }
+
+    // Inicializar la carga al montar el DOM
+    document.addEventListener("DOMContentLoaded", consultarVariablesCMAA);
 </script>
 <!-- SCRIPT CONTADOR 
 
