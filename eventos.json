@@ -958,6 +958,36 @@
     "enlace": ""
   },
   {
+    "actividad": "Explorando el alimento",
+    "fecha": "2026-07-10",
+    "hora": "09:00 a.m. ",
+    "localidad": "Funza",
+    "barrio": "del barrio La Punta",
+    "direccion": "",
+    "contacto": "Carolina Villarraga 3209163131",
+    "enlace": ""
+  },
+  {
+    "actividad": "Explorando el alimento",
+    "fecha": "2026-07-14",
+    "hora": "09:00 a.m. ",
+    "localidad": "Funza",
+    "barrio": "del barrio San Ramon",
+    "direccion": "",
+    "contacto": "Carolina Villarraga 3209163131",
+    "enlace": ""
+  },
+  {
+    "actividad": "Explorando el alimento",
+    "fecha": "2026-07-10",
+    "hora": "03:00 p.m. ",
+    "localidad": "Funza",
+    "barrio": "del barrio San Isidro",
+    "direccion": "",
+    "contacto": "Carolina Villarraga 3209163131",
+    "enlace": ""
+  },
+  {
     "actividad": "Acercamiento Logistica Bio Pinta",
     "fecha": "2026-06-10",
     "hora": "09:00 a.m. ",
@@ -968,11 +998,91 @@
     "enlace": ""
   },
   {
+    "actividad": "Taller ambiental - Creación de terrarios",
+    "fecha": "2026-07-16",
+    "hora": "09:00 a.m. ",
+    "localidad": "Funza",
+    "barrio": "del barrio El Coclí",
+    "direccion": "",
+    "contacto": "Carolina Villarraga 3209163131",
+    "enlace": ""
+  },
+  {
+    "actividad": "Recorrido Buzones",
+    "fecha": "2026-07-23",
+    "hora": "08:15 a.m. ",
+    "localidad": "Funza",
+    "barrio": "",
+    "direccion": "",
+    "contacto": "Carolina Villarraga 3209163131",
+    "enlace": ""
+  },
+  {
+    "actividad": "Un viaje del Alimento - Huerta Jardines Comestibles PROCEDA",
+    "fecha": "2026-07-23",
+    "hora": "09:00 a.m. ",
+    "localidad": "Funza",
+    "barrio": "del barrio El Coclí",
+    "direccion": "",
+    "contacto": "Carolina Villarraga 3209163131",
+    "enlace": ""
+  },
+  {
+    "actividad": "Ciclo ambiental - jabones",
+    "fecha": "2026-07-14",
+    "hora": "10:00 a.m. ",
+    "localidad": "Engativá",
+    "barrio": "del barrio Villa del Mar",
+    "direccion": "",
+    "contacto": "Yisel Sierra 3102803999",
+    "enlace": ""
+  },
+  {
+    "actividad": "Sensibilización Programa Peligro Aviar",
+    "fecha": "2026-07-24",
+    "hora": "09:00 a.m. ",
+    "localidad": "Engativá",
+    "barrio": "del barrio Mirador",
+    "direccion": "",
+    "contacto": "Yisel Sierra 3102803999",
+    "enlace": ""
+  },
+  {
+    "actividad": "Programa Peligro Aviar - Semillero de Investigación Convocatoria J.A.C",
+    "fecha": "2026-07-27",
+    "hora": "09:00 a.m. ",
+    "localidad": "Engativá",
+    "barrio": "del barrio San Jose de la Granja",
+    "direccion": "",
+    "contacto": "Yisel Sierra 3102803999",
+    "enlace": ""
+  },
+  {
+    "actividad": "Socialización J.A.C - Ruido Aeronáutico",
+    "fecha": "2026-07-29",
+    "hora": "03:00 p.m. ",
+    "localidad": "Engativá",
+    "barrio": "del barrio El Laurel",
+    "direccion": "",
+    "contacto": "Yisel Sierra 3102803999",
+    "enlace": ""
+  },
+  {
     "actividad": "Socialización CMAA",
     "fecha": "2026-06-10",
     "hora": "03:00 p.m. ",
     "localidad": "Engativá",
     "barrio": "del barrio Villa El Dorado Norte",
+    "direccion": "",
+    "contacto": "Yisel Sierra 3102803999",
+    "enlace": ""
+  },
+  {
+    "actividad": "Reunión Docente - Coord (PDT - Gestión Social)",
+    "fecha": "2026-07-16",
+    "hora": "08:00 a.m. ",
+    "localidad": "Engativá",
+    "barrio": "del Colegio General Santander",
     "direccion": "",
     "contacto": "Yisel Sierra 3102803999",
     "enlace": ""
@@ -1108,6 +1218,56 @@
     "enlace": ""
   },
   {
+    "actividad": "Visita Aeropuerto El Dorado",
+    "fecha": "2026-07-23",
+    "hora": "09:00 a.m. ",
+    "localidad": "Fontibón",
+    "barrio": "",
+    "direccion": "",
+    "contacto": "Sandra Rodriguez 3209163105",
+    "enlace": ""
+  },
+  {
+    "actividad": "Socialización CMAA",
+    "fecha": "2026-07-14",
+    "hora": "02:00 p.m. ",
+    "localidad": "Fontibón",
+    "barrio": "del barrio Hayuelos",
+    "direccion": "",
+    "contacto": "Sandra Rodriguez 3209163105",
+    "enlace": ""
+  },
+  {
+    "actividad": "Ciclo ambiental - Corte de botellas",
+    "fecha": "2026-07-15",
+    "hora": "09:00 a.m. ",
+    "localidad": "Fontibón",
+    "barrio": "del barrio Internacional",
+    "direccion": "",
+    "contacto": "Sandra Rodriguez 3209163105",
+    "enlace": ""
+  },
+  {
+    "actividad": "Ciclo ambiental jabones",
+    "fecha": "2026-07-07",
+    "hora": "09:00 a.m. ",
+    "localidad": "Fontibón",
+    "barrio": "del barrio Veracruz",
+    "direccion": "",
+    "contacto": "Sandra Rodriguez 3209163105",
+    "enlace": ""
+  },
+  {
+    "actividad": "Ciclo ambiental - Velas",
+    "fecha": "2026-07-10",
+    "hora": "02:00 p.m. ",
+    "localidad": "Fontibón",
+    "barrio": "del barrio La Rosita",
+    "direccion": "",
+    "contacto": "Sandra Rodriguez 3209163105",
+    "enlace": ""
+  },
+  {
     "actividad": "Socialización Alcaldia Fontibón",
     "fecha": "2026-05-08",
     "hora": "02:00 p.m. ",
@@ -1115,6 +1275,16 @@
     "barrio": "",
     "direccion": "",
     "contacto": "Sandra Rodriguez 3209163105",
+    "enlace": ""
+  },
+  {
+    "actividad": "Ciclo ambiental - Terrarios",
+    "fecha": "2026-07-07",
+    "hora": "9:00 a.m. ",
+    "localidad": "Engativá",
+    "barrio": "del barrio La Granja",
+    "direccion": "",
+    "contacto": "Yisel Sierra 3102803999",
     "enlace": ""
   },
   {

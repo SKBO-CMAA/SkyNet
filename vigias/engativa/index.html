@@ -603,10 +603,7 @@ async function obtenerVisitas() {
 
 obtenerVisitas(); 
 
-</script>
-
-<script>
-    async function consultarVariablesCMAA() {
+async function consultarVariablesCMAA() {
         const CONTENEDOR = document.getElementById("contenedor-variables");
         const URL_API = "https://prod-ambiensqsuite.apigatewayk2.com/variables";
         const TIEMPO_CACHE = 5 * 60 * 1000; // 5 minutos en milisegundos
@@ -656,7 +653,7 @@ obtenerVisitas();
         }
     }
 
-    function renderizarCarrusel(variables) {
+function renderizarCarrusel(variables) {
         const CONTENEDOR = document.getElementById("contenedor-variables");
         CONTENEDOR.innerHTML = ""; // Limpiar spinner de carga
 
