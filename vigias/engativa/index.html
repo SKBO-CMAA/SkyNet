@@ -604,54 +604,60 @@ async function obtenerVisitas() {
 obtenerVisitas(); 
 
 async function consultarVariablesCMAA() {
-        const CONTENEDOR = document.getElementById("contenedor-variables");
-        const URL_API = "https://prod-ambiensqsuite.apigatewayk2.com/variables";
-        const TIEMPO_CACHE = 5 * 60 * 1000; // 5 minutos en milisegundos
+    const CONTENEDOR = document.getElementById("contenedor-variables");
+    // Endpoint de tu Cloudflare Worker
+    const URL_WORKER = "https://engativa.goldenairsound.workers.dev";
+    const TIEMPO_CACHE = 5 * 60 * 1000; // 5 minutos de caché
 
-        // 1. Control de Caché en LocalStorage para respetar los 5 min de la API
-        const ultimaConsulta = localStorage.getItem("cmaa_last_fetch");
-        const datosGuardados = localStorage.getItem("cmaa_variables_data");
-        const ahora = new Date().getTime();
+    // 1. Control de Caché en LocalStorage
+    const ultimaConsulta = localStorage.getItem("cmaa_last_fetch");
+    const datosGuardados = localStorage.getItem("cmaa_variables_data");
+    const ahora = new Date().getTime();
 
-        if (ultimaConsulta && datosGuardados && (ahora - ultimaConsulta < TIEMPO_CACHE)) {
-            console.log("CMAA: Cargando variables desde caché local.");
-            renderizarCarrusel(JSON.parse(datosGuardados));
-            return;
+    if (ultimaConsulta && datosGuardados && (ahora - ultimaConsulta < TIEMPO_CACHE)) {
+        console.log("CMAA: Cargando variables desde caché local.");
+        renderizarCarrusel(JSON.parse(datosGuardados));
+        return;
+    }
+
+    // 2. Consulta al Cloudflare Worker
+    try {
+        const response = await fetch(URL_WORKER, {
+            method: 'GET',
+            headers: {
+                'accept': 'application/json'
+            }
+        });
+
+        if (!response.ok) throw new Error(`Error HTTP: ${response.status}`);
+        
+        const json = await response.json();
+        
+        // Maneja la respuesta según el formato retornado por tu Worker (json.data o el array directo)
+        const variables = json.data ? json.data : json;
+
+        if (Array.isArray(variables) && variables.length > 0) {
+            localStorage.setItem("cmaa_variables_data", JSON.stringify(variables));
+            localStorage.setItem("cmaa_last_fetch", ahora.toString());
+            renderizarCarrusel(variables);
+        } else {
+            throw new Error("Formato de datos no válido o vacío");
         }
-
-        // 2. Consulta real a la API si expiró la caché
-        try {
-            const response = await fetch(URL_API, {
-                method: 'GET',
-                headers: {
-                    'accept': 'application/json',
-                    'x-token': 'Ztb5485vyKQ1HEBS1tSFabrjWazbGnmt,JmCvKc0WT356bRXnEB7hqBFpcVquP6t4'
-                }
-            });
-
-            if (!response.ok) throw new Error(`Error HTTP: ${response.status}`);
-            
-            const json = await response.json();
-            
-            if (json && json.data) {
-                localStorage.setItem("cmaa_variables_data", JSON.stringify(json.data));
-                localStorage.setItem("cmaa_last_fetch", ahora.toString());
-                renderizarCarrusel(json.data);
-            }
-        } catch (error) {
-            console.error("Error consultando la API de variables:", error);
-            // Si la API falla pero tenemos datos viejos, los mostramos por resiliencia
-            if (datosGuardados) {
-                renderizarCarrusel(JSON.parse(datosGuardados));
-            } else {
-                CONTENEDOR.innerHTML = `
-                    <div class="carousel-item active text-center py-3">
-                        <h4 class="text-danger">⚠️</h4>
-                        <p class="small-text">No se pudieron cargar las variables en este momento.</p>
-                    </div>`;
-            }
+    } catch (error) {
+        console.error("Error consultando el Worker de Cloudflare:", error);
+        
+        // Si falla la consulta pero hay datos previos en caché, se muestran
+        if (datosGuardados) {
+            renderizarCarrusel(JSON.parse(datosGuardados));
+        } else {
+            CONTENEDOR.innerHTML = `
+                <div class="carousel-item active text-center py-3">
+                    <h4 class="text-danger">⚠️</h4>
+                    <p class="small-text">No se pudieron cargar las variables en este momento.</p>
+                </div>`;
         }
     }
+}
 
 function renderizarCarrusel(variables) {
         const CONTENEDOR = document.getElementById("contenedor-variables");
