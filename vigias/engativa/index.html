@@ -632,9 +632,10 @@ async function consultarVariablesCMAA() {
         if (!response.ok) throw new Error(`Error HTTP: ${response.status}`);
         
         const json = await response.json();
-        
-        // Maneja la respuesta según el formato retornado por tu Worker (json.data o el array directo)
-        const variables = json.data ? json.data : json;
+
+        // El Worker devuelve un objeto plano { timestamp, T, PM10, CO, SO2, NO2 }
+        // Lo transformamos al formato de array que espera el carrusel
+        const variables = mapearVariablesWorker(json);
 
         if (Array.isArray(variables) && variables.length > 0) {
             localStorage.setItem("cmaa_variables_data", JSON.stringify(variables));
@@ -657,6 +658,35 @@ async function consultarVariablesCMAA() {
                 </div>`;
         }
     }
+}
+
+// Catálogo de variables devueltas por el Worker de Engativá
+const CATALOGO_VARIABLES = {
+    "T":    { component: "Meteorología", name: "Temperatura",           initials: "T",    unidad: "°C" },
+    "PM10": { component: "Aire",         name: "Material Particulado (PM10)", initials: "PM10", unidad: "µg/m³" },
+    "CO":   { component: "Aire",         name: "Monóxido de Carbono",   initials: "CO",   unidad: "µg/m³" },
+    "SO2":  { component: "Aire",         name: "Dióxido de Azufre",     initials: "SO2",  unidad: "µg/m³" },
+    "NO2":  { component: "Aire",         name: "Dióxido de Nitrógeno",  initials: "NO2",  unidad: "µg/m³" },
+};
+
+function mapearVariablesWorker(json) {
+    const resultado = [];
+
+    for (const [clave, valor] of Object.entries(json)) {
+        if (clave === "timestamp") continue; // no es una variable, es el sello de tiempo
+        if (typeof valor !== "number") continue;
+
+        const info = CATALOGO_VARIABLES[clave];
+        if (!info) continue; // ignora variables desconocidas en vez de romper el carrusel
+
+        resultado.push({
+            component: info.component,
+            name: info.name,
+            initials: `${valor.toFixed(1)} ${info.unidad}`, // muestra el valor con su unidad
+        });
+    }
+
+    return resultado;
 }
 
 function renderizarCarrusel(variables) {
