@@ -1038,13 +1038,133 @@
     "enlace": ""
   },
   {
-    "actividad": "Recorrido y seguimiento buzones",
+    "actividad": "Recorrido y seguimiento buzones Taller semillero",
     "fecha": "2026-08-27",
-    "hora": "",
+    "hora": "09:00 a.m. ",
     "localidad": "Funza",
     "barrio": "de la Vereda San Isidro, Tienda Nueva, Alcaldia y Hato Casa Blanca",
     "direccion": "",
     "contacto": "Carolina Villarraga 3209163131",
+    "enlace": ""
+  },
+  {
+    "actividad": "Acercamiento JAC",
+    "fecha": "2026-08-14",
+    "hora": "",
+    "localidad": "Funza",
+    "barrio": "del barrio El Coclí",
+    "direccion": "",
+    "contacto": "Carolina Villarraga 3209163131",
+    "enlace": ""
+  },
+  {
+    "actividad": "Acercamiento JAC",
+    "fecha": "2026-08-18",
+    "hora": "",
+    "localidad": "Funza",
+    "barrio": "del barrio Tienda Nueva",
+    "direccion": "",
+    "contacto": "Carolina Villarraga 3209163131",
+    "enlace": ""
+  },
+  {
+    "actividad": "Acercamiento JAC",
+    "fecha": "2026-08-19",
+    "hora": "",
+    "localidad": "Funza",
+    "barrio": "del barrio Hato Casa Blanca",
+    "direccion": "",
+    "contacto": "Carolina Villarraga 3209163131",
+    "enlace": ""
+  },
+  {
+    "actividad": "Acercamiento Gestión PROCEDA",
+    "fecha": "2026-08-28",
+    "hora": "08:00 a.m. ",
+    "localidad": "Funza",
+    "barrio": "del barrio La Florida",
+    "direccion": "",
+    "contacto": "Carolina Villarraga 3209163131",
+    "enlace": ""
+  },
+  {
+    "actividad": "Acercamiento JAC",
+    "fecha": "2026-08-20",
+    "hora": "",
+    "localidad": "Funza",
+    "barrio": "del barrio La Isla",
+    "direccion": "",
+    "contacto": "Carolina Villarraga 3209163131",
+    "enlace": ""
+  },
+  {
+    "actividad": "Acercamiento JAC",
+    "fecha": "2026-08-21",
+    "hora": "",
+    "localidad": "Funza",
+    "barrio": "del barrio San Isidro",
+    "direccion": "",
+    "contacto": "Carolina Villarraga 3209163131",
+    "enlace": ""
+  },
+  {
+    "actividad": "Reunión Secretaria Ambiente",
+    "fecha": "2026-08-25",
+    "hora": "09:00 a.m. ",
+    "localidad": "Funza",
+    "barrio": "",
+    "direccion": "",
+    "contacto": "Carolina Villarraga 3209163131",
+    "enlace": ""
+  },
+  {
+    "actividad": "Reunión Secretaria Educación",
+    "fecha": "2026-08-25",
+    "hora": "02:00 p.m. ",
+    "localidad": "Funza",
+    "barrio": "",
+    "direccion": "",
+    "contacto": "Carolina Villarraga 3209163131",
+    "enlace": ""
+  },
+  {
+    "actividad": "Logistica Humedal Guali (Semillero)",
+    "fecha": "2026-08-26",
+    "hora": "",
+    "localidad": "Funza",
+    "barrio": "del barrio El Coclí",
+    "direccion": "",
+    "contacto": "Carolina Villarraga 3209163131",
+    "enlace": ""
+  },
+  {
+    "actividad": "Acercamiento JAC",
+    "fecha": "2026-08-20",
+    "hora": "",
+    "localidad": "Engativá",
+    "barrio": "del barrio Mirador",
+    "direccion": "",
+    "contacto": "Yisel Sierra 3102803999",
+    "enlace": ""
+  },
+  {
+    "actividad": "Acercamiento JAC",
+    "fecha": "2026-08-26",
+    "hora": "",
+    "localidad": "Engativá",
+    "barrio": "del barrio La Cabaña y El Real",
+    "direccion": "",
+    "contacto": "Yisel Sierra 3102803999",
+    "enlace": ""
+  },
+  {
+    "actividad": "Acercamiento JAC",
+    "fecha": "2026-08-24",
+    "hora": "",
+    "localidad": "Engativá",
+    "barrio": "del barrio El Lujan y Acapulco",
+    "direccion": "",
+    "contacto": "Yisel Sierra 3102803999",
     "enlace": ""
   },
   {
@@ -1230,9 +1350,9 @@
   {
     "actividad": "Taller ciclo ambiental - Terrarios",
     "fecha": "2026-08-28",
-    "hora": "",
+    "hora": "09:00 a.m. ",
     "localidad": "Engativá",
-    "barrio": "en San Antonio Norte",
+    "barrio": "en El Dorado San Antonio Norte",
     "direccion": "",
     "contacto": "Yisel Sierra 3102803999",
     "enlace": ""
@@ -1250,7 +1370,7 @@
   {
     "actividad": "Reciclaje creativo - Programa Peligro Aviar",
     "fecha": "2026-08-24",
-    "hora": "",
+    "hora": "09:00 a.m. ",
     "localidad": "Engativá",
     "barrio": "en el barrio Villa Claver",
     "direccion": "",
@@ -1258,9 +1378,19 @@
     "enlace": ""
   },
   {
-    "actividad": "Taller Ciclo Ambiental - Velas",
-    "fecha": "2026-08-26",
+    "actividad": "Acercamiento JAC",
+    "fecha": "2026-08-14",
     "hora": "",
+    "localidad": "Fontibón",
+    "barrio": "del barrio Internacional",
+    "direccion": "",
+    "contacto": "Sandra Rodriguez 3209163105",
+    "enlace": ""
+  },
+  {
+    "actividad": "Velas Artesanales",
+    "fecha": "2026-08-28",
+    "hora": "09:00 a.m. ",
     "localidad": "Fontibón",
     "barrio": "del barrio La Isla",
     "direccion": "",
@@ -1268,9 +1398,29 @@
     "enlace": ""
   },
   {
+    "actividad": "Acercamiento JAC",
+    "fecha": "2026-08-18",
+    "hora": "",
+    "localidad": "Fontibón",
+    "barrio": "del barrio Ferrocaja",
+    "direccion": "",
+    "contacto": "Sandra Rodriguez 3209163105",
+    "enlace": ""
+  },
+  {
+    "actividad": "Taller Ciclo Ambiental - Velas",
+    "fecha": "2026-08-27",
+    "hora": "09:00 a.m. ",
+    "localidad": "Engativá",
+    "barrio": "del barrio San Jose - Semillero",
+    "direccion": "",
+    "contacto": "Yisel Sierra 3102803999",
+    "enlace": ""
+  },
+  {
     "actividad": "Taller Aceite Reciclable - Jabones",
     "fecha": "2026-08-21",
-    "hora": "",
+    "hora": "02:30 p.m. ",
     "localidad": "Fontibón",
     "barrio": "del barrio Veralles",
     "direccion": "",
@@ -1278,9 +1428,9 @@
     "enlace": ""
   },
   {
-    "actividad": "Taller Avifauna Secretaria Distrital de Ambiente",
+    "actividad": "Taller Avifauna SDA",
     "fecha": "2026-08-26",
-    "hora": "",
+    "hora": "10:30 a.m. ",
     "localidad": "Fontibón",
     "barrio": "del barrio Los barrios Ofir y El Trebol",
     "direccion": "",
@@ -1288,9 +1438,9 @@
     "enlace": ""
   },
   {
-    "actividad": "Boletín Informativo",
+    "actividad": "Al Boletín Ambiental",
     "fecha": "2026-08-25",
-    "hora": "",
+    "hora": "11:00 a.m. ",
     "localidad": "Fontibón",
     "barrio": " Colegio instituto técnico internacional",
     "direccion": "",
