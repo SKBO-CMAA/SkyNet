@@ -928,6 +928,66 @@
     "enlace": ""
   },
   {
+    "actividad": "Acercamiento JAC",
+    "fecha": "2026-09-15",
+    "hora": "",
+    "localidad": "Funza",
+    "barrio": "Al Funza",
+    "direccion": "",
+    "contacto": "Carolina Villarraga 3209163131",
+    "enlace": ""
+  },
+  {
+    "actividad": "Taller ¡Separa para transformar! El viaje de los residuos",
+    "fecha": "2026-09-16",
+    "hora": "",
+    "localidad": "Funza",
+    "barrio": "de la Vereda San Isidro",
+    "direccion": "",
+    "contacto": "Carolina Villarraga 3209163131",
+    "enlace": ""
+  },
+  {
+    "actividad": "Taller Jabones Artesanales - Glicerina ",
+    "fecha": "2026-09-17",
+    "hora": "",
+    "localidad": "Funza",
+    "barrio": "de la Vereda Tienda Nueva",
+    "direccion": "",
+    "contacto": "Carolina Villarraga 3209163131",
+    "enlace": ""
+  },
+  {
+    "actividad": "Taller Ciclo Ambiental - Velas",
+    "fecha": "2026-09-17",
+    "hora": "",
+    "localidad": "Funza",
+    "barrio": "de la Vereda Hato Casablanca",
+    "direccion": "",
+    "contacto": "Carolina Villarraga 3209163131",
+    "enlace": ""
+  },
+  {
+    "actividad": "Socialización Peligro Aviar",
+    "fecha": "2026-09-15",
+    "hora": "",
+    "localidad": "Engativá",
+    "barrio": "del barrio La Estradita",
+    "direccion": "",
+    "contacto": "Yisel Sierra 3102803999",
+    "enlace": ""
+  },
+  {
+    "actividad": "Taller Ruido Aeronáutico",
+    "fecha": "2026-09-18",
+    "hora": "",
+    "localidad": "Engativá",
+    "barrio": "del barrio El Paseo",
+    "direccion": "",
+    "contacto": "Yisel Sierra 3102803999",
+    "enlace": ""
+  },
+  {
     "actividad": "Visita al simulador CEA",
     "fecha": "2026-06-05",
     "hora": "08:00 a.m. ",
@@ -1128,6 +1188,36 @@
     "enlace": ""
   },
   {
+    "actividad": "Expedición Gualí descubriendo la biodiversidad que nos une",
+    "fecha": "2026-09-24",
+    "hora": "",
+    "localidad": "Funza",
+    "barrio": "Semillero de investigación",
+    "direccion": "",
+    "contacto": "Carolina Villarraga 3209163131",
+    "enlace": ""
+  },
+  {
+    "actividad": "Recorrido y seguimiento buzones",
+    "fecha": "2026-09-24",
+    "hora": "",
+    "localidad": "Funza",
+    "barrio": "de la Vereda San Isidro, Tienda Nueva, Alcaldia y Hato Casa Blanca",
+    "direccion": "",
+    "contacto": "Carolina Villarraga 3209163131",
+    "enlace": ""
+  },
+  {
+    "actividad": "Reunión semestral con comunidad CMAA y PMA",
+    "fecha": "2026-09-25",
+    "hora": "",
+    "localidad": "Funza",
+    "barrio": "de la Vereda San Isidro",
+    "direccion": "",
+    "contacto": "Carolina Villarraga 3209163131",
+    "enlace": ""
+  },
+  {
     "actividad": "Acercamiento JAC",
     "fecha": "2026-08-20",
     "hora": "",
@@ -1143,6 +1233,16 @@
     "hora": "",
     "localidad": "Engativá",
     "barrio": "del barrio La Cabaña y El Real",
+    "direccion": "",
+    "contacto": "Yisel Sierra 3102803999",
+    "enlace": ""
+  },
+  {
+    "actividad": "Reunión Vigía Ambiental - Centro Comercial Nuestro Bogotá",
+    "fecha": "2026-09-11",
+    "hora": "",
+    "localidad": "Engativá",
+    "barrio": "Reunión Virtual",
     "direccion": "",
     "contacto": "Yisel Sierra 3102803999",
     "enlace": ""
@@ -1388,11 +1488,111 @@
     "enlace": ""
   },
   {
+    "actividad": "Reciclaje creativo - Programa Peligro Aviar",
+    "fecha": "2026-09-21",
+    "hora": "",
+    "localidad": "Fontibón",
+    "barrio": "del colegio instituto técnico internacional",
+    "direccion": "",
+    "contacto": "Sandra Rodriguez 3209163105",
+    "enlace": ""
+  },
+  {
+    "actividad": "Taller Jabones Artesanales - Glicerina ",
+    "fecha": "2026-09-23",
+    "hora": "",
+    "localidad": "Fontibón",
+    "barrio": "del barrio Arabia",
+    "direccion": "",
+    "contacto": "Sandra Rodriguez 3209163105",
+    "enlace": ""
+  },
+  {
+    "actividad": "Capacitación Huerta Comunitaria",
+    "fecha": "2026-09-24",
+    "hora": "",
+    "localidad": "Fontibón",
+    "barrio": "del barrio Cofradia",
+    "direccion": "",
+    "contacto": "Sandra Rodriguez 3209163105",
+    "enlace": ""
+  },
+  {
+    "actividad": "Reuniones Informativas y Participativas con el CCA",
+    "fecha": "2026-09-25",
+    "hora": "",
+    "localidad": "Fontibón",
+    "barrio": "en el barrio Ferrocaja",
+    "direccion": "",
+    "contacto": "Sandra Rodriguez 3209163105",
+    "enlace": ""
+  },
+  {
+    "actividad": "Taller Aceite Reciclable - Jabones",
+    "fecha": "2026-09-29",
+    "hora": "",
+    "localidad": "Fontibón",
+    "barrio": "en el CCA",
+    "direccion": "",
+    "contacto": "Sandra Rodriguez 3209163105",
+    "enlace": ""
+  },
+  {
     "actividad": "Taller Ciclo Ambiental - Velas",
     "fecha": "2026-08-27",
     "hora": "09:00 a.m. ",
     "localidad": "Engativá",
     "barrio": "del barrio San Jose - Semillero",
+    "direccion": "",
+    "contacto": "Yisel Sierra 3102803999",
+    "enlace": ""
+  },
+  {
+    "actividad": "Taller Ciclo Ambiental - Velas Artesanales",
+    "fecha": "2026-09-29",
+    "hora": "",
+    "localidad": "Engativá",
+    "barrio": "de la fundación barrio el Dorado San Antonio",
+    "direccion": "",
+    "contacto": "Yisel Sierra 3102803999",
+    "enlace": ""
+  },
+  {
+    "actividad": "Feria de Emprendimiento",
+    "fecha": "2026-09-23",
+    "hora": " ",
+    "localidad": "Engativá",
+    "barrio": "Barrios Engativá",
+    "direccion": "",
+    "contacto": "Yisel Sierra 3102803999",
+    "enlace": ""
+  },
+  {
+    "actividad": "Feria de Emprendimiento",
+    "fecha": "2026-09-24",
+    "hora": " ",
+    "localidad": "Engativá",
+    "barrio": "Barrios Engativá",
+    "direccion": "",
+    "contacto": "Yisel Sierra 3102803999",
+    "enlace": ""
+  },
+  {
+    "actividad": "Feria de Emprendimiento",
+    "fecha": "2026-09-25",
+    "hora": " ",
+    "localidad": "Engativá",
+    "barrio": "Barrios Engativá",
+    "direccion": "",
+    "contacto": "Yisel Sierra 3102803999",
+    "enlace": ""
+  },
+  {
+    "actividad": "Taller Ciclo Ambiental - Jabones Artesanales",
+    "fecha": "2026-09-22",
+    "hora": "",
+    "localidad": "Engativá",
+    "barrio": "del barrio San Jose de la Granja",
     "direccion": "",
     "contacto": "Yisel Sierra 3102803999",
     "enlace": ""
