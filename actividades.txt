@@ -1,0 +1,220 @@
+{
+  "actividad": "Taller Jabones Artesanales -Glicerina",
+  "fecha": "2026-10-21",
+  "hora": "",
+  "localidad": "Fontibón",
+  "barrio": "Atahualpa",
+  "direccion": "",
+  "contacto": "Sandra Rodriguez 3209163105",
+  "enlace": ""
+},
+{
+  "actividad": "Taller Ciclo Ambiental - Jabones Artesanales",
+  "fecha": "2026-10-09",
+  "hora": "",
+  "localidad": "Engativá",
+  "barrio": "Villa el Dorado Norte",
+  "direccion": "",
+  "contacto": "Yisel Sierra 3102803999",
+  "enlace": ""
+},
+{
+  "actividad": "Taller Ciclo Ambiental - Corte de Botellas",
+  "fecha": "2026-10-29",
+  "hora": "",
+  "localidad": "Funza",
+  "barrio": "San Isidro - El Coclí",
+  "direccion": "",
+  "contacto": "Carolina Villarraga 3209163131",
+  "enlace": ""
+},
+{
+  "actividad": "Taller Cliclo Ambiental - Velas",
+  "fecha": "2026-10-20",
+  "hora": "",
+  "localidad": "Fontibón",
+  "barrio": "Veracruz",
+  "direccion": "",
+  "contacto": "Sandra Rodriguez 3209163105",
+  "enlace": ""
+},
+{
+  "actividad": "Taller Ciclo Ambiental - Velas Artesanales",
+  "fecha": "2026-10-13",
+  "hora": "",
+  "localidad": "Engativá",
+  "barrio": "El Real",
+  "direccion": "",
+  "contacto": "Yisel Sierra 3102803999",
+  "enlace": ""
+},
+{
+  "actividad": "Taller Aceite Reciclable - Jabones",
+  "fecha": "2026-10-14",
+  "hora": "",
+  "localidad": "Fontibón",
+  "barrio": "Cambulos",
+  "direccion": "",
+  "contacto": "Sandra Rodriguez 3209163105",
+  "enlace": ""
+},
+{
+  "actividad": "Taller Ciclo Ambiental - Aceite Reciclable",
+  "fecha": "2026-10-22",
+  "hora": "",
+  "localidad": "Engativá",
+  "barrio": "Alamos",
+  "direccion": "",
+  "contacto": "Yisel Sierra 3102803999",
+  "enlace": ""
+},
+{
+  "actividad": "Reciclaje creativo - Programa Peligro aviar",
+  "fecha": "2026-10-26",
+  "hora": "",
+  "localidad": "Engativá",
+  "barrio": "San Jose de la granja",
+  "direccion": "",
+  "contacto": "Yisel Sierra 3102803999",
+  "enlace": ""
+},
+{
+  "actividad": "Taller Ruido Aeronáutico",
+  "fecha": "2026-10-22",
+  "hora": "",
+  "localidad": "Fontibón",
+  "barrio": "colegio instituto técnico internacional",
+  "direccion": "",
+  "contacto": "Sandra Rodriguez 3209163105",
+  "enlace": ""
+},
+{
+  "actividad": "Cierre - Semillero de Investigación - Parque Jaime Duque",
+  "fecha": "2026-10-30",
+  "hora": "",
+  "localidad": "Funza",
+  "barrio": "El coclí",
+  "direccion": "",
+  "contacto": "Carolina Villarraga 3209163131",
+  "enlace": ""
+},
+{
+  "actividad": "Acercamientos JAC",
+  "fecha": "2026-10-21",
+  "hora": "",
+  "localidad": "Funza",
+  "barrio": "AI Funza",
+  "direccion": "",
+  "contacto": "Carolina Villarraga 3209163131",
+  "enlace": ""
+},
+{
+  "actividad": "Taller ¡Separa para transformar! El viaje de los residuos",
+  "fecha": "2026-10-22",
+  "hora": "",
+  "localidad": "Funza",
+  "barrio": "Vereda San Ramon Isector",
+  "direccion": "",
+  "contacto": "Carolina Villarraga 3209163131",
+  "enlace": ""
+},
+{
+  "actividad": "Recorrido y seguimiento buzones",
+  "fecha": "2026-10-27",
+  "hora": "",
+  "localidad": "Funza",
+  "barrio": "Vereda San Isidro, Tienda Nueva, Alcaldia y Hato Casa Blanca",
+  "direccion": "",
+  "contacto": "Carolina Villarraga 3209163131",
+  "enlace": ""
+},
+{
+  "actividad": "Socialización plan de gestion del riesgo",
+  "fecha": "2026-10-20",
+  "hora": "",
+  "localidad": "Funza",
+  "barrio": "Concejo Municipal",
+  "direccion": "",
+  "contacto": "Carolina Villarraga 3209163131",
+  "enlace": ""
+},
+{
+  "actividad": "Espacio de sensibilización del cuidado del planeta y del agua en Aeropuerto el Dorado - Visita Aeropuerto El Dorado",
+  "fecha": "2026-10-01",
+  "hora": "",
+  "localidad": "Fontibón",
+  "barrio": "CCA",
+  "direccion": "",
+  "contacto": "Sandra Rodriguez 3209163105",
+  "enlace": ""
+},
+{
+  "actividad": "Recorrido EMRI",
+  "fecha": "2026-10-21",
+  "hora": "",
+  "localidad": "Engativá",
+  "barrio": "Comunidad - JAC - CCA",
+  "direccion": "",
+  "contacto": "Yisel Sierra 3102803999",
+  "enlace": ""
+},
+{
+  "actividad": "Reunión semestral  con Autoridades",
+  "fecha": "2026-10-23",
+  "hora": "",
+  "localidad": "Engativá",
+  "barrio": "Alcaldía - Asojuntas",
+  "direccion": "",
+  "contacto": "Yisel Sierra 3102803999",
+  "enlace": ""
+},
+{
+  "actividad": "Reunión semestral  con JAC -  CMAA",
+  "fecha": "2026-10-28",
+  "hora": "",
+  "localidad": "Engativá",
+  "barrio": "Paseo, San Joaquín Norte, Acapulco, Cabaña, San Joaquin, Urb Acapulco, Los Almendros II, Bosque Popular, La Estrada, Palo Blanco, Santa Maria Del Lago, La Estradita, Reliquia, Laurel, Europa, Normandia, San Ignacio",
+  "direccion": "",
+  "contacto": "Yisel Sierra 3102803999",
+  "enlace": ""
+},
+{
+  "actividad": "Reciclaje creativo - Programa Peligro aviar",
+  "fecha": "2026-10-19",
+  "hora": "",
+  "localidad": "Fontibón",
+  "barrio": "Arabia",
+  "direccion": "",
+  "contacto": "Sandra Rodriguez 3209163105",
+  "enlace": ""
+},
+{
+  "actividad": "Bombero por un día CEA",
+  "fecha": "2026-10-30",
+  "hora": "",
+  "localidad": "Engativá",
+  "barrio": "Colegio Manuela Ayala de Gaitán",
+  "direccion": "",
+  "contacto": "Yisel Sierra 3102803999",
+  "enlace": ""
+},
+{
+  "actividad": "Acercamiento JAC",
+  "fecha": "2026-10-09",
+  "hora": "",
+  "localidad": "Engativá",
+  "barrio": "JAC Barrio Santa Cecilia",
+  "direccion": "",
+  "contacto": "Yisel Sierra 3102803999",
+  "enlace": ""
+},
+{
+  "actividad": "Entrega de Compost",
+  "fecha": "2026-10-01",
+  "hora": "",
+  "localidad": "Engativá",
+  "barrio": "Barrio Alamos - Huerta Semillas del Sol",
+  "direccion": "",
+  "contacto": "Yisel Sierra 3102803999",
+  "enlace": ""
+},
