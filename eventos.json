@@ -1748,7 +1748,7 @@
   "enlace": ""
 },
 {
-  "actividad": "Taller Cliclo Ambiental - Velas",
+  "actividad": "Taller Ciclo Ambiental - Velas",
   "fecha": "2026-10-20",
   "hora": "",
   "localidad": "Fontibón",
@@ -1935,6 +1935,256 @@
   "barrio": "Barrio Alamos - Huerta Semillas del Sol",
   "direccion": "",
   "contacto": "Yisel Sierra 3102803999",
+  "enlace": ""
+},
+{
+  "actividad": "Taller Ciclo Ambiental - Jabones",
+  "fecha": "2026-11-12",
+  "hora": "",
+  "localidad": "Fontibón",
+  "barrio": "Ferrocaja",
+  "direccion": "",
+  "contacto": "Sandra Rodriguez 3209163105",
+  "enlace": ""
+},
+{
+  "actividad": "Taller Ciclo Ambiental - jabones",
+  "fecha": "2026-11-24",
+  "hora": "",
+  "localidad": "Fontibón",
+  "barrio": "Hayuelos occidental",
+  "direccion": "",
+  "contacto": "Sandra Rodriguez 3209163105",
+  "enlace": ""
+},
+{
+  "actividad": "Taller Ciclo Ambiental - Jabones",
+  "fecha": "2026-11-25",
+  "hora": "",
+  "localidad": "Fontibón",
+  "barrio": "Atahualpa",
+  "direccion": "",
+  "contacto": "Sandra Rodriguez 3209163105",
+  "enlace": ""
+},
+{
+  "actividad": "Taller Ciclo Ambiental  - Aceite Reciclable",
+  "fecha": "2026-11-17",
+  "hora": "",
+  "localidad": "Fontibón",
+  "barrio": "Arabia",
+  "direccion": "",
+  "contacto": "Sandra Rodriguez 3209163105",
+  "enlace": ""
+},
+{
+  "actividad": "Taller Ciclo Ambiental - Aceite Reciclable",
+  "fecha": "2026-11-17",
+  "hora": "",
+  "localidad": "Engativá",
+  "barrio": "Viña del Mar",
+  "direccion": "",
+  "contacto": "Yisel Sierra 3102803999",
+  "enlace": ""
+},
+{
+  "actividad": "Taller Ciclo Ambiental  - Aceite Reciclable",
+  "fecha": "2026-11-10",
+  "hora": "",
+  "localidad": "Engativá",
+  "barrio": "El Real",
+  "direccion": "",
+  "contacto": "Yisel Sierra 3102803999",
+  "enlace": ""
+},
+{
+  "actividad": "Cierre - Semillero de Investigación - Parque Jaime Duque",
+  "fecha": "2026-11-13",
+  "hora": "",
+  "localidad": "Fontibón",
+  "barrio": "colegio instituto técnico internacional",
+  "direccion": "",
+  "contacto": "Sandra Rodriguez 3209163105",
+  "enlace": ""
+},
+{
+  "actividad": "Cierre - Semillero de Investigación - Parque Jaime Duque",
+  "fecha": "2026-11-13",
+  "hora": "",
+  "localidad": "Engativá",
+  "barrio": "San Jose de la granja",
+  "direccion": "",
+  "contacto": "Yisel Sierra 3102803999",
+  "enlace": ""
+},
+{
+  "actividad": "Acercamientos JAC",
+  "fecha": "2026-11-16",
+  "hora": "",
+  "localidad": "Funza",
+  "barrio": "AI Funza",
+  "direccion": "",
+  "contacto": "Carolina Villarraga 3209163131",
+  "enlace": ""
+},
+{
+  "actividad": "Taller Sensibilización Aceite Reciclable - Jabones",
+  "fecha": "2026-11-12",
+  "hora": "",
+  "localidad": "Funza",
+  "barrio": "San isidro",
+  "direccion": "",
+  "contacto": "Carolina Villarraga 3209163131",
+  "enlace": ""
+},
+{
+  "actividad": "Taller ¡Separa para transformar! El viaje de los residuos",
+  "fecha": "2026-11-12",
+  "hora": "",
+  "localidad": "Funza",
+  "barrio": "Vereda San Ramon II sector",
+  "direccion": "",
+  "contacto": "Carolina Villarraga 3209163131",
+  "enlace": ""
+},
+{
+  "actividad": "Taller ¡Separa para transformar! El viaje de los residuos",
+  "fecha": "2026-11-12",
+  "hora": "",
+  "localidad": "Funza",
+  "barrio": "Vereda Tienda Nueva",
+  "direccion": "",
+  "contacto": "Carolina Villarraga 3209163131",
+  "enlace": ""
+},
+{
+  "actividad": "Entrega de boletines y actualización en carteleras informativas",
+  "fecha": "2026-11-25",
+  "hora": "",
+  "localidad": "Funza",
+  "barrio": "AI Funza",
+  "direccion": "",
+  "contacto": "Carolina Villarraga 3209163131",
+  "enlace": ""
+},
+{
+  "actividad": "Recorrido y seguimiento buzones",
+  "fecha": "2026-11-25",
+  "hora": "",
+  "localidad": "Funza",
+  "barrio": "Vereda San Isidro, Tienda Nueva, Alcaldia y Hato Casa Blanca",
+  "direccion": "",
+  "contacto": "Carolina Villarraga 3209163131",
+  "enlace": ""
+},
+{
+  "actividad": "Reunión semestral  con comunidad CMAA",
+  "fecha": "2026-11-26",
+  "hora": "",
+  "localidad": "Fontibón",
+  "barrio": "Ferrocaja",
+  "direccion": "",
+  "contacto": "Sandra Rodriguez 3209163105",
+  "enlace": ""
+},
+{
+  "actividad": "Reunión semestral  con autoridades  CMAA",
+  "fecha": "2026-11-04",
+  "hora": "",
+  "localidad": "Fontibón",
+  "barrio": "Alcaldia Local de Fontibón",
+  "direccion": "",
+  "contacto": "Sandra Rodriguez 3209163105",
+  "enlace": ""
+},
+{
+  "actividad": "Actualización en carteleras informativas",
+  "fecha": "2026-11-10",
+  "hora": "",
+  "localidad": "Fontibón",
+  "barrio": "Barrios Fontibón AI",
+  "direccion": "",
+  "contacto": "Sandra Rodriguez 3209163105",
+  "enlace": ""
+},
+{
+  "actividad": "Reciclaje creativo - Programa Peligro aviar",
+  "fecha": "2026-11-23",
+  "hora": "",
+  "localidad": "Funza",
+  "barrio": "Hato Casa Blanca",
+  "direccion": "",
+  "contacto": "Carolina Villarraga 3209163131",
+  "enlace": ""
+},
+{
+  "actividad": "Socialización Peligro Aviar",
+  "fecha": "2026-11-25",
+  "hora": "",
+  "localidad": "Engativá",
+  "barrio": "Europa ó El Dorado San Antonio",
+  "direccion": "",
+  "contacto": "Yisel Sierra 3102803999",
+  "enlace": ""
+},
+{
+  "actividad": "Reunión semestral  con JAC -  CMAA",
+  "fecha": "2026-11-30",
+  "hora": "",
+  "localidad": "Engativá",
+  "barrio": "Mirador, Laureles, Engativa Centro, Villa El Dorado Norte, Verdún, Alamos, Muelle, Villa Gladys,",
+  "direccion": "",
+  "contacto": "Yisel Sierra 3102803999",
+  "enlace": ""
+},
+{
+  "actividad": "Reunión Vigía Ambiental - Centro Comercial Nuestro Bogotá",
+  "fecha": "2026-11-27",
+  "hora": "",
+  "localidad": "Engativá",
+  "barrio": "Reunión Virtual",
+  "direccion": "",
+  "contacto": "Yisel Sierra 3102803999",
+  "enlace": ""
+},
+{
+  "actividad": "Bombero por un día CEA",
+  "fecha": "2026-11-27",
+  "hora": "",
+  "localidad": "Funza",
+  "barrio": "Veredas Tienda Nueva, San Isidro y Hato Casa Blanca",
+  "direccion": "",
+  "contacto": "Carolina Villarraga 3209163131",
+  "enlace": ""
+},
+{
+  "actividad": "Bombero por un día CEA",
+  "fecha": "2026-11-06",
+  "hora": "",
+  "localidad": "Fontibón",
+  "barrio": "Colegio instituto técnico internacional",
+  "direccion": "",
+  "contacto": "Sandra Rodriguez 3209163105",
+  "enlace": ""
+},
+{
+  "actividad": "Reunión ASOVENIZA",
+  "fecha": "2026-11-19",
+  "hora": "",
+  "localidad": "Suba",
+  "barrio": "Asociación vecinos de NIZA",
+  "direccion": "",
+  "contacto": "",
+  "enlace": ""
+},
+{
+  "actividad": "Capacitación Aplicativo",
+  "fecha": "2026-11-18",
+  "hora": "",
+  "localidad": "Fontibón",
+  "barrio": "La Cabaña",
+  "direccion": "",
+  "contacto": "Sandra Rodriguez 3209163105",
   "enlace": ""
 }
 ]
